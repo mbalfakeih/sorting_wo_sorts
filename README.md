@@ -1,5 +1,5 @@
 # Sorting without Sorts Benchmarks
-This repository contains the benchmark files for the paper "Sorting without Sorts", that is the sortedness and multiset property conjectures of three popular sorting algorithms, namely Insertion Sort, Mergesort and Quicksort. 
+This repository contains the benchmark files for the paper "Sorting without Sorts", that is the sortedness and multiset property conjectures of three popular sorting algorithms, namely Insertion Sort, Mergesort and Quicksort and their respective automatically proven lemmas. 
 
 To run the benchmarks, we use the Vampire theorem prover branch supporting parameterized sorts and computation induction available at https://github.com/vprover/vampire/tree/rule-induction-sorting. 
 
