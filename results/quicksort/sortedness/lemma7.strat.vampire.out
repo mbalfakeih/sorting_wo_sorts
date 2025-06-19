@@ -1,0 +1,10 @@
+% Time limit reached!
+% ------------------------------
+% Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% Termination reason: Time limit
+% Termination phase: Saturation
+
+% Memory used [KB]: 170401
+% Time elapsed: 120.100 s
+% Instructions burned: 717819 (million)

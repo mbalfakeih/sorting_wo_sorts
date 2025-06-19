@@ -1,0 +1,574 @@
+% (47948)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=on:urr=on_89 on lemma2 for (89ds/0Mi)
+% (47949)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=off:urr=off_89 on lemma2 for (89ds/0Mi)
+% (47947)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=on:urr=off_89 on lemma2 for (89ds/0Mi)
+% (47950)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=off:urr=on_89 on lemma2 for (89ds/0Mi)
+% (47951)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=on:urr=off_89 on lemma2 for (89ds/0Mi)
+% (47952)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=on:urr=on_89 on lemma2 for (89ds/0Mi)
+% (47953)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=off:urr=off_89 on lemma2 for (89ds/0Mi)
+% (47955)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=on:urr=off_89 on lemma2 for (89ds/0Mi)
+% (47954)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=off:urr=on_89 on lemma2 for (89ds/0Mi)
+% (47957)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=off:urr=off_89 on lemma2 for (89ds/0Mi)
+% (47956)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=on:urr=on_89 on lemma2 for (89ds/0Mi)
+% (47958)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=off:urr=on_89 on lemma2 for (89ds/0Mi)
+% (47959)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=on:urr=off_89 on lemma2 for (89ds/0Mi)
+% (47960)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=on:urr=on_89 on lemma2 for (89ds/0Mi)
+% (47947)Refutation not found, non-redundant clauses discarded% (47947)------------------------------
+% (47947)Version: Vampire 4.7 (commit )
+% (47947)Linked with Z3 4.9.1.0  NOTFOUND
+% (47947)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (47947)Memory used [KB]: 64476
+% (47947)Time elapsed: 8.922 s
+% (47947)------------------------------
+% (47947)------------------------------
+% (47951)Refutation not found, non-redundant clauses discarded% (47951)------------------------------
+% (47951)Version: Vampire 4.7 (commit )
+% (47951)Linked with Z3 4.9.1.0  NOTFOUND
+% (47951)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (47951)Memory used [KB]: 112706
+% (47951)Time elapsed: 8.928 s
+% (47951)------------------------------
+% (47951)------------------------------
+% (47958)Refutation not found, non-redundant clauses discarded% (47958)------------------------------
+% (47958)Version: Vampire 4.7 (commit )
+% (47958)Linked with Z3 4.9.1.0  NOTFOUND
+% (47958)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (47958)Memory used [KB]: 86608
+% (47958)Time elapsed: 8.923 s
+% (47958)------------------------------
+% (47958)------------------------------
+% (47964)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=off:urr=off_89 on lemma2 for (89ds/0Mi)
+% (47959)Refutation not found, non-redundant clauses discarded% (47959)------------------------------
+% (47959)Version: Vampire 4.7 (commit )
+% (47959)Linked with Z3 4.9.1.0  NOTFOUND
+% (47959)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (47959)Memory used [KB]: 124091
+% (47959)Time elapsed: 8.942 s
+% (47959)------------------------------
+% (47959)------------------------------
+% (47965)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=off:urr=on_89 on lemma2 for (89ds/0Mi)
+% (47957)Refutation not found, non-redundant clauses discarded% (47957)------------------------------
+% (47957)Version: Vampire 4.7 (commit )
+% (47957)Linked with Z3 4.9.1.0  NOTFOUND
+% (47957)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (47957)Memory used [KB]: 79188
+% (47957)Time elapsed: 8.949 s
+% (47957)------------------------------
+% (47957)------------------------------
+% (47966)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=off:indao=on:urr=off_89 on lemma2 for (89ds/0Mi)
+% (47967)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=off:indao=on:urr=on_89 on lemma2 for (89ds/0Mi)
+% (47968)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=off:indao=off:urr=off_89 on lemma2 for (89ds/0Mi)
+% (47953)Time limit reached!
+% (47953)------------------------------
+% (47953)Version: Vampire 4.7 (commit )
+% (47953)Linked with Z3 4.9.1.0  NOTFOUND
+% (47953)Termination reason: Time limit
+% (47953)Termination phase: Saturation
+
+% (47953)Memory used [KB]: 121661
+% (47953)Time elapsed: 9.0000 s
+% (47953)------------------------------
+% (47953)------------------------------
+% (47950)Time limit reached!
+% (47950)------------------------------
+% (47950)Version: Vampire 4.7 (commit )
+% (47950)Linked with Z3 4.9.1.0  NOTFOUND
+% (47950)Termination reason: Time limit
+% (47950)Termination phase: Saturation
+
+% (47950)Memory used [KB]: 76118
+% (47950)Time elapsed: 9.0000 s
+% (47950)------------------------------
+% (47950)------------------------------
+% (47948)Time limit reached!
+% (47948)------------------------------
+% (47948)Version: Vampire 4.7 (commit )
+% (47952)Time limit reached!
+% (47952)------------------------------
+% (47952)Version: Vampire 4.7 (commit )
+% (47948)Linked with Z3 4.9.1.0  NOTFOUND
+% (47948)Termination reason: Time limit
+% (47948)Termination phase: Saturation
+
+% (47952)Linked with Z3 4.9.1.0  NOTFOUND
+% (47948)Memory used [KB]: 85840
+% (47952)Termination reason: Time limit
+% (47948)Time elapsed: 9.0000 s
+% (47952)Termination phase: Saturation
+% (47948)------------------------------
+% (47948)------------------------------
+
+% (47952)Memory used [KB]: 135605
+% (47952)Time elapsed: 9.0000 s
+% (47952)------------------------------
+% (47952)------------------------------
+% (47960)Time limit reached!
+% (47960)------------------------------
+% (47960)Version: Vampire 4.7 (commit )
+% (47960)Linked with Z3 4.9.1.0  NOTFOUND
+% (47960)Termination reason: Time limit
+% (47960)Termination phase: Saturation
+
+% (47960)Memory used [KB]: 127929
+% (47960)Time elapsed: 9.0000 s
+% (47960)------------------------------
+% (47960)------------------------------
+% (47956)Time limit reached!
+% (47956)------------------------------
+% (47956)Version: Vampire 4.7 (commit )
+% (47956)Linked with Z3 4.9.1.0  NOTFOUND
+% (47956)Termination reason: Time limit
+% (47956)Termination phase: Saturation
+
+% (47956)Memory used [KB]: 83410
+% (47956)Time elapsed: 9.0000 s
+% (47956)------------------------------
+% (47956)------------------------------
+% (47955)Time limit reached!
+% (47955)------------------------------
+% (47955)Version: Vampire 4.7 (commit )
+% (47955)Linked with Z3 4.9.1.0  NOTFOUND
+% (47955)Termination reason: Time limit
+% (47955)Termination phase: Saturation
+
+% (47955)Memory used [KB]: 66651
+% (47955)Time elapsed: 9.0000 s
+% (47955)------------------------------
+% (47955)------------------------------
+% (47954)Time limit reached!
+% (47954)------------------------------
+% (47954)Version: Vampire 4.7 (commit )
+% (47954)Linked with Z3 4.9.1.0  NOTFOUND
+% (47954)Termination reason: Time limit
+% (47954)Termination phase: Saturation
+
+% (47954)Memory used [KB]: 134837
+% (47954)Time elapsed: 9.0000 s
+% (47954)------------------------------
+% (47954)------------------------------
+% (47969)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=off:indao=off:urr=on_89 on lemma2 for (89ds/0Mi)
+% (47949)Refutation not found, non-redundant clauses discarded% (47949)------------------------------
+% (47949)Version: Vampire 4.7 (commit )
+% (47949)Linked with Z3 4.9.1.0  NOTFOUND
+% (47949)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (47949)Memory used [KB]: 80979
+% (47949)Time elapsed: 9.010 s
+% (47949)------------------------------
+% (47949)------------------------------
+% (47970)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=on:indao=on:urr=off_89 on lemma2 for (89ds/0Mi)
+% (47971)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=on:indao=on:urr=on_89 on lemma2 for (89ds/0Mi)
+% (47972)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=on:indao=off:urr=off_89 on lemma2 for (89ds/0Mi)
+% (47974)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=off:indao=on:urr=off_89 on lemma2 for (89ds/0Mi)
+% (47973)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=on:indao=off:urr=on_89 on lemma2 for (89ds/0Mi)
+% (47975)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=off:indao=on:urr=on_89 on lemma2 for (89ds/0Mi)
+% (47976)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=off:indao=off:urr=off_89 on lemma2 for (89ds/0Mi)
+% (47977)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=off:indao=off:urr=on_89 on lemma2 for (89ds/0Mi)
+% (47966)First to succeed.
+% (47966)Refutation found. Thanks to Tanya!
+% SZS status Unsatisfiable for lemma2
+% SZS output start Proof for lemma2
+6. filter_less(X0,X1,X2) = $match(X2,'Nil'(X0),'Nil'(X0),'Cons'(X0,X3,X4),$ite(less(X0,X3,X1), 'Cons'(X0,X3,filter_less(X0,X1,X4)),filter_less(X0,X1,X4))) [input]
+7. filter_ge(X0,X1,X2) = $match(X2,'Nil'(X0),'Nil'(X0),'Cons'(X0,X3,X4),$ite(~less(X0,X3,X1), 'Cons'(X0,X3,filter_ge(X0,X1,X4)),filter_ge(X0,X1,X4))) [input]
+8. append(X0,X1,X2) = $match(X1,'Nil'(X0),X2,'Cons'(X0,X3,X4),'Cons'(X0,X3,append(X0,X4,X2))) [input]
+13. filter_mset(X0,X1,X2) = $match(X2,'Nil'(X0),'Nil'(X0),'Cons'(X0,X3,X4),$ite(X1 = X3, 'Cons'(X0,X3,filter_mset(X0,X1,X4)),filter_mset(X0,X1,X4))) [input]
+14. ! [X0 : $tType] : ! [X2 : X0,X1 : X0,X3 : 'list()'(X0)] : append(X0,filter_mset(X0,X1,filter_less(X0,X2,X3)),filter_mset(X0,X1,filter_ge(X0,X2,X3))) = filter_mset(X0,X1,X3) [input]
+15. ~! [X0 : $tType] : ! [X2 : X0,X1 : X0,X3 : 'list()'(X0)] : append(X0,filter_mset(X0,X1,filter_less(X0,X2,X3)),filter_mset(X0,X1,filter_ge(X0,X2,X3))) = filter_mset(X0,X1,X3) [negated conjecture 14]
+22. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : X0,X0 : $tType] : filter_mset(X0,X1,X2) = $match(X2,'Nil'(X0),'Nil'(X0),'Cons'(X0,X3,X4),$ite(X1 = X3, 'Cons'(X0,X3,filter_mset(X0,X1,X4)),filter_mset(X0,X1,X4))) [closure 13]
+23. ! [X0 : $tType,X3 : X0,X1 : X0,X4 : 'list()'(X0),X2 : 'list()'(X0)] : ('Nil'(X0) = X2 => 'Nil'(X0) = mG0(X0,X3,X1,X4,X2)) [fool $match elimination 22]
+24. ! [X0 : $tType,X3 : X0,X1 : X0,X4 : 'list()'(X0)] : (X1 = X3 => 'Cons'(X0,X3,filter_mset(X0,X1,X4)) = iG1(X0,X3,X1,X4)) [fool $ite elimination 22]
+25. ! [X0 : $tType,X3 : X0,X1 : X0,X4 : 'list()'(X0)] : (~X1 = X3 => filter_mset(X0,X1,X4) = iG1(X0,X3,X1,X4)) [fool $ite elimination 22]
+26. ! [X0 : $tType,X3 : X0,X1 : X0,X4 : 'list()'(X0),X2 : 'list()'(X0)] : ('Cons'(X0,X3,X4) = X2 => mG0(X0,X3,X1,X4,X2) = iG1(X0,X3,X1,X4)) [fool $match elimination 22]
+27. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : X0,X0 : $tType] : filter_mset(X0,X1,X2) = mG0(X0,X3,X1,X4,X2) [fool elimination 22]
+44. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : 'list()'(X0),X0 : $tType] : append(X0,X1,X2) = $match(X1,'Nil'(X0),X2,'Cons'(X0,X3,X4),'Cons'(X0,X3,append(X0,X4,X2))) [closure 8]
+45. ! [X0 : $tType,X2 : 'list()'(X0),X4 : 'list()'(X0),X3 : X0,X1 : 'list()'(X0)] : ('Nil'(X0) = X1 => mG6(X0,X2,X4,X3,X1) = X2) [fool $match elimination 44]
+46. ! [X0 : $tType,X2 : 'list()'(X0),X4 : 'list()'(X0),X3 : X0,X1 : 'list()'(X0)] : ('Cons'(X0,X3,X4) = X1 => 'Cons'(X0,X3,append(X0,X4,X2)) = mG6(X0,X2,X4,X3,X1)) [fool $match elimination 44]
+47. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : 'list()'(X0),X0 : $tType] : append(X0,X1,X2) = mG6(X0,X2,X4,X3,X1) [fool elimination 44]
+48. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : X0,X0 : $tType] : filter_ge(X0,X1,X2) = $match(X2,'Nil'(X0),'Nil'(X0),'Cons'(X0,X3,X4),$ite(~less(X0,X3,X1), 'Cons'(X0,X3,filter_ge(X0,X1,X4)),filter_ge(X0,X1,X4))) [closure 7]
+49. ! [X0 : $tType,X1 : X0,X3 : X0,X4 : 'list()'(X0),X2 : 'list()'(X0)] : ('Nil'(X0) = X2 => 'Nil'(X0) = mG7(X0,X1,X3,X4,X2)) [fool $match elimination 48]
+50. ! [X0 : $tType,X1 : X0,X3 : X0,X4 : 'list()'(X0)] : (~less(X0,X3,X1) => 'Cons'(X0,X3,filter_ge(X0,X1,X4)) = iG8(X0,X1,X3,X4)) [fool $ite elimination 48]
+51. ! [X0 : $tType,X1 : X0,X3 : X0,X4 : 'list()'(X0)] : (~~less(X0,X3,X1) => filter_ge(X0,X1,X4) = iG8(X0,X1,X3,X4)) [fool $ite elimination 48]
+52. ! [X0 : $tType,X1 : X0,X3 : X0,X4 : 'list()'(X0),X2 : 'list()'(X0)] : ('Cons'(X0,X3,X4) = X2 => mG7(X0,X1,X3,X4,X2) = iG8(X0,X1,X3,X4)) [fool $match elimination 48]
+53. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : X0,X0 : $tType] : filter_ge(X0,X1,X2) = mG7(X0,X1,X3,X4,X2) [fool elimination 48]
+54. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : X0,X0 : $tType] : filter_less(X0,X1,X2) = $match(X2,'Nil'(X0),'Nil'(X0),'Cons'(X0,X3,X4),$ite(less(X0,X3,X1), 'Cons'(X0,X3,filter_less(X0,X1,X4)),filter_less(X0,X1,X4))) [closure 6]
+55. ! [X0 : $tType,X1 : X0,X3 : X0,X4 : 'list()'(X0),X2 : 'list()'(X0)] : ('Nil'(X0) = X2 => 'Nil'(X0) = mG9(X0,X1,X3,X4,X2)) [fool $match elimination 54]
+56. ! [X0 : $tType,X1 : X0,X3 : X0,X4 : 'list()'(X0)] : (less(X0,X3,X1) => 'Cons'(X0,X3,filter_less(X0,X1,X4)) = iG10(X0,X1,X3,X4)) [fool $ite elimination 54]
+57. ! [X0 : $tType,X1 : X0,X3 : X0,X4 : 'list()'(X0)] : (~less(X0,X3,X1) => filter_less(X0,X1,X4) = iG10(X0,X1,X3,X4)) [fool $ite elimination 54]
+58. ! [X0 : $tType,X1 : X0,X3 : X0,X4 : 'list()'(X0),X2 : 'list()'(X0)] : ('Cons'(X0,X3,X4) = X2 => mG9(X0,X1,X3,X4,X2) = iG10(X0,X1,X3,X4)) [fool $match elimination 54]
+59. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : X0,X0 : $tType] : filter_less(X0,X1,X2) = mG9(X0,X1,X3,X4,X2) [fool elimination 54]
+62. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Cons'(X0,X2,X3) = X4 => mG9(X0,X1,X2,X3,X4) = iG10(X0,X1,X2,X3)) [rectify 58]
+63. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (~less(X0,X2,X1) => iG10(X0,X1,X2,X3) = filter_less(X0,X1,X3)) [rectify 57]
+64. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (~less(X0,X2,X1) => iG10(X0,X1,X2,X3) = filter_less(X0,X1,X3)) [flattening 63]
+65. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (less(X0,X2,X1) => iG10(X0,X1,X2,X3) = 'Cons'(X0,X2,filter_less(X0,X1,X3))) [rectify 56]
+66. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Nil'(X0) = X4 => 'Nil'(X0) = mG9(X0,X1,X2,X3,X4)) [rectify 55]
+67. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Cons'(X0,X2,X3) = X4 => mG7(X0,X1,X2,X3,X4) = iG8(X0,X1,X2,X3)) [rectify 52]
+68. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (~~less(X0,X2,X1) => iG8(X0,X1,X2,X3) = filter_ge(X0,X1,X3)) [rectify 51]
+69. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (less(X0,X2,X1) => iG8(X0,X1,X2,X3) = filter_ge(X0,X1,X3)) [flattening 68]
+70. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (~less(X0,X2,X1) => iG8(X0,X1,X2,X3) = 'Cons'(X0,X2,filter_ge(X0,X1,X3))) [rectify 50]
+71. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (~less(X0,X2,X1) => iG8(X0,X1,X2,X3) = 'Cons'(X0,X2,filter_ge(X0,X1,X3))) [flattening 70]
+72. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Nil'(X0) = X4 => 'Nil'(X0) = mG7(X0,X1,X2,X3,X4)) [rectify 49]
+73. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : ('Cons'(X0,X3,X2) = X4 => 'Cons'(X0,X3,append(X0,X2,X1)) = mG6(X0,X1,X2,X3,X4)) [rectify 46]
+74. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : ('Nil'(X0) = X4 => mG6(X0,X1,X2,X3,X4) = X1) [rectify 45]
+87. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Cons'(X0,X1,X3) = X4 => mG0(X0,X1,X2,X3,X4) = iG1(X0,X1,X2,X3)) [rectify 26]
+88. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (~X1 = X2 => iG1(X0,X1,X2,X3) = filter_mset(X0,X2,X3)) [rectify 25]
+89. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (X1 != X2 => iG1(X0,X1,X2,X3) = filter_mset(X0,X2,X3)) [flattening 88]
+90. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (X1 = X2 => iG1(X0,X1,X2,X3) = 'Cons'(X0,X1,filter_mset(X0,X2,X3))) [rectify 24]
+91. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Nil'(X0) = X4 => 'Nil'(X0) = mG0(X0,X1,X2,X3,X4)) [rectify 23]
+92. ~! [X0 : $tType] : ! [X1 : X0,X2 : X0,X3 : 'list()'(X0)] : filter_mset(X0,X2,X3) = append(X0,filter_mset(X0,X2,filter_less(X0,X1,X3)),filter_mset(X0,X2,filter_ge(X0,X1,X3))) [rectify 15]
+93. ~! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : filter_mset(X0,X2,X3) = append(X0,filter_mset(X0,X2,filter_less(X0,X1,X3)),filter_mset(X0,X2,filter_ge(X0,X1,X3))) [flattening 92]
+94. ! [X0 : 'list()'(X4),X1 : X4,X2 : 'list()'(X4),X3 : X4,X4 : $tType] : filter_mset(X4,X3,X2) = mG0(X4,X1,X3,X0,X2) [rectify 27]
+99. ! [X0 : 'list()'(X4),X1 : X4,X2 : 'list()'(X4),X3 : 'list()'(X4),X4 : $tType] : append(X4,X3,X2) = mG6(X4,X2,X0,X1,X3) [rectify 47]
+100. ! [X0 : 'list()'(X4),X1 : X4,X2 : 'list()'(X4),X3 : X4,X4 : $tType] : filter_ge(X4,X3,X2) = mG7(X4,X3,X1,X0,X2) [rectify 53]
+101. ! [X0 : 'list()'(X4),X1 : X4,X2 : 'list()'(X4),X3 : X4,X4 : $tType] : filter_less(X4,X3,X2) = mG9(X4,X3,X1,X0,X2) [rectify 59]
+111. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : (mG9(X0,X1,X2,X3,X4) = iG10(X0,X1,X2,X3) | 'Cons'(X0,X2,X3) != X4) [ennf transformation 62]
+112. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (iG10(X0,X1,X2,X3) = filter_less(X0,X1,X3) | less(X0,X2,X1)) [ennf transformation 64]
+113. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (iG10(X0,X1,X2,X3) = 'Cons'(X0,X2,filter_less(X0,X1,X3)) | ~less(X0,X2,X1)) [ennf transformation 65]
+114. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Nil'(X0) = mG9(X0,X1,X2,X3,X4) | 'Nil'(X0) != X4) [ennf transformation 66]
+115. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : (mG7(X0,X1,X2,X3,X4) = iG8(X0,X1,X2,X3) | 'Cons'(X0,X2,X3) != X4) [ennf transformation 67]
+116. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (iG8(X0,X1,X2,X3) = filter_ge(X0,X1,X3) | ~less(X0,X2,X1)) [ennf transformation 69]
+117. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (iG8(X0,X1,X2,X3) = 'Cons'(X0,X2,filter_ge(X0,X1,X3)) | less(X0,X2,X1)) [ennf transformation 71]
+118. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Nil'(X0) = mG7(X0,X1,X2,X3,X4) | 'Nil'(X0) != X4) [ennf transformation 72]
+119. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : ('Cons'(X0,X3,append(X0,X2,X1)) = mG6(X0,X1,X2,X3,X4) | 'Cons'(X0,X3,X2) != X4) [ennf transformation 73]
+120. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : (mG6(X0,X1,X2,X3,X4) = X1 | 'Nil'(X0) != X4) [ennf transformation 74]
+129. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : (mG0(X0,X1,X2,X3,X4) = iG1(X0,X1,X2,X3) | 'Cons'(X0,X1,X3) != X4) [ennf transformation 87]
+130. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (iG1(X0,X1,X2,X3) = filter_mset(X0,X2,X3) | X1 = X2) [ennf transformation 89]
+131. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (iG1(X0,X1,X2,X3) = 'Cons'(X0,X1,filter_mset(X0,X2,X3)) | X1 != X2) [ennf transformation 90]
+132. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Nil'(X0) = mG0(X0,X1,X2,X3,X4) | 'Nil'(X0) != X4) [ennf transformation 91]
+133. ? [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : filter_mset(X0,X2,X3) != append(X0,filter_mset(X0,X2,filter_less(X0,X1,X3)),filter_mset(X0,X2,filter_ge(X0,X1,X3))) [ennf transformation 93]
+144. ? [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : filter_mset(X0,X2,X3) != append(X0,filter_mset(X0,X2,filter_less(X0,X1,X3)),filter_mset(X0,X2,filter_ge(X0,X1,X3))) => filter_mset(sK11,sK13,sK14) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK14)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [choice axiom]
+145. filter_mset(sK11,sK13,sK14) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK14)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [skolemisation 133,144]
+150. mG9(X0,X1,X2,X3,X4) = iG10(X0,X1,X2,X3) | 'Cons'(X0,X2,X3) != X4 [cnf transformation 111]
+151. iG10(X0,X1,X2,X3) = filter_less(X0,X1,X3) | less(X0,X2,X1) [cnf transformation 112]
+152. iG10(X0,X1,X2,X3) = 'Cons'(X0,X2,filter_less(X0,X1,X3)) | ~less(X0,X2,X1) [cnf transformation 113]
+153. 'Nil'(X0) = mG9(X0,X1,X2,X3,X4) | 'Nil'(X0) != X4 [cnf transformation 114]
+154. mG7(X0,X1,X2,X3,X4) = iG8(X0,X1,X2,X3) | 'Cons'(X0,X2,X3) != X4 [cnf transformation 115]
+155. iG8(X0,X1,X2,X3) = filter_ge(X0,X1,X3) | ~less(X0,X2,X1) [cnf transformation 116]
+156. iG8(X0,X1,X2,X3) = 'Cons'(X0,X2,filter_ge(X0,X1,X3)) | less(X0,X2,X1) [cnf transformation 117]
+157. 'Nil'(X0) = mG7(X0,X1,X2,X3,X4) | 'Nil'(X0) != X4 [cnf transformation 118]
+158. 'Cons'(X0,X3,append(X0,X2,X1)) = mG6(X0,X1,X2,X3,X4) | 'Cons'(X0,X3,X2) != X4 [cnf transformation 119]
+159. mG6(X0,X1,X2,X3,X4) = X1 | 'Nil'(X0) != X4 [cnf transformation 120]
+174. mG0(X0,X1,X2,X3,X4) = iG1(X0,X1,X2,X3) | 'Cons'(X0,X1,X3) != X4 [cnf transformation 129]
+175. iG1(X0,X1,X2,X3) = filter_mset(X0,X2,X3) | X1 = X2 [cnf transformation 130]
+176. iG1(X0,X1,X2,X3) = 'Cons'(X0,X1,filter_mset(X0,X2,X3)) | X1 != X2 [cnf transformation 131]
+177. 'Nil'(X0) = mG0(X0,X1,X2,X3,X4) | 'Nil'(X0) != X4 [cnf transformation 132]
+178. filter_mset(sK11,sK13,sK14) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK14)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [cnf transformation 145]
+179. filter_mset(X4,X3,X2) = mG0(X4,X1,X3,X0,X2) [cnf transformation 94]
+187. append(X4,X3,X2) = mG6(X4,X2,X0,X1,X3) [cnf transformation 99]
+188. filter_ge(X4,X3,X2) = mG7(X4,X3,X1,X0,X2) [cnf transformation 100]
+189. filter_less(X4,X3,X2) = mG9(X4,X3,X1,X0,X2) [cnf transformation 101]
+196. filter_less(X0,X1,X4) = iG10(X0,X1,X2,X3) | 'Cons'(X0,X2,X3) != X4 [definition unfolding 150,189]
+197. filter_less(X0,X1,X4) = 'Nil'(X0) | 'Nil'(X0) != X4 [definition unfolding 153,189]
+198. filter_ge(X0,X1,X4) = iG8(X0,X1,X2,X3) | 'Cons'(X0,X2,X3) != X4 [definition unfolding 154,188]
+199. 'Nil'(X0) = filter_ge(X0,X1,X4) | 'Nil'(X0) != X4 [definition unfolding 157,188]
+200. 'Cons'(X0,X3,append(X0,X2,X1)) = append(X0,X4,X1) | 'Cons'(X0,X3,X2) != X4 [definition unfolding 158,187]
+201. append(X0,X4,X1) = X1 | 'Nil'(X0) != X4 [definition unfolding 159,187]
+204. iG1(X0,X1,X2,X3) = filter_mset(X0,X2,X4) | 'Cons'(X0,X1,X3) != X4 [definition unfolding 174,179]
+205. 'Nil'(X0) = filter_mset(X0,X2,X4) | 'Nil'(X0) != X4 [definition unfolding 177,179]
+206. iG10(X0,X1,X2,X3) = filter_less(X0,X1,'Cons'(X0,X2,X3)) [equality resolution 196]
+207. 'Nil'(X0) = filter_less(X0,X1,'Nil'(X0)) [equality resolution 197]
+208. iG8(X0,X1,X2,X3) = filter_ge(X0,X1,'Cons'(X0,X2,X3)) [equality resolution 198]
+209. 'Nil'(X0) = filter_ge(X0,X1,'Nil'(X0)) [equality resolution 199]
+210. 'Cons'(X0,X3,append(X0,X2,X1)) = append(X0,'Cons'(X0,X3,X2),X1) [equality resolution 200]
+211. append(X0,'Nil'(X0),X1) = X1 [equality resolution 201]
+226. iG1(X0,X1,X2,X3) = filter_mset(X0,X2,'Cons'(X0,X1,X3)) [equality resolution 204]
+227. iG1(X0,X2,X2,X3) = 'Cons'(X0,X2,filter_mset(X0,X2,X3)) [equality resolution 176]
+228. 'Nil'(X0) = filter_mset(X0,X2,'Nil'(X0)) [equality resolution 205]
+229. less(X0,X2,X1) | filter_less(X0,X1,X3) = filter_less(X0,X1,'Cons'(X0,X2,X3)) [forward demodulation 151,206]
+230. ~less(X0,X2,X1) | 'Cons'(X0,X2,filter_less(X0,X1,X3)) = filter_less(X0,X1,'Cons'(X0,X2,X3)) [forward demodulation 152,206]
+231. ~less(X0,X2,X1) | filter_ge(X0,X1,X3) = filter_ge(X0,X1,'Cons'(X0,X2,X3)) [forward demodulation 155,208]
+232. less(X0,X2,X1) | 'Cons'(X0,X2,filter_ge(X0,X1,X3)) = filter_ge(X0,X1,'Cons'(X0,X2,X3)) [forward demodulation 156,208]
+233. filter_mset(X0,X2,X3) = filter_mset(X0,X2,'Cons'(X0,X1,X3)) | X1 = X2 [forward demodulation 175,226]
+317. 'Cons'(X0,X1,filter_mset(X0,X1,X2)) = filter_mset(X0,X1,'Cons'(X0,X1,X2)) [superposition 227,226]
+407. filter_ge(X0,X1,X2) = filter_ge(X0,X1,'Cons'(X0,X3,X2)) | filter_less(X0,X1,X4) = filter_less(X0,X1,'Cons'(X0,X3,X4)) [resolution 231,229]
+411. 'Cons'(X0,X1,filter_less(X0,X2,X3)) = filter_less(X0,X2,'Cons'(X0,X1,X3)) | filter_less(X0,X2,X4) = filter_less(X0,X2,'Cons'(X0,X1,X4)) [resolution 230,229]
+418. 'Cons'(X3,X4,filter_ge(X3,X5,X6)) = filter_ge(X3,X5,'Cons'(X3,X4,X6)) | 'Cons'(X3,X4,filter_less(X3,X5,X7)) = filter_less(X3,X5,'Cons'(X3,X4,X7)) [resolution 232,230]
+419. 'Cons'(X8,X9,filter_ge(X8,X10,X11)) = filter_ge(X8,X10,'Cons'(X8,X9,X11)) | filter_ge(X8,X10,X12) = filter_ge(X8,X10,'Cons'(X8,X9,X12)) [resolution 232,231]
+428. ! [X0 : sK11,X1 : 'list()'(sK11)] : (filter_mset(sK11,sK13,'Nil'(sK11)) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) & (filter_mset(sK11,sK13,X1) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,X1)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) => filter_mset(sK11,sK13,'Cons'(sK11,X0,X1)) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,X0,X1))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))))) => ! [X2 : 'list()'(sK11)] : filter_mset(sK11,sK13,X2) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,X2)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [structural induction hypothesis (one)]
+429. ! [X2 : 'list()'(sK11)] : filter_mset(sK11,sK13,X2) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,X2)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) | ? [X0 : sK11,X1 : 'list()'(sK11)] : (filter_mset(sK11,sK13,'Nil'(sK11)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) | (filter_mset(sK11,sK13,'Cons'(sK11,X0,X1)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,X0,X1))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) & filter_mset(sK11,sK13,X1) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,X1)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))))) [ennf transformation 428]
+430. filter_mset(sK11,sK13,sK17) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK17)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) | filter_mset(sK11,sK13,'Nil'(sK11)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) | filter_mset(sK11,sK13,X2) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,X2)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [cnf transformation 429]
+431. filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK16,sK17))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) | filter_mset(sK11,sK13,'Nil'(sK11)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) | filter_mset(sK11,sK13,X2) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,X2)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [cnf transformation 429]
+432. filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK16,sK17))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) | filter_mset(sK11,sK13,'Nil'(sK11)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [generalized induction hyperresolution 178,431]
+433. filter_mset(sK11,sK13,sK17) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK17)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) | filter_mset(sK11,sK13,'Nil'(sK11)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [generalized induction hyperresolution 178,430]
+434. ! [X0 : sK11,X1 : 'list()'(sK11)] : (filter_mset(sK11,sK13,'Nil'(sK11)) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11)))) & (filter_mset(sK11,sK13,X1) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,X1)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,X1))) => filter_mset(sK11,sK13,'Cons'(sK11,X0,X1)) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,X0,X1))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,X0,X1)))))) => ! [X2 : 'list()'(sK11)] : filter_mset(sK11,sK13,X2) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,X2)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,X2))) [structural induction hypothesis (one)]
+435. ! [X2 : 'list()'(sK11)] : filter_mset(sK11,sK13,X2) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,X2)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,X2))) | ? [X0 : sK11,X1 : 'list()'(sK11)] : (filter_mset(sK11,sK13,'Nil'(sK11)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11)))) | (filter_mset(sK11,sK13,'Cons'(sK11,X0,X1)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,X0,X1))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,X0,X1)))) & filter_mset(sK11,sK13,X1) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,X1)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,X1))))) [ennf transformation 434]
+436. filter_mset(sK11,sK13,sK19) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19))) | filter_mset(sK11,sK13,'Nil'(sK11)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11)))) | filter_mset(sK11,sK13,X2) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,X2)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,X2))) [cnf transformation 435]
+437. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK18,sK19))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,sK19)))) | filter_mset(sK11,sK13,'Nil'(sK11)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11)))) | filter_mset(sK11,sK13,X2) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,X2)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,X2))) [cnf transformation 435]
+438. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK18,sK19))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,sK19)))) | filter_mset(sK11,sK13,'Nil'(sK11)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11)))) [induction hyperresolution 178,437]
+439. filter_mset(sK11,sK13,sK19) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19))) | filter_mset(sK11,sK13,'Nil'(sK11)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11)))) [induction hyperresolution 178,436]
+440. filter_mset(sK11,sK13,'Nil'(sK11)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),filter_mset(sK11,sK13,'Nil'(sK11))) | filter_mset(sK11,sK13,sK19) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19))) [forward demodulation 439,209]
+441. 'Nil'(sK11) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),'Nil'(sK11)) | filter_mset(sK11,sK13,sK19) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19))) [forward demodulation 440,228]
+442. 'Nil'(sK11) != append(sK11,filter_mset(sK11,sK13,'Nil'(sK11)),'Nil'(sK11)) | filter_mset(sK11,sK13,sK19) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19))) [forward demodulation 441,207]
+443. 'Nil'(sK11) != append(sK11,'Nil'(sK11),'Nil'(sK11)) | filter_mset(sK11,sK13,sK19) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19))) [forward demodulation 442,228]
+444. filter_mset(sK11,sK13,sK19) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19))) [subsumption resolution 443,211]
+445. filter_mset(sK11,sK13,'Nil'(sK11)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),filter_mset(sK11,sK13,'Nil'(sK11))) | filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK18,sK19))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,sK19)))) [forward demodulation 438,209]
+446. 'Nil'(sK11) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))),'Nil'(sK11)) | filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK18,sK19))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,sK19)))) [forward demodulation 445,228]
+447. 'Nil'(sK11) != append(sK11,filter_mset(sK11,sK13,'Nil'(sK11)),'Nil'(sK11)) | filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK18,sK19))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,sK19)))) [forward demodulation 446,207]
+448. 'Nil'(sK11) != append(sK11,'Nil'(sK11),'Nil'(sK11)) | filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK18,sK19))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,sK19)))) [forward demodulation 447,228]
+449. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK18,sK19))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,sK19)))) [subsumption resolution 448,211]
+450. filter_mset(sK11,sK13,'Nil'(sK11)) != append(sK11,filter_mset(sK11,sK13,'Nil'(sK11)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) | filter_mset(sK11,sK13,sK17) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK17)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [forward demodulation 433,207]
+451. 'Nil'(sK11) != append(sK11,'Nil'(sK11),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) | filter_mset(sK11,sK13,sK17) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK17)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [forward demodulation 450,228]
+452. filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14)) != 'Nil'(sK11) | filter_mset(sK11,sK13,sK17) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK17)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [forward demodulation 451,211]
+454. 1 <=> filter_mset(sK11,sK13,sK17) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK17)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [avatar definition]
+456. filter_mset(sK11,sK13,sK17) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK17)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) <- (1) [avatar component clause 454]
+458. 2 <=> filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14)) = 'Nil'(sK11) [avatar definition]
+459. filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14)) = 'Nil'(sK11) <- (2) [avatar component clause 458]
+460. filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14)) != 'Nil'(sK11) <- (~2) [avatar component clause 458]
+461. 1 | ~2 [avatar split clause 452,458,454]
+462. filter_mset(sK11,sK13,'Nil'(sK11)) != append(sK11,filter_mset(sK11,sK13,'Nil'(sK11)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) | filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK16,sK17))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [forward demodulation 432,207]
+463. 'Nil'(sK11) != append(sK11,'Nil'(sK11),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) | filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK16,sK17))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [forward demodulation 462,228]
+464. filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14)) != 'Nil'(sK11) | filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK16,sK17))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [forward demodulation 463,211]
+466. 3 <=> filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK16,sK17))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) [avatar definition]
+468. filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK16,sK17))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK14))) <- (~3) [avatar component clause 466]
+469. ~3 | ~2 [avatar split clause 464,458,466]
+470. ! [X0 : sK11,X1 : 'list()'(sK11)] : ('Nil'(sK11) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11))) & ('Nil'(sK11) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,X1)) => 'Nil'(sK11) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,X0,X1))))) => ! [X2 : 'list()'(sK11)] : 'Nil'(sK11) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,X2)) [structural induction hypothesis (one)]
+471. ! [X2 : 'list()'(sK11)] : 'Nil'(sK11) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,X2)) | ? [X0 : sK11,X1 : 'list()'(sK11)] : ('Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11))) | ('Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,X0,X1))) & 'Nil'(sK11) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,X1)))) [ennf transformation 470]
+472. 'Nil'(sK11) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK21)) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11))) | 'Nil'(sK11) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,X2)) [cnf transformation 471]
+473. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK20,sK21))) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11))) | 'Nil'(sK11) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,X2)) [cnf transformation 471]
+474. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK20,sK21))) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11))) <- (~2) [induction hyperresolution 460,473]
+475. 'Nil'(sK11) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK21)) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11))) <- (~2) [induction hyperresolution 460,472]
+476. 'Nil'(sK11) != filter_mset(sK11,sK13,'Nil'(sK11)) | 'Nil'(sK11) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK21)) <- (~2) [forward demodulation 475,209]
+477. 'Nil'(sK11) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK21)) <- (~2) [subsumption resolution 476,228]
+478. 'Nil'(sK11) != filter_mset(sK11,sK13,'Nil'(sK11)) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK20,sK21))) <- (~2) [forward demodulation 474,209]
+479. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK20,sK21))) <- (~2) [subsumption resolution 478,228]
+729. 7 <=> 'Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)) [avatar definition]
+730. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)) <- (~7) [avatar component clause 729]
+731. 'Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)) <- (7) [avatar component clause 729]
+799. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK21)) | filter_less(sK11,sK12,X5) = filter_less(sK11,sK12,'Cons'(sK11,sK20,X5)) <- (~2) [superposition 479,407]
+802. filter_less(sK11,sK12,X5) = filter_less(sK11,sK12,'Cons'(sK11,sK20,X5)) <- (~2) [subsumption resolution 799,477]
+849. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK21)) | 'Cons'(sK11,sK20,filter_ge(sK11,sK12,X9)) = filter_ge(sK11,sK12,'Cons'(sK11,sK20,X9)) <- (~2) [superposition 479,419]
+857. 10 <=> 'Nil'(sK11) = filter_mset(sK11,sK13,'Cons'(sK11,sK20,filter_ge(sK11,sK12,sK21))) [avatar definition]
+859. 'Nil'(sK11) != filter_mset(sK11,sK13,'Cons'(sK11,sK20,filter_ge(sK11,sK12,sK21))) <- (~10) [avatar component clause 857]
+863. 11 <=> 'Nil'(sK11) = filter_mset(sK11,sK13,'Cons'(sK11,sK20,'Nil'(sK11))) [avatar definition]
+864. 'Nil'(sK11) = filter_mset(sK11,sK13,'Cons'(sK11,sK20,'Nil'(sK11))) <- (11) [avatar component clause 863]
+865. 'Nil'(sK11) != filter_mset(sK11,sK13,'Cons'(sK11,sK20,'Nil'(sK11))) <- (~11) [avatar component clause 863]
+867. 'Cons'(sK11,sK20,filter_ge(sK11,sK12,X9)) = filter_ge(sK11,sK12,'Cons'(sK11,sK20,X9)) <- (~2) [subsumption resolution 849,477]
+868. 'Nil'(sK11) != filter_mset(sK11,sK13,'Cons'(sK11,sK20,filter_ge(sK11,sK12,sK21))) <- (~2) [backward demodulation 479,867]
+871. ~10 | 2 [avatar split clause 868,458,857]
+874. 'Nil'(sK11) != filter_mset(sK11,sK13,'Nil'(sK11)) | sK13 = sK20 <- (~11) [superposition 865,233]
+875. sK13 = sK20 <- (~11) [subsumption resolution 874,228]
+879. 'Cons'(sK11,sK13,filter_ge(sK11,sK12,X9)) = filter_ge(sK11,sK12,'Cons'(sK11,sK13,X9)) <- (~2, ~11) [backward demodulation 867,875]
+880. filter_less(sK11,sK12,X5) = filter_less(sK11,sK12,'Cons'(sK11,sK13,X5)) <- (~2, ~11) [backward demodulation 802,875]
+883. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,sK19)))) | 'Cons'(sK11,sK18,filter_less(sK11,sK12,X0)) = filter_less(sK11,sK12,'Cons'(sK11,sK18,X0)) [superposition 449,411]
+885. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,sK19)))) | filter_ge(sK11,sK12,X2) = filter_ge(sK11,sK12,'Cons'(sK11,sK18,X2)) [superposition 449,407]
+886. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK18,sK19))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19))) | 'Cons'(sK11,sK18,filter_ge(sK11,sK12,X0)) = filter_ge(sK11,sK12,'Cons'(sK11,sK18,X0)) [superposition 449,419]
+888. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK18,sK19))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19))) | filter_less(sK11,sK12,X2) = filter_less(sK11,sK12,'Cons'(sK11,sK18,X2)) [superposition 449,407]
+902. 12 <=> ! [X0 : 'list()'(sK11)] : 'Cons'(sK11,sK18,filter_less(sK11,sK12,X0)) = filter_less(sK11,sK12,'Cons'(sK11,sK18,X0)) [avatar definition]
+903. 'Cons'(sK11,sK18,filter_less(sK11,sK12,X0)) = filter_less(sK11,sK12,'Cons'(sK11,sK18,X0)) <- (12) [avatar component clause 902]
+905. 13 <=> filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,sK19)))) [avatar definition]
+907. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,sK19)))) <- (~13) [avatar component clause 905]
+908. 12 | ~13 [avatar split clause 883,905,902]
+910. 14 <=> ! [X1 : 'list()'(sK11)] : filter_less(sK11,sK12,X1) = filter_less(sK11,sK12,'Cons'(sK11,sK18,X1)) [avatar definition]
+911. filter_less(sK11,sK12,X1) = filter_less(sK11,sK12,'Cons'(sK11,sK18,X1)) <- (14) [avatar component clause 910]
+918. 16 <=> ! [X2 : 'list()'(sK11)] : filter_ge(sK11,sK12,X2) = filter_ge(sK11,sK12,'Cons'(sK11,sK18,X2)) [avatar definition]
+919. filter_ge(sK11,sK12,X2) = filter_ge(sK11,sK12,'Cons'(sK11,sK18,X2)) <- (16) [avatar component clause 918]
+920. 16 | ~13 [avatar split clause 885,905,918]
+922. 17 <=> ! [X0 : 'list()'(sK11)] : 'Cons'(sK11,sK18,filter_ge(sK11,sK12,X0)) = filter_ge(sK11,sK12,'Cons'(sK11,sK18,X0)) [avatar definition]
+923. 'Cons'(sK11,sK18,filter_ge(sK11,sK12,X0)) = filter_ge(sK11,sK12,'Cons'(sK11,sK18,X0)) <- (17) [avatar component clause 922]
+925. 18 <=> filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK18,sK19))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19))) [avatar definition]
+927. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK18,sK19))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19))) <- (~18) [avatar component clause 925]
+928. 17 | ~18 [avatar split clause 886,925,922]
+934. 14 | ~18 [avatar split clause 888,925,910]
+1089. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,'Nil'(sK11),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,sK19)))) <- (7, ~13) [backward demodulation 907,731]
+1090. filter_mset(sK11,sK13,sK19) = append(sK11,'Nil'(sK11),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19))) <- (7) [backward demodulation 444,731]
+1091. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,sK19))) <- (7, ~13) [forward demodulation 1089,211]
+1092. filter_mset(sK11,sK13,sK19) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19)) <- (7) [forward demodulation 1090,211]
+1206. filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19)) != filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) | filter_ge(sK11,sK12,'Cons'(sK11,sK18,X1)) = 'Cons'(sK11,sK18,filter_ge(sK11,sK12,X1)) <- (7, ~13) [superposition 1091,419]
+1207. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != filter_mset(sK11,sK13,'Cons'(sK11,sK18,filter_ge(sK11,sK12,sK19))) | filter_ge(sK11,sK12,X2) = filter_ge(sK11,sK12,'Cons'(sK11,sK18,X2)) <- (7, ~13) [superposition 1091,419]
+1208. filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19)) != filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) | filter_less(sK11,sK12,X3) = filter_less(sK11,sK12,'Cons'(sK11,sK18,X3)) <- (7, ~13) [superposition 1091,407]
+1216. 27 <=> filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) = filter_mset(sK11,sK13,'Cons'(sK11,sK18,filter_ge(sK11,sK12,sK19))) [avatar definition]
+1218. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != filter_mset(sK11,sK13,'Cons'(sK11,sK18,filter_ge(sK11,sK12,sK19))) <- (~27) [avatar component clause 1216]
+1220. filter_mset(sK11,sK13,sK19) != filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) | filter_ge(sK11,sK12,'Cons'(sK11,sK18,X1)) = 'Cons'(sK11,sK18,filter_ge(sK11,sK12,X1)) <- (7, ~13) [forward demodulation 1206,1092]
+1222. 28 <=> filter_mset(sK11,sK13,sK19) = filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) [avatar definition]
+1223. filter_mset(sK11,sK13,sK19) = filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) <- (28) [avatar component clause 1222]
+1224. filter_mset(sK11,sK13,sK19) != filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) <- (~28) [avatar component clause 1222]
+1225. 17 | ~28 | ~7 | 13 [avatar split clause 1220,905,729,1222,922]
+1226. 16 | ~27 | ~7 | 13 [avatar split clause 1207,905,729,1216,918]
+1227. filter_mset(sK11,sK13,sK19) != filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) | filter_less(sK11,sK12,X3) = filter_less(sK11,sK12,'Cons'(sK11,sK18,X3)) <- (7, ~13) [forward demodulation 1208,1092]
+1228. 14 | ~28 | ~7 | 13 [avatar split clause 1227,905,729,1222,910]
+1230. 29 <=> filter_mset(sK11,sK13,'Cons'(sK11,sK18,'Nil'(sK11))) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,'Nil'(sK11)))) [avatar definition]
+1231. filter_mset(sK11,sK13,'Cons'(sK11,sK18,'Nil'(sK11))) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,'Nil'(sK11)))) <- (29) [avatar component clause 1230]
+1232. filter_mset(sK11,sK13,'Cons'(sK11,sK18,'Nil'(sK11))) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK18,'Nil'(sK11)))) <- (~29) [avatar component clause 1230]
+1243. filter_mset(sK11,sK13,sK19) != filter_mset(sK11,sK13,sK19) | sK13 = sK18 <- (~28) [superposition 1224,233]
+1250. sK13 = sK18 <- (~28) [trivial inequality removal 1243]
+1251. filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK13,sK19))),filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK13,sK19)))) <- (~28) [backward demodulation 449,1250]
+1258. filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK19)) != filter_mset(sK11,sK13,'Cons'(sK11,sK13,filter_ge(sK11,sK12,sK19))) <- (~27, ~28) [backward demodulation 1218,1250]
+1261. filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK13,sK19))),filter_mset(sK11,sK13,'Cons'(sK11,sK13,filter_ge(sK11,sK12,sK19)))) <- (~2, ~11, ~28) [forward demodulation 1251,879]
+1262. filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK13,sK19))),'Cons'(sK11,sK13,filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19)))) <- (~2, ~11, ~28) [forward demodulation 1261,317]
+1263. filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK13,sK19))),'Cons'(sK11,sK13,filter_mset(sK11,sK13,sK19))) <- (~2, 7, ~11, ~28) [forward demodulation 1262,1092]
+1264. filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)),'Cons'(sK11,sK13,filter_mset(sK11,sK13,sK19))) <- (~2, 7, ~11, ~28) [forward demodulation 1263,880]
+1265. filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK19)) != append(sK11,'Nil'(sK11),'Cons'(sK11,sK13,filter_mset(sK11,sK13,sK19))) <- (~2, 7, ~11, ~28) [forward demodulation 1264,731]
+1266. filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK19)) != 'Cons'(sK11,sK13,filter_mset(sK11,sK13,sK19)) <- (~2, 7, ~11, ~28) [forward demodulation 1265,211]
+1267. $false <- (~2, 7, ~11, ~28) [subsumption resolution 1266,317]
+1268. 2 | ~7 | 11 | 28 [avatar contradiction clause 1267]
+1319. filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK19)) != 'Cons'(sK11,sK13,filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19))) <- (~27, ~28) [forward demodulation 1258,317]
+1320. filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK19)) != 'Cons'(sK11,sK13,filter_mset(sK11,sK13,sK19)) <- (7, ~27, ~28) [forward demodulation 1319,1092]
+1321. $false <- (7, ~27, ~28) [subsumption resolution 1320,317]
+1322. ~7 | 27 | 28 [avatar contradiction clause 1321]
+1402. filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK16,sK17))),'Nil'(sK11)) <- (2, ~3) [backward demodulation 468,459]
+1404. filter_mset(sK11,sK13,sK17) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK17)),'Nil'(sK11)) <- (1, 2) [forward demodulation 456,459]
+1502. ! [X0 : sK11,X1 : 'list()'(sK11)] : ('Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))) & ('Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,X1)) => 'Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,X0,X1))))) => ! [X2 : 'list()'(sK11)] : 'Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,X2)) [structural induction hypothesis (one)]
+1503. ! [X2 : 'list()'(sK11)] : 'Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,X2)) | ? [X0 : sK11,X1 : 'list()'(sK11)] : ('Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))) | ('Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,X0,X1))) & 'Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,X1)))) [ennf transformation 1502]
+1504. 'Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,sK39)) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))) | 'Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,X2)) [cnf transformation 1503]
+1505. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK38,sK39))) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))) | 'Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,X2)) [cnf transformation 1503]
+1506. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK38,sK39))) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))) <- (~7) [induction hyperresolution 730,1505]
+1507. 'Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,sK39)) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))) <- (~7) [induction hyperresolution 730,1504]
+1508. 'Nil'(sK11) != filter_mset(sK11,sK13,'Nil'(sK11)) | 'Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,sK39)) <- (~7) [forward demodulation 1507,207]
+1509. 'Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,sK39)) <- (~7) [subsumption resolution 1508,228]
+1510. 'Nil'(sK11) != filter_mset(sK11,sK13,'Nil'(sK11)) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK38,sK39))) <- (~7) [forward demodulation 1506,207]
+1511. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK38,sK39))) <- (~7) [subsumption resolution 1510,228]
+1517. filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK17)),'Nil'(sK11)) | 'Cons'(sK11,sK16,filter_less(sK11,sK12,X1)) = filter_less(sK11,sK12,'Cons'(sK11,sK16,X1)) <- (2, ~3) [superposition 1402,411]
+1527. 40 <=> ! [X0 : 'list()'(sK11)] : 'Cons'(sK11,sK16,filter_ge(sK11,sK12,X0)) = filter_ge(sK11,sK12,'Cons'(sK11,sK16,X0)) [avatar definition]
+1528. 'Cons'(sK11,sK16,filter_ge(sK11,sK12,X0)) = filter_ge(sK11,sK12,'Cons'(sK11,sK16,X0)) <- (40) [avatar component clause 1527]
+1530. 41 <=> filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) = append(sK11,filter_mset(sK11,sK13,'Cons'(sK11,sK16,filter_less(sK11,sK12,sK17))),'Nil'(sK11)) [avatar definition]
+1532. filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) != append(sK11,filter_mset(sK11,sK13,'Cons'(sK11,sK16,filter_less(sK11,sK12,sK17))),'Nil'(sK11)) <- (~41) [avatar component clause 1530]
+1537. 42 <=> ! [X1 : 'list()'(sK11)] : 'Cons'(sK11,sK16,filter_less(sK11,sK12,X1)) = filter_less(sK11,sK12,'Cons'(sK11,sK16,X1)) [avatar definition]
+1538. 'Cons'(sK11,sK16,filter_less(sK11,sK12,X1)) = filter_less(sK11,sK12,'Cons'(sK11,sK16,X1)) <- (42) [avatar component clause 1537]
+1545. 44 <=> ! [X2 : 'list()'(sK11)] : filter_less(sK11,sK12,X2) = filter_less(sK11,sK12,'Cons'(sK11,sK16,X2)) [avatar definition]
+1546. filter_less(sK11,sK12,X2) = filter_less(sK11,sK12,'Cons'(sK11,sK16,X2)) <- (44) [avatar component clause 1545]
+1609. 49 <=> filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK17)),'Nil'(sK11)) [avatar definition]
+1610. filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) = append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK17)),'Nil'(sK11)) <- (49) [avatar component clause 1609]
+1611. filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK17)),'Nil'(sK11)) <- (~49) [avatar component clause 1609]
+1613. 42 | ~49 | ~2 | 3 [avatar split clause 1517,466,458,1609,1537]
+1629. 53 <=> sK13 = sK16 [avatar definition]
+1630. sK13 != sK16 <- (~53) [avatar component clause 1629]
+1631. sK13 = sK16 <- (53) [avatar component clause 1629]
+1633. filter_mset(sK11,sK13,sK17) != filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) <- (1, 2, ~49) [forward demodulation 1611,1404]
+1642. filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) != append(sK11,filter_mset(sK11,sK13,'Cons'(sK11,sK16,filter_less(sK11,sK12,sK17))),'Nil'(sK11)) | 'Cons'(sK11,sK16,filter_ge(sK11,sK12,X0)) = filter_ge(sK11,sK12,'Cons'(sK11,sK16,X0)) <- (2, ~3) [superposition 1402,418]
+1644. filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) != append(sK11,filter_mset(sK11,sK13,'Cons'(sK11,sK16,filter_less(sK11,sK12,sK17))),'Nil'(sK11)) | filter_less(sK11,sK12,X2) = filter_less(sK11,sK12,'Cons'(sK11,sK16,X2)) <- (2, ~3) [superposition 1402,411]
+1739. filter_mset(sK11,sK13,sK17) != filter_mset(sK11,sK13,sK17) | sK13 = sK16 <- (1, 2, ~49) [superposition 1633,233]
+1746. sK13 = sK16 <- (1, 2, ~49) [trivial inequality removal 1739]
+1747. 53 | ~1 | ~2 | 49 [avatar split clause 1746,1609,458,454,1629]
+1751. 63 <=> filter_mset(sK11,sK13,sK17) = filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) [avatar definition]
+1752. filter_mset(sK11,sK13,sK17) = filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) <- (63) [avatar component clause 1751]
+1756. filter_mset(sK11,sK13,sK17) = filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) <- (1, 2, 49) [forward demodulation 1610,1404]
+1757. 63 | ~1 | ~2 | ~49 [avatar split clause 1756,1609,458,454,1751]
+1758. filter_mset(sK11,sK13,'Cons'(sK11,sK16,sK17)) != append(sK11,filter_mset(sK11,sK13,'Cons'(sK11,sK16,filter_less(sK11,sK12,sK17))),'Nil'(sK11)) <- (2, ~3, 42) [backward demodulation 1402,1538]
+1761. filter_mset(sK11,sK13,sK17) != append(sK11,filter_mset(sK11,sK13,'Cons'(sK11,sK16,filter_less(sK11,sK12,sK17))),'Nil'(sK11)) <- (~41, 63) [backward demodulation 1532,1752]
+1883. filter_mset(sK11,sK13,sK17) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK17)),'Nil'(sK11)) | sK13 = sK16 <- (~41, 63) [superposition 1761,233]
+1890. sK13 = sK16 <- (1, 2, ~41, 63) [subsumption resolution 1883,1404]
+1891. $false <- (1, 2, ~41, ~53, 63) [subsumption resolution 1890,1630]
+1892. ~1 | ~2 | 41 | 53 | ~63 [avatar contradiction clause 1891]
+1901. filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK17)) != append(sK11,filter_mset(sK11,sK13,'Cons'(sK11,sK13,filter_less(sK11,sK12,sK17))),'Nil'(sK11)) <- (~41, 53) [backward demodulation 1532,1631]
+1911. filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK17)) != append(sK11,'Cons'(sK11,sK13,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK17))),'Nil'(sK11)) <- (~41, 53) [forward demodulation 1901,317]
+1912. filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK17)) != 'Cons'(sK11,sK13,append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK17)),'Nil'(sK11))) <- (~41, 53) [forward demodulation 1911,210]
+1913. filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK17)) != 'Cons'(sK11,sK13,filter_mset(sK11,sK13,sK17)) <- (1, 2, ~41, 53) [forward demodulation 1912,1404]
+1914. $false <- (1, 2, ~41, 53) [subsumption resolution 1913,317]
+1915. ~1 | ~2 | 41 | ~53 [avatar contradiction clause 1914]
+1941. ~41 | ~2 | 3 | ~42 [avatar split clause 1758,1537,466,458,1530]
+1942. 44 | ~41 | ~2 | 3 [avatar split clause 1644,466,458,1530,1545]
+1943. 40 | ~41 | ~2 | 3 [avatar split clause 1642,466,458,1530,1527]
+2128. 67 <=> ! [X1 : 'list()'(sK11)] : 'Cons'(sK11,sK13,filter_ge(sK11,sK12,X1)) = filter_ge(sK11,sK12,'Cons'(sK11,sK13,X1)) [avatar definition]
+2129. 'Cons'(sK11,sK13,filter_ge(sK11,sK12,X1)) = filter_ge(sK11,sK12,'Cons'(sK11,sK13,X1)) <- (67) [avatar component clause 2128]
+2136. 'Cons'(sK11,sK13,filter_ge(sK11,sK12,X0)) = filter_ge(sK11,sK12,'Cons'(sK11,sK13,X0)) <- (40, 53) [forward demodulation 1528,1631]
+2137. 67 | ~40 | ~53 [avatar split clause 2136,1629,1527,2128]
+2166. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,sK39)) | 'Cons'(sK11,sK38,filter_less(sK11,sK12,X1)) = filter_less(sK11,sK12,'Cons'(sK11,sK38,X1)) <- (~7) [superposition 1511,411]
+2179. 70 <=> 'Nil'(sK11) = filter_mset(sK11,sK13,'Cons'(sK11,sK38,filter_less(sK11,sK12,sK39))) [avatar definition]
+2181. 'Nil'(sK11) != filter_mset(sK11,sK13,'Cons'(sK11,sK38,filter_less(sK11,sK12,sK39))) <- (~70) [avatar component clause 2179]
+2183. 'Cons'(sK11,sK38,filter_less(sK11,sK12,X1)) = filter_less(sK11,sK12,'Cons'(sK11,sK38,X1)) <- (~7) [subsumption resolution 2166,1509]
+2184. 'Nil'(sK11) != filter_mset(sK11,sK13,'Cons'(sK11,sK38,filter_less(sK11,sK12,sK39))) <- (~7) [backward demodulation 1511,2183]
+2185. ~70 | 7 [avatar split clause 2184,729,2179]
+2312. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,sK39)) | sK13 = sK38 <- (~70) [superposition 2181,233]
+2362. 77 <=> sK13 = sK38 [avatar definition]
+2364. sK13 = sK38 <- (77) [avatar component clause 2362]
+2366. 78 <=> 'Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,sK39)) [avatar definition]
+2367. 'Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,sK39)) <- (78) [avatar component clause 2366]
+2368. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,sK39)) <- (~78) [avatar component clause 2366]
+2369. 77 | ~78 | 70 [avatar split clause 2312,2179,2366,2362]
+2408. filter_mset(sK11,sK13,sK19) = append(sK11,'Nil'(sK11),filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19))) <- (7) [backward demodulation 444,731]
+2412. filter_mset(sK11,sK13,sK19) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19)) <- (7) [forward demodulation 2408,211]
+2486. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK18,sK19))),filter_mset(sK11,sK13,'Cons'(sK11,sK18,filter_ge(sK11,sK12,sK19)))) <- (17) [forward demodulation 449,923]
+2487. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)),filter_mset(sK11,sK13,'Cons'(sK11,sK18,filter_ge(sK11,sK12,sK19)))) <- (14, 17) [forward demodulation 2486,911]
+2488. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,'Nil'(sK11),filter_mset(sK11,sK13,'Cons'(sK11,sK18,filter_ge(sK11,sK12,sK19)))) <- (7, 14, 17) [forward demodulation 2487,731]
+2489. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != filter_mset(sK11,sK13,'Cons'(sK11,sK18,filter_ge(sK11,sK12,sK19))) <- (7, 14, 17) [forward demodulation 2488,211]
+2490. filter_mset(sK11,sK13,sK19) != filter_mset(sK11,sK13,'Cons'(sK11,sK18,filter_ge(sK11,sK12,sK19))) <- (7, 14, 17, 28) [forward demodulation 2489,1223]
+2577. filter_mset(sK11,sK13,sK19) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19)) | sK13 = sK18 <- (7, 14, 17, 28) [superposition 2490,233]
+2584. sK13 = sK18 <- (7, 14, 17, 28) [subsumption resolution 2577,2412]
+2587. filter_mset(sK11,sK13,sK19) = filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK19)) <- (7, 14, 17, 28) [backward demodulation 1223,2584]
+2589. filter_mset(sK11,sK13,sK19) != filter_mset(sK11,sK13,'Cons'(sK11,sK13,filter_ge(sK11,sK12,sK19))) <- (7, 14, 17, 28) [backward demodulation 2490,2584]
+2595. filter_mset(sK11,sK13,sK19) = 'Cons'(sK11,sK13,filter_mset(sK11,sK13,sK19)) <- (7, 14, 17, 28) [forward demodulation 2587,317]
+2597. filter_mset(sK11,sK13,sK19) != 'Cons'(sK11,sK13,filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK19))) <- (7, 14, 17, 28) [forward demodulation 2589,317]
+2598. filter_mset(sK11,sK13,sK19) != 'Cons'(sK11,sK13,filter_mset(sK11,sK13,sK19)) <- (7, 14, 17, 28) [forward demodulation 2597,2412]
+2599. $false <- (7, 14, 17, 28) [subsumption resolution 2598,2595]
+2600. ~7 | ~14 | ~17 | ~28 [avatar contradiction clause 2599]
+2640. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK18,sK19))),filter_mset(sK11,sK13,sK19)) <- (7, ~18) [forward demodulation 927,2412]
+2641. filter_mset(sK11,sK13,'Cons'(sK11,sK18,sK19)) != append(sK11,filter_mset(sK11,sK13,'Cons'(sK11,sK18,filter_less(sK11,sK12,sK19))),filter_mset(sK11,sK13,sK19)) <- (7, 12, ~18) [forward demodulation 2640,903]
+2642. filter_mset(sK11,sK13,sK19) != append(sK11,filter_mset(sK11,sK13,'Cons'(sK11,sK18,filter_less(sK11,sK12,sK19))),filter_mset(sK11,sK13,sK19)) <- (7, 12, ~18, 28) [forward demodulation 2641,1223]
+2643. filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11))) = filter_mset(sK11,sK13,'Cons'(sK11,sK18,'Nil'(sK11))) <- (16, 29) [backward demodulation 1231,919]
+2650. filter_mset(sK11,sK13,'Nil'(sK11)) = filter_mset(sK11,sK13,'Cons'(sK11,sK18,'Nil'(sK11))) <- (16, 29) [forward demodulation 2643,209]
+2651. 'Nil'(sK11) = filter_mset(sK11,sK13,'Cons'(sK11,sK18,'Nil'(sK11))) <- (16, 29) [forward demodulation 2650,228]
+3213. filter_mset(sK11,sK13,sK19) != append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)),filter_mset(sK11,sK13,sK19)) | sK13 = sK18 <- (7, 12, ~18, 28) [superposition 2642,233]
+3226. filter_mset(sK11,sK13,sK19) != append(sK11,'Nil'(sK11),filter_mset(sK11,sK13,sK19)) | sK13 = sK18 <- (7, 12, ~18, 28) [forward demodulation 3213,731]
+3227. sK13 = sK18 <- (7, 12, ~18, 28) [subsumption resolution 3226,211]
+3230. filter_mset(sK11,sK13,sK19) = filter_mset(sK11,sK13,'Cons'(sK11,sK13,sK19)) <- (7, 12, ~18, 28) [backward demodulation 1223,3227]
+3233. filter_mset(sK11,sK13,sK19) != append(sK11,filter_mset(sK11,sK13,'Cons'(sK11,sK13,filter_less(sK11,sK12,sK19))),filter_mset(sK11,sK13,sK19)) <- (7, 12, ~18, 28) [backward demodulation 2642,3227]
+3245. filter_mset(sK11,sK13,sK19) = 'Cons'(sK11,sK13,filter_mset(sK11,sK13,sK19)) <- (7, 12, ~18, 28) [forward demodulation 3230,317]
+3259. filter_mset(sK11,sK13,sK19) != append(sK11,'Cons'(sK11,sK13,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19))),filter_mset(sK11,sK13,sK19)) <- (7, 12, ~18, 28) [forward demodulation 3233,317]
+3260. filter_mset(sK11,sK13,sK19) != 'Cons'(sK11,sK13,append(sK11,filter_mset(sK11,sK13,filter_less(sK11,sK12,sK19)),filter_mset(sK11,sK13,sK19))) <- (7, 12, ~18, 28) [forward demodulation 3259,210]
+3261. filter_mset(sK11,sK13,sK19) != 'Cons'(sK11,sK13,append(sK11,'Nil'(sK11),filter_mset(sK11,sK13,sK19))) <- (7, 12, ~18, 28) [forward demodulation 3260,731]
+3262. filter_mset(sK11,sK13,sK19) != 'Cons'(sK11,sK13,filter_mset(sK11,sK13,sK19)) <- (7, 12, ~18, 28) [forward demodulation 3261,211]
+3263. $false <- (7, 12, ~18, 28) [subsumption resolution 3262,3245]
+3264. ~7 | ~12 | 18 | ~28 [avatar contradiction clause 3263]
+3383. 'Nil'(sK11) = filter_mset(sK11,sK13,filter_less(sK11,sK12,sK39)) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))) <- (~78) [induction hyperresolution 2368,1504]
+3384. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))) <- (~78) [subsumption resolution 3383,2368]
+3385. 'Nil'(sK11) != filter_mset(sK11,sK13,'Nil'(sK11)) <- (~78) [forward demodulation 3384,207]
+3386. $false <- (~78) [subsumption resolution 3385,228]
+3387. 78 [avatar contradiction clause 3386]
+3535. filter_mset(sK11,sK13,sK19) != filter_mset(sK11,sK13,sK19) | sK13 = sK18 <- (~28) [superposition 1224,233]
+3538. sK13 = sK18 <- (~28) [trivial inequality removal 3535]
+3548. 'Nil'(sK11) = filter_mset(sK11,sK13,'Cons'(sK11,sK13,'Nil'(sK11))) <- (16, ~28, 29) [backward demodulation 2651,3538]
+3575. 'Nil'(sK11) = 'Cons'(sK11,sK13,filter_mset(sK11,sK13,'Nil'(sK11))) <- (16, ~28, 29) [forward demodulation 3548,317]
+3576. $false <- (16, ~28, 29) [term algebras distinctness 3575]
+3577. ~16 | 28 | ~29 [avatar contradiction clause 3576]
+3661. filter_mset(sK11,sK13,'Cons'(sK11,sK13,'Nil'(sK11))) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK13,'Nil'(sK11)))) <- (~28, ~29) [forward demodulation 1232,3538]
+3839. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK20,sK21))) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11))) <- (~2) [induction hyperresolution 460,473]
+3840. 'Nil'(sK11) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK21)) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11))) <- (~2) [induction hyperresolution 460,472]
+3841. 'Nil'(sK11) != filter_mset(sK11,sK13,'Nil'(sK11)) | 'Nil'(sK11) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK21)) <- (~2) [forward demodulation 3840,209]
+3842. 'Nil'(sK11) = filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK21)) <- (~2) [subsumption resolution 3841,228]
+3848. 'Nil'(sK11) != filter_mset(sK11,sK13,'Nil'(sK11)) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK20,sK21))) <- (~2) [forward demodulation 3839,209]
+3849. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK20,sK21))) <- (~2) [subsumption resolution 3848,228]
+3983. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK21)) | filter_less(sK11,sK12,X3) = filter_less(sK11,sK12,'Cons'(sK11,sK20,X3)) <- (~2) [superposition 3849,407]
+3992. filter_less(sK11,sK12,X3) = filter_less(sK11,sK12,'Cons'(sK11,sK20,X3)) <- (~2) [subsumption resolution 3983,3842]
+3996. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK38,sK39))) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))) <- (~7) [induction hyperresolution 730,1505]
+3998. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK13,sK39))) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Nil'(sK11))) <- (~7, 77) [forward demodulation 3996,2364]
+4004. 'Nil'(sK11) != filter_mset(sK11,sK13,'Nil'(sK11)) | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK13,sK39))) <- (~7, 77) [forward demodulation 3998,207]
+4005. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,'Cons'(sK11,sK13,sK39))) <- (~7, 77) [subsumption resolution 4004,228]
+4069. 'Cons'(sK11,sK13,filter_mset(sK11,sK13,'Nil'(sK11))) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK13,'Nil'(sK11)))) <- (~28, ~29) [forward demodulation 3661,317]
+4070. 'Cons'(sK11,sK13,'Nil'(sK11)) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Cons'(sK11,sK13,'Nil'(sK11)))) <- (~28, ~29) [forward demodulation 4069,228]
+4071. 'Cons'(sK11,sK13,'Nil'(sK11)) != filter_mset(sK11,sK13,'Cons'(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11)))) <- (~28, ~29, 67) [backward demodulation 4070,2129]
+4078. 'Cons'(sK11,sK13,'Nil'(sK11)) != 'Cons'(sK11,sK13,filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11)))) <- (~28, ~29, 67) [forward demodulation 4071,317]
+4079. sK13 != sK13 | 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11))) <- (~28, ~29, 67) [term algebras injectivity 4078]
+4080. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,'Nil'(sK11))) <- (~28, ~29, 67) [trivial inequality removal 4079]
+4081. 'Nil'(sK11) != filter_mset(sK11,sK13,'Nil'(sK11)) <- (~28, ~29, 67) [forward demodulation 4080,209]
+4082. $false <- (~28, ~29, 67) [subsumption resolution 4081,228]
+4083. 28 | 29 | ~67 [avatar contradiction clause 4082]
+4135. 90 <=> ! [X2 : 'list()'(sK11)] : filter_less(sK11,sK12,X2) = filter_less(sK11,sK12,'Cons'(sK11,sK13,X2)) [avatar definition]
+4136. filter_less(sK11,sK12,X2) = filter_less(sK11,sK12,'Cons'(sK11,sK13,X2)) <- (90) [avatar component clause 4135]
+4581. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_ge(sK11,sK12,sK21)) | sK13 = sK20 <- (~10) [superposition 859,233]
+4588. sK13 = sK20 <- (~2, ~10) [subsumption resolution 4581,3842]
+4590. 'Nil'(sK11) = filter_mset(sK11,sK13,'Cons'(sK11,sK13,'Nil'(sK11))) <- (~2, ~10, 11) [backward demodulation 864,4588]
+4594. filter_less(sK11,sK12,'Cons'(sK11,sK13,X3)) = filter_less(sK11,sK12,X3) <- (~2, ~10) [backward demodulation 3992,4588]
+4597. 'Nil'(sK11) = 'Cons'(sK11,sK13,filter_mset(sK11,sK13,'Nil'(sK11))) <- (~2, ~10, 11) [forward demodulation 4590,317]
+4598. $false <- (~2, ~10, 11) [term algebras distinctness 4597]
+4599. 2 | 10 | ~11 [avatar contradiction clause 4598]
+4604. 90 | 2 | 10 [avatar split clause 4594,857,458,4135]
+4699. filter_less(sK11,sK12,X2) = filter_less(sK11,sK12,'Cons'(sK11,sK13,X2)) <- (44, 53) [forward demodulation 1546,1631]
+4700. 90 | ~44 | ~53 [avatar split clause 4699,1629,1545,4135]
+4746. 'Nil'(sK11) != filter_mset(sK11,sK13,filter_less(sK11,sK12,sK39)) <- (~7, 77, 90) [backward demodulation 4005,4136]
+4764. $false <- (~7, 77, 78, 90) [subsumption resolution 4746,2367]
+4765. 7 | ~77 | ~78 | ~90 [avatar contradiction clause 4764]
+4775. $false [avatar sat refutation 461,469,871,908,920,928,934,1225,1226,1228,1268,1322,1613,1747,1757,1892,1915,1941,1942,1943,2137,2185,2369,2600,3264,3387,3577,4083,4599,4604,4700,4765]
+% SZS output end Proof for lemma2
+% (47966)------------------------------
+% (47966)Version: Vampire 4.7 (commit )
+% (47966)Linked with Z3 4.9.1.0  NOTFOUND
+% (47966)Termination reason: Refutation
+
+% (47966)Memory used [KB]: 8059
+% (47966)Time elapsed: 0.187 s
+% (47966)------------------------------
+% (47966)------------------------------
+% (47946)Success in time 9.129 s

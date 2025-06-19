@@ -64,7 +64,7 @@
   )
 )
 
-; ; lrs+10_1_drc=encompass:ind=struct:sik=one_plus_recursion:to=lpo:thsq=on:sp=occurrence:nui=on:indoct=on:urr=on:indmd=1_890
+; lrs+10_1_drc=encompass:ind=struct:sik=one_plus_recursion:to=lpo:thsq=on:sp=occurrence:nui=on:indoct=on:urr=on:indmd=1_890
 ; (assert-not
 ;   (par (a)
 ;     ; (=>

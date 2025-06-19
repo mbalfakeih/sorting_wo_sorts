@@ -34,51 +34,54 @@
 ; ; computation induction formula
 ; ; the IH antecedent can be proven but if we let vampire do the induction it times out
 ; ; switch to assert and uncomment stuff below to use as induction formula
-; (assert-not
-; ;(assert
-;   (par (a)
-;     ; (=>
-;       (and
-;         (forall ((x a) (zs (list a)))
-;           (=
-;             (filter_mset a x (merge a (Nil a) zs))
-;             (append a (filter_mset a x (Nil a)) (filter_mset a x zs))
-;           )
-;         )
-;         (forall ((x a) (z a) (zs (list a)))
-;           (=
-;             (filter_mset a x (merge a (Cons a z zs) (Nil a)))
-;             (append a (filter_mset a x (Cons a z zs)) (filter_mset a x (Nil a)))
-;           )
-;         )
-;         (forall ((x a) (z a) (zs (list a)) (u a) (us (list a)))
-;           (=>
-;             (and
-;               (=
-;                 (filter_mset a x (merge a zs (Cons a u us)))
-;                 (append a (filter_mset a x zs) (filter_mset a x (Cons a u us)))
-;               )
-;               (=
-;                 (filter_mset a x (merge a (Cons a z zs) us))
-;                 (append a (filter_mset a x (Cons a z zs)) (filter_mset a x us))
-;               )
-;             )
-;             (=
-;               (filter_mset a x (merge a (Cons a z zs) (Cons a u us)))
-;               (append a (filter_mset a x (Cons a z zs)) (filter_mset a x (Cons a u us)))
-;             )
-;           )
-;         )
-;       )
-;     ;   (forall ((x a) (zs (list a)) (us (list a)))
-;     ;     (=
-;     ;       (filter_mset a x (merge a zs us))
-;     ;       (append a (filter_mset a x zs) (filter_mset a x us))
-;     ;     )
-;     ;   )
-;     ; )
-;   )
-; )
+
+; Moham here: I interpret the above to result in the following assertion:
+
+(assert-not
+ ;(assert
+   (par (a)
+     ; (=>
+       (and
+         (forall ((x a) (zs (list a)))
+           (=
+             (filter_mset a x (merge a (Nil a) zs))
+             (append a (filter_mset a x (Nil a)) (filter_mset a x zs))
+           )
+         )
+         (forall ((x a) (z a) (zs (list a)))
+           (=
+             (filter_mset a x (merge a (Cons a z zs) (Nil a)))
+             (append a (filter_mset a x (Cons a z zs)) (filter_mset a x (Nil a)))
+           )
+         )
+         (forall ((x a) (z a) (zs (list a)) (u a) (us (list a)))
+           (=>
+             (and
+               (=
+                 (filter_mset a x (merge a zs (Cons a u us)))
+                 (append a (filter_mset a x zs) (filter_mset a x (Cons a u us)))
+               )
+               (=
+                 (filter_mset a x (merge a (Cons a z zs) us))
+                 (append a (filter_mset a x (Cons a z zs)) (filter_mset a x us))
+               )
+             )
+             (=
+               (filter_mset a x (merge a (Cons a z zs) (Cons a u us)))
+               (append a (filter_mset a x (Cons a z zs)) (filter_mset a x (Cons a u us)))
+             )
+           )
+         )
+       )
+     ;   (forall ((x a) (zs (list a)) (us (list a)))
+     ;     (=
+     ;       (filter_mset a x (merge a zs us))
+     ;       (append a (filter_mset a x zs) (filter_mset a x us))
+     ;     )
+     ;   )
+     ; )
+   )
+ )
 
 (assert-not
   (par (a)

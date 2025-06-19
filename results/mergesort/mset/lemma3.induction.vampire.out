@@ -1,0 +1,304 @@
+% (44458)ott+10_1:4_av=off:drc=off:ind=struct:indgen=on:newcnf=on:nui=on:uwa=ground:i=10:si=on:rtra=on_0 on lemma3 for (600ds/10Mi)
+% (44463)lrs+1011_5:1_av=off:canc=force:drc=encompass:s2a=on:sp=const_frequency:to=lpo:urr=on:i=7:si=on:rtra=on_0 on lemma3 for (600ds/7Mi)
+% (44458)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (44459)dis+10_1:1_aac=none:alpa=true:drc=off:ind=both:indoct=on:newcnf=on:sac=on:taea=off:to=lpo:i=5:si=on:rtra=on_0 on lemma3 for (600ds/5Mi)
+% (44462)ott+10_1:32_bsd=on:canc=force:drc=off:fsr=off:ind=struct:indao=on:newcnf=on:rawr=on:sac=on:taea=off:i=284:si=on:rtra=on_0 on lemma3 for (600ds/284Mi)
+% (44461)lrs+10_1:1_bd=off:gtg=exists_top:ind=struct:indmd=2:indstrhyp=on:nwc=5.0:s2a=on:s2agt=16:i=36:si=on:rtra=on_0 on lemma3 for (600ds/36Mi)
+% (44460)lrs+1010_1:3_drc=encompass:ind=both:indmd=1:nui=on:s2a=on:ss=axioms:i=24:si=on:rtra=on_0 on lemma3 for (600ds/24Mi)
+% (44464)lrs+2_1:1_atotf=0.2:drc=off:gtg=exists_top:ind=both:nwc=10.0:sac=on:sp=unary_frequency:tgt=ground:to=lpo:i=7:si=on:rtra=on_0 on lemma3 for (600ds/7Mi)
+% (44459)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (44462)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (44465)dis+10_1:1_gtg=exists_top:gve=cautious:ind=struct:indn=off:rawr=on:s2a=on:s2agt=8:sac=on:uwa=all:i=11:si=on:rtra=on_0 on lemma3 for (600ds/11Mi)
+% (44466)lrs+2_1:4_drc=off:gtg=position:gve=cautious:ile=on:ind=struct:indao=on:indc=goal:indmd=6:newcnf=on:nwc=5.0:s2a=on:tac=axiom:to=lpo:i=232:si=on:rtra=on_0 on lemma3 for (600ds/232Mi)
+% (44469)lrs+1010_1:1_avsq=on:avsqc=1:avsqr=1,16:drc=off:ev=force:ind=struct:sos=on:to=lpo:urr=on:i=14:si=on:rtra=on_0 on lemma3 for (600ds/14Mi)
+% (44459)Instruction limit reached!
+% (44459)------------------------------
+% (44459)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (44459)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (44459)Termination reason: Time limit
+% (44459)Termination phase: Saturation
+
+% (44459)Memory used [KB]: 756
+% (44459)Time elapsed: 0.004 s
+% (44459)Instructions burned: 5 (million)
+% (44466)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (44467)lrs+10_1:1_drc=off:ind=both:indoct=on:indstrhyp=on:sos=on:sp=const_frequency:ss=axioms:to=lpo:i=96:si=on:rtra=on_0 on lemma3 for (600ds/96Mi)
+% (44468)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=293:si=on:rtra=on_0 on lemma3 for (600ds/293Mi)
+% (44463)Instruction limit reached!
+% (44463)------------------------------
+% (44463)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (44463)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (44463)Termination reason: Time limit
+% (44463)Termination phase: Saturation
+
+% (44463)Memory used [KB]: 892
+% (44463)Time elapsed: 0.004 s
+% (44463)Instructions burned: 9 (million)
+% (44464)Instruction limit reached!
+% (44464)------------------------------
+% (44464)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (44464)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (44464)Termination reason: Time limit
+% (44464)Termination phase: Saturation
+
+% (44464)Memory used [KB]: 815
+% (44464)Time elapsed: 0.004 s
+% (44464)Instructions burned: 7 (million)
+% (44470)ott+10_1:172_awrs=decay:drc=off:gtg=position:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:sik=recursion:sp=weighted_frequency:taea=off:uhcvi=on:i=165:si=on:rtra=on_0 on lemma3 for (600ds/165Mi)
+% (44458)Instruction limit reached!
+% (44458)------------------------------
+% (44458)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (44470)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (44458)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (44458)Termination reason: Time limit
+% (44458)Termination phase: Saturation
+
+% (44458)Memory used [KB]: 849
+% (44458)Time elapsed: 0.008 s
+% (44458)Instructions burned: 11 (million)
+% (44465)Instruction limit reached!
+% (44465)------------------------------
+% (44465)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (44465)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (44465)Termination reason: Time limit
+% (44465)Termination phase: Saturation
+
+% (44465)Memory used [KB]: 848
+% (44465)Time elapsed: 0.006 s
+% (44465)Instructions burned: 11 (million)
+% (44460)Refutation not found, incomplete strategy% (44460)------------------------------
+% (44460)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (44460)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (44460)Termination reason: Refutation not found, incomplete strategy
+
+% (44460)Memory used [KB]: 849
+% (44460)Time elapsed: 0.007 s
+% (44460)Instructions burned: 11 (million)
+% (44460)------------------------------
+% (44460)------------------------------
+% (44469)Instruction limit reached!
+% (44469)------------------------------
+% (44469)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (44469)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (44469)Termination reason: Time limit
+% (44469)Termination phase: Saturation
+
+% (44469)Memory used [KB]: 900
+% (44469)Time elapsed: 0.007 s
+% (44471)dis+10_1:14_gtg=position:sp=frequency:ss=axioms:tgt=full:i=9:si=on:rtra=on_0 on lemma3 for (600ds/9Mi)
+% (44469)Instructions burned: 15 (million)
+% (44472)lrs+10_1:128_drc=off:gtg=exists_top:ind=struct:indstrhyp=on:sac=on:slsq=on:slsqc=1:taea=off:i=25:si=on:rtra=on_0 on lemma3 for (599ds/25Mi)
+% (44473)lrs+1002_1:1_av=off:br=off:drc=off:gtg=exists_all:ind=both:indc=goal:indmd=15:plsq=on:plsqr=9,1:sos=on:sp=unary_frequency:tgt=ground:to=lpo:uace=off:uwa=one_side_interpreted:i=3:si=on:rtra=on_0 on lemma3 for (599ds/3Mi)
+% (44473)Instruction limit reached!
+% (44473)------------------------------
+% (44473)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (44473)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (44473)Termination reason: Time limit
+% (44473)Termination phase: shuffling
+
+% (44473)Memory used [KB]: 725
+% (44473)Time elapsed: 0.003 s
+% (44473)Instructions burned: 4 (million)
+% (44471)Instruction limit reached!
+% (44471)------------------------------
+% (44471)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (44471)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (44471)Termination reason: Time limit
+% (44471)Termination phase: Saturation
+
+% (44471)Memory used [KB]: 830
+% (44471)Time elapsed: 0.009 s
+% (44471)Instructions burned: 9 (million)
+% (44477)lrs+1010_1:3_drc=encompass:ind=both:indmd=1:nui=on:s2a=on:ss=axioms:i=66:si=on:rtra=on_0 on lemma3 for (599ds/66Mi)
+% (44476)lrs+1010_1:128_aac=none:alpa=false:cond=fast:drc=off:gtg=position:gve=cautious:ind=both:norm_ineq=on:nwc=10.0:sac=on:sp=frequency:tgt=full:to=lpo:i=53:si=on:rtra=on_0 on lemma3 for (599ds/53Mi)
+% (44475)dis+1002_1:1024_av=off:bd=off:drc=off:fsr=off:gtg=position:ind=struct:indc=goal:indgen=on:indgenss=2:taea=off:to=lpo:i=742:si=on:rtra=on_0 on lemma3 for (599ds/742Mi)
+% (44478)lrs+10_1:1_drc=encompass:fsr=off:ind=struct:indao=on:indmd=3:indoct=on:newcnf=on:taea=off:i=51:si=on:rtra=on_0 on lemma3 for (599ds/51Mi)
+% (44478)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (44477)Refutation not found, incomplete strategy% (44477)------------------------------
+% (44477)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (44477)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (44477)Termination reason: Refutation not found, incomplete strategy
+
+% (44477)Memory used [KB]: 850
+% (44477)Time elapsed: 0.006 s
+% (44477)Instructions burned: 11 (million)
+% (44477)------------------------------
+% (44477)------------------------------
+% (44461)Instruction limit reached!
+% (44461)------------------------------
+% (44461)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (44461)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (44461)Termination reason: Time limit
+% (44461)Termination phase: Saturation
+
+% (44461)Memory used [KB]: 989
+% (44461)Time elapsed: 0.017 s
+% (44461)Instructions burned: 36 (million)
+% (44472)Instruction limit reached!
+% (44472)------------------------------
+% (44472)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (44472)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (44472)Termination reason: Time limit
+% (44472)Termination phase: Saturation
+
+% (44472)Memory used [KB]: 934
+% (44472)Time elapsed: 0.013 s
+% (44472)Instructions burned: 27 (million)
+% (44474)lrs+2_1:1_drc=encompass:ind=struct:indao=on:newcnf=on:plsq=on:plsqr=32,1:sp=frequency:to=lpo:i=2:si=on:rtra=on_0 on lemma3 for (599ds/2Mi)
+% (44474)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (44474)Instruction limit reached!
+% (44474)------------------------------
+% (44474)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (44474)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (44474)Termination reason: Time limit
+% (44474)Termination phase: Saturation
+
+% (44474)Memory used [KB]: 745
+% (44474)Time elapsed: 0.006 s
+% (44474)Instructions burned: 5 (million)
+% (44466)First to succeed.
+% (44479)ott+11_5:1_av=off:br=off:canc=cautious:drc=off:ev=cautious:fsr=off:ind=struct:indstrhyp=on:newcnf=on:i=128:si=on:rtra=on_0 on lemma3 for (599ds/128Mi)
+% (44466)Solution written to "/tmp/vampire-proof-44457"
+% (44480)ott+10_1:12_bsd=on:drc=off:fde=none:ind=struct:indgen=on:indgenss=2:norm_ineq=on:sac=on:taea=off:thi=strong:uwa=ground:i=571:si=on:rtra=on_0 on lemma3 for (599ds/571Mi)
+% (44479)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (44481)dis+1010_1:1_alpa=random:drc=encompass:gtg=all:kws=arity:nwc=3.0:spb=goal_then_units:ss=axioms:urr=on:i=44:si=on:rtra=on_0 on lemma3 for (599ds/44Mi)
+% (44466)Refutation found. Thanks to Tanya!
+% SZS status Unsatisfiable for lemma3
+% SZS output start Proof for lemma3
+1. sFN_append(X0,append(X0,X1,X2),$match(X1,'Nil'(X0),X2,'Cons'(X0,X3,X4),'Cons'(X0,X3,append(X0,X4,X2)))) [input]
+2. sFN_filter_mset(X0,filter_mset(X0,X1,X2),$match(X2,'Nil'(X0),'Nil'(X0),'Cons'(X0,X3,X4),$ite(X1 = X3, 'Cons'(X0,X3,filter_mset(X0,X1,X4)),filter_mset(X0,X1,X4)))) [input]
+3. ! [X0 : $tType] : ! [X5 : 'list()'(X0),X3 : 'list()'(X0),X2 : X0,X1 : X0,X4 : X0] : append(X0,filter_mset(X0,X1,X5),filter_mset(X0,X1,X3)) = append(X0,filter_mset(X0,X1,X3),filter_mset(X0,X1,X5)) [input]
+4. ~! [X0 : $tType] : ! [X5 : 'list()'(X0),X3 : 'list()'(X0),X2 : X0,X1 : X0,X4 : X0] : append(X0,filter_mset(X0,X1,X5),filter_mset(X0,X1,X3)) = append(X0,filter_mset(X0,X1,X3),filter_mset(X0,X1,X5)) [negated conjecture 3]
+5. sFN_filter_mset(X0,filter_mset(X0,X1,X2),$match(X2,'Nil'(X0),'Nil'(X0),'Cons'(X0,X3,X4),$ite(X1 = X3, 'Cons'(X0,X3,filter_mset(X0,X1,X4)),filter_mset(X0,X1,X4)))) [theory normalization 2]
+6. sFN_append(X0,append(X0,X1,X2),$match(X1,'Nil'(X0),X2,'Cons'(X0,X3,X4),'Cons'(X0,X3,append(X0,X4,X2)))) [theory normalization 1]
+16. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : X0,X0 : $tType] : sFN_filter_mset(X0,filter_mset(X0,X1,X2),$match(X2,'Nil'(X0),'Nil'(X0),'Cons'(X0,X3,X4),$ite(X1 = X3, 'Cons'(X0,X3,filter_mset(X0,X1,X4)),filter_mset(X0,X1,X4)))) [closure 5]
+17. ! [X0 : $tType,X3 : X0,X1 : X0,X4 : 'list()'(X0),X2 : 'list()'(X0)] : ('Nil'(X0) = X2 => 'Nil'(X0) = mG0(X0,X3,X1,X4,X2)) [fool match definition]
+18. ! [X0 : $tType,X3 : X0,X1 : X0,X4 : 'list()'(X0)] : (~X1 = X3 => filter_mset(X0,X1,X4) = iG1(X0,X3,X1,X4)) & ! [X0 : $tType,X3 : X0,X1 : X0,X4 : 'list()'(X0)] : (X1 = X3 => 'Cons'(X0,X3,filter_mset(X0,X1,X4)) = iG1(X0,X3,X1,X4)) [fool ite definition]
+19. ! [X0 : $tType,X3 : X0,X1 : X0,X4 : 'list()'(X0),X2 : 'list()'(X0)] : ('Cons'(X0,X3,X4) = X2 => iG1(X0,X3,X1,X4) = mG0(X0,X3,X1,X4,X2)) [fool match definition]
+20. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : X0,X0 : $tType] : sFN_filter_mset(X0,filter_mset(X0,X1,X2),mG0(X0,X3,X1,X4,X2)) [fool elimination 16,19,18,17]
+21. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : 'list()'(X0),X0 : $tType] : sFN_append(X0,append(X0,X1,X2),$match(X1,'Nil'(X0),X2,'Cons'(X0,X3,X4),'Cons'(X0,X3,append(X0,X4,X2)))) [closure 6]
+22. ! [X0 : $tType,X2 : 'list()'(X0),X4 : 'list()'(X0),X3 : X0,X1 : 'list()'(X0)] : ('Nil'(X0) = X1 => mG2(X0,X2,X4,X3,X1) = X2) [fool match definition]
+23. ! [X0 : $tType,X2 : 'list()'(X0),X4 : 'list()'(X0),X3 : X0,X1 : 'list()'(X0)] : ('Cons'(X0,X3,X4) = X1 => 'Cons'(X0,X3,append(X0,X4,X2)) = mG2(X0,X2,X4,X3,X1)) [fool match definition]
+24. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : 'list()'(X0),X0 : $tType] : sFN_append(X0,append(X0,X1,X2),mG2(X0,X2,X4,X3,X1)) [fool elimination 21,23,22]
+25. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : ('Cons'(X0,X3,X2) = X4 => 'Cons'(X0,X3,append(X0,X2,X1)) = mG2(X0,X1,X2,X3,X4)) [rectify 23]
+26. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : ('Nil'(X0) = X4 => mG2(X0,X1,X2,X3,X4) = X1) [rectify 22]
+27. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Cons'(X0,X1,X3) = X4 => iG1(X0,X1,X2,X3) = mG0(X0,X1,X2,X3,X4)) [rectify 19]
+28. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (~X1 = X2 => iG1(X0,X1,X2,X3) = filter_mset(X0,X2,X3)) & ! [X4 : $tType,X5 : X4,X6 : X4,X7 : 'list()'(X4)] : (X5 = X6 => 'Cons'(X4,X5,filter_mset(X4,X6,X7)) = iG1(X4,X5,X6,X7)) [rectify 18]
+29. ! [X4 : $tType,X5 : X4,X6 : X4,X7 : 'list()'(X4)] : (X5 = X6 => 'Cons'(X4,X5,filter_mset(X4,X6,X7)) = iG1(X4,X5,X6,X7)) & ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (X1 != X2 => iG1(X0,X1,X2,X3) = filter_mset(X0,X2,X3)) [flattening 28]
+30. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Nil'(X0) = X4 => 'Nil'(X0) = mG0(X0,X1,X2,X3,X4)) [rectify 17]
+31. ~! [X0 : $tType] : ! [X1 : 'list()'(X0),X2 : 'list()'(X0),X4 : X0] : append(X0,filter_mset(X0,X4,X1),filter_mset(X0,X4,X2)) = append(X0,filter_mset(X0,X4,X2),filter_mset(X0,X4,X1)) [rectify 4]
+32. ~! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X4 : X0] : append(X0,filter_mset(X0,X4,X1),filter_mset(X0,X4,X2)) = append(X0,filter_mset(X0,X4,X2),filter_mset(X0,X4,X1)) [flattening 31]
+33. ! [X0 : 'list()'(X4),X1 : X4,X2 : 'list()'(X4),X3 : X4,X4 : $tType] : sFN_filter_mset(X4,filter_mset(X4,X3,X2),mG0(X4,X1,X3,X0,X2)) [rectify 20]
+34. ! [X0 : 'list()'(X4),X1 : X4,X2 : 'list()'(X4),X3 : 'list()'(X4),X4 : $tType] : sFN_append(X4,append(X4,X3,X2),mG2(X4,X2,X0,X1,X3)) [rectify 24]
+35. ! [X4 : $tType,X5 : X4,X6 : X4,X7 : 'list()'(X4)] : ('Cons'(X4,X5,filter_mset(X4,X6,X7)) = iG1(X4,X5,X6,X7) | X5 != X6) & ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (X1 = X2 | iG1(X0,X1,X2,X3) = filter_mset(X0,X2,X3)) [ennf transformation 29]
+36. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : ('Cons'(X0,X3,X2) != X4 | 'Cons'(X0,X3,append(X0,X2,X1)) = mG2(X0,X1,X2,X3,X4)) [ennf transformation 25]
+37. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Nil'(X0) = mG0(X0,X1,X2,X3,X4) | 'Nil'(X0) != X4) [ennf transformation 30]
+38. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Cons'(X0,X1,X3) != X4 | iG1(X0,X1,X2,X3) = mG0(X0,X1,X2,X3,X4)) [ennf transformation 27]
+39. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : ('Nil'(X0) != X4 | mG2(X0,X1,X2,X3,X4) = X1) [ennf transformation 26]
+40. ? [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X4 : X0] : append(X0,filter_mset(X0,X4,X1),filter_mset(X0,X4,X2)) != append(X0,filter_mset(X0,X4,X2),filter_mset(X0,X4,X1)) [ennf transformation 32]
+41. ? [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0] : append(X0,filter_mset(X0,X3,X1),filter_mset(X0,X3,X2)) != append(X0,filter_mset(X0,X3,X2),filter_mset(X0,X3,X1)) [rectify 40]
+42. ? [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0] : append(X0,filter_mset(X0,X3,X1),filter_mset(X0,X3,X2)) != append(X0,filter_mset(X0,X3,X2),filter_mset(X0,X3,X1)) => append(sK3,filter_mset(sK3,sK6,sK5),filter_mset(sK3,sK6,sK4)) != append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,sK5)) [choice axiom]
+43. append(sK3,filter_mset(sK3,sK6,sK5),filter_mset(sK3,sK6,sK4)) != append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,sK5)) [skolemisation 41,42]
+44. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (iG1(X0,X1,X2,X3) = 'Cons'(X0,X1,filter_mset(X0,X2,X3)) | X1 != X2) & ! [X4 : $tType,X5 : X4,X6 : X4,X7 : 'list()'(X4)] : (X5 = X6 | iG1(X4,X5,X6,X7) = filter_mset(X4,X6,X7)) [rectify 35]
+45. 'Cons'(X0,X3,X2) != X4 | 'Cons'(X0,X3,append(X0,X2,X1)) = mG2(X0,X1,X2,X3,X4) [cnf transformation 36]
+46. 'Nil'(X0) = mG0(X0,X1,X2,X3,X4) | 'Nil'(X0) != X4 [cnf transformation 37]
+47. 'Cons'(X0,X1,X3) != X4 | iG1(X0,X1,X2,X3) = mG0(X0,X1,X2,X3,X4) [cnf transformation 38]
+48. sFN_filter_mset(X4,filter_mset(X4,X3,X2),mG0(X4,X1,X3,X0,X2)) [cnf transformation 33]
+49. sFN_append(X4,append(X4,X3,X2),mG2(X4,X2,X0,X1,X3)) [cnf transformation 34]
+50. 'Nil'(X0) != X4 | mG2(X0,X1,X2,X3,X4) = X1 [cnf transformation 39]
+51. append(sK3,filter_mset(sK3,sK6,sK5),filter_mset(sK3,sK6,sK4)) != append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,sK5)) [cnf transformation 43]
+52. iG1(X4,X5,X6,X7) = filter_mset(X4,X6,X7) | X5 = X6 [cnf transformation 44]
+53. iG1(X0,X1,X2,X3) = 'Cons'(X0,X1,filter_mset(X0,X2,X3)) | X1 != X2 [cnf transformation 44]
+54. 'Cons'(X0,X3,append(X0,X2,X1)) = mG2(X0,X1,X2,X3,'Cons'(X0,X3,X2)) [equality resolution 45]
+55. 'Nil'(X0) = mG0(X0,X1,X2,X3,'Nil'(X0)) [equality resolution 46]
+56. iG1(X0,X1,X2,X3) = mG0(X0,X1,X2,X3,'Cons'(X0,X1,X3)) [equality resolution 47]
+57. mG2(X0,X1,X2,X3,'Nil'(X0)) = X1 [equality resolution 50]
+58. iG1(X0,X2,X2,X3) = 'Cons'(X0,X2,filter_mset(X0,X2,X3)) [equality resolution 53]
+59. mG0(X4,X1,X3,X0,X2) = filter_mset(X4,X3,X2) [definition unfolding 48]
+60. append(X4,X3,X2) = mG2(X4,X2,X0,X1,X3) [definition unfolding 49]
+61. filter_mset(X0,X2,'Cons'(X0,X1,X3)) = iG1(X0,X1,X2,X3) [backward demodulation 56,59]
+62. ! [X0 : sK3,X1 : 'list()'(sK3)] : (append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),filter_mset(sK3,sK6,sK4)) = append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,'Nil'(sK3))) & (append(sK3,filter_mset(sK3,sK6,X1),filter_mset(sK3,sK6,sK4)) = append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,X1)) => append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,X0,X1)),filter_mset(sK3,sK6,sK4)) = append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,'Cons'(sK3,X0,X1))))) => ! [X2 : 'list()'(sK3)] : append(sK3,filter_mset(sK3,sK6,X2),filter_mset(sK3,sK6,sK4)) = append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,X2)) [structural induction hypothesis (one)]
+63. ! [X2 : 'list()'(sK3)] : append(sK3,filter_mset(sK3,sK6,X2),filter_mset(sK3,sK6,sK4)) = append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,X2)) | ? [X0 : sK3,X1 : 'list()'(sK3)] : (append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),filter_mset(sK3,sK6,sK4)) != append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,'Nil'(sK3))) | (append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,X0,X1)),filter_mset(sK3,sK6,sK4)) != append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,'Cons'(sK3,X0,X1))) & append(sK3,filter_mset(sK3,sK6,X1),filter_mset(sK3,sK6,sK4)) = append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,X1)))) [ennf transformation 62]
+64. append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,sK9)) = append(sK3,filter_mset(sK3,sK6,sK9),filter_mset(sK3,sK6,sK4)) | append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),filter_mset(sK3,sK6,sK4)) != append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,'Nil'(sK3))) | append(sK3,filter_mset(sK3,sK6,X2),filter_mset(sK3,sK6,sK4)) = append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,X2)) [cnf transformation 63]
+65. append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,'Cons'(sK3,sK8,sK9))) != append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK8,sK9)),filter_mset(sK3,sK6,sK4)) | append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),filter_mset(sK3,sK6,sK4)) != append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,'Nil'(sK3))) | append(sK3,filter_mset(sK3,sK6,X2),filter_mset(sK3,sK6,sK4)) = append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,X2)) [cnf transformation 63]
+66. append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),filter_mset(sK3,sK6,sK4)) != append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,'Nil'(sK3))) | append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,'Cons'(sK3,sK8,sK9))) != append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK8,sK9)),filter_mset(sK3,sK6,sK4)) [induction hyperresolution 51,65]
+67. append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,sK9)) = append(sK3,filter_mset(sK3,sK6,sK9),filter_mset(sK3,sK6,sK4)) | append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),filter_mset(sK3,sK6,sK4)) != append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,'Nil'(sK3))) [induction hyperresolution 51,64]
+84. 3 <=> append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,sK9)) = append(sK3,filter_mset(sK3,sK6,sK9),filter_mset(sK3,sK6,sK4)) [avatar definition]
+86. append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,sK9)) = append(sK3,filter_mset(sK3,sK6,sK9),filter_mset(sK3,sK6,sK4)) <- (3) [avatar component clause 84]
+88. 4 <=> append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),filter_mset(sK3,sK6,sK4)) = append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,'Nil'(sK3))) [avatar definition]
+90. append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),filter_mset(sK3,sK6,sK4)) != append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,'Nil'(sK3))) <- (~4) [avatar component clause 88]
+91. 3 | ~4 [avatar split clause 67,88,84]
+98. 6 <=> append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,'Cons'(sK3,sK8,sK9))) = append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK8,sK9)),filter_mset(sK3,sK6,sK4)) [avatar definition]
+100. append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,'Cons'(sK3,sK8,sK9))) != append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK8,sK9)),filter_mset(sK3,sK6,sK4)) <- (~6) [avatar component clause 98]
+101. ~6 | ~4 [avatar split clause 66,88,98]
+152. 'Nil'(X0) = filter_mset(X0,X2,'Nil'(X0)) [superposition 55,59]
+155. append(sK3,filter_mset(sK3,sK6,sK4),'Nil'(sK3)) != append(sK3,'Nil'(sK3),filter_mset(sK3,sK6,sK4)) <- (~4) [backward demodulation 90,152]
+171. append(X0,'Nil'(X0),X1) = X1 [superposition 60,57]
+172. 'Cons'(X0,X3,append(X0,X2,X1)) = append(X0,'Cons'(X0,X3,X2),X1) [superposition 54,60]
+176. filter_mset(sK3,sK6,sK4) != append(sK3,filter_mset(sK3,sK6,sK4),'Nil'(sK3)) <- (~4) [backward demodulation 155,171]
+180. ! [X0 : sK3,X1 : 'list()'(sK3)] : (append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),'Nil'(sK3)) = filter_mset(sK3,sK6,'Nil'(sK3)) & (filter_mset(sK3,sK6,X1) = append(sK3,filter_mset(sK3,sK6,X1),'Nil'(sK3)) => append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,X0,X1)),'Nil'(sK3)) = filter_mset(sK3,sK6,'Cons'(sK3,X0,X1)))) => ! [X2 : 'list()'(sK3)] : filter_mset(sK3,sK6,X2) = append(sK3,filter_mset(sK3,sK6,X2),'Nil'(sK3)) [structural induction hypothesis (one)]
+181. ! [X2 : 'list()'(sK3)] : filter_mset(sK3,sK6,X2) = append(sK3,filter_mset(sK3,sK6,X2),'Nil'(sK3)) | ? [X0 : sK3,X1 : 'list()'(sK3)] : (append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),'Nil'(sK3)) != filter_mset(sK3,sK6,'Nil'(sK3)) | (append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,X0,X1)),'Nil'(sK3)) != filter_mset(sK3,sK6,'Cons'(sK3,X0,X1)) & filter_mset(sK3,sK6,X1) = append(sK3,filter_mset(sK3,sK6,X1),'Nil'(sK3)))) [ennf transformation 180]
+182. filter_mset(sK3,sK6,sK17) = append(sK3,filter_mset(sK3,sK6,sK17),'Nil'(sK3)) | append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),'Nil'(sK3)) != filter_mset(sK3,sK6,'Nil'(sK3)) | filter_mset(sK3,sK6,X2) = append(sK3,filter_mset(sK3,sK6,X2),'Nil'(sK3)) [cnf transformation 181]
+183. append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK16,sK17)),'Nil'(sK3)) != filter_mset(sK3,sK6,'Cons'(sK3,sK16,sK17)) | append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),'Nil'(sK3)) != filter_mset(sK3,sK6,'Nil'(sK3)) | filter_mset(sK3,sK6,X2) = append(sK3,filter_mset(sK3,sK6,X2),'Nil'(sK3)) [cnf transformation 181]
+184. append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK16,sK17)),'Nil'(sK3)) != filter_mset(sK3,sK6,'Cons'(sK3,sK16,sK17)) | append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),'Nil'(sK3)) != filter_mset(sK3,sK6,'Nil'(sK3)) <- (~4) [induction hyperresolution 176,183]
+185. append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),'Nil'(sK3)) != filter_mset(sK3,sK6,'Nil'(sK3)) | filter_mset(sK3,sK6,sK17) = append(sK3,filter_mset(sK3,sK6,sK17),'Nil'(sK3)) <- (~4) [induction hyperresolution 176,182]
+186. filter_mset(sK3,sK6,sK17) = append(sK3,filter_mset(sK3,sK6,sK17),'Nil'(sK3)) | 'Nil'(sK3) != append(sK3,'Nil'(sK3),'Nil'(sK3)) <- (~4) [forward demodulation 185,152]
+187. filter_mset(sK3,sK6,sK17) = append(sK3,filter_mset(sK3,sK6,sK17),'Nil'(sK3)) <- (~4) [subsumption resolution 186,171]
+188. 'Nil'(sK3) != append(sK3,'Nil'(sK3),'Nil'(sK3)) | append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK16,sK17)),'Nil'(sK3)) != filter_mset(sK3,sK6,'Cons'(sK3,sK16,sK17)) <- (~4) [forward demodulation 184,152]
+189. append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK16,sK17)),'Nil'(sK3)) != filter_mset(sK3,sK6,'Cons'(sK3,sK16,sK17)) <- (~4) [subsumption resolution 188,171]
+193. filter_mset(X0,X2,'Cons'(X0,X1,X3)) = filter_mset(X0,X2,X3) | X1 = X2 [superposition 52,61]
+196. filter_mset(X0,X1,'Cons'(X0,X1,X2)) = 'Cons'(X0,X1,filter_mset(X0,X1,X2)) [superposition 61,58]
+429. sK16 = sK6 | filter_mset(sK3,sK6,sK17) != append(sK3,filter_mset(sK3,sK6,sK17),'Nil'(sK3)) <- (~4) [superposition 189,193]
+430. sK16 = sK6 <- (~4) [subsumption resolution 429,187]
+431. append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK6,sK17)),'Nil'(sK3)) != filter_mset(sK3,sK6,'Cons'(sK3,sK6,sK17)) <- (~4) [backward demodulation 189,430]
+432. append(sK3,'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK17)),'Nil'(sK3)) != 'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK17)) <- (~4) [forward demodulation 431,196]
+439. 'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK17)) != 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,sK17),'Nil'(sK3))) <- (~4) [superposition 432,172]
+440. filter_mset(sK3,sK6,sK17) != append(sK3,filter_mset(sK3,sK6,sK17),'Nil'(sK3)) | sK6 != sK6 <- (~4) [term algebras injectivity 439]
+441. filter_mset(sK3,sK6,sK17) != append(sK3,filter_mset(sK3,sK6,sK17),'Nil'(sK3)) <- (~4) [trivial inequality removal 440]
+442. $false <- (~4) [subsumption resolution 441,187]
+443. 4 [avatar contradiction clause 442]
+496. sK8 = sK6 | append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,sK9)) != append(sK3,filter_mset(sK3,sK6,sK9),filter_mset(sK3,sK6,sK4)) <- (~6) [superposition 100,193]
+503. sK8 = sK6 <- (3, ~6) [subsumption resolution 496,86]
+504. append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK6,sK9)),filter_mset(sK3,sK6,sK4)) != append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,'Cons'(sK3,sK6,sK9))) <- (3, ~6) [backward demodulation 100,503]
+505. append(sK3,filter_mset(sK3,sK6,sK4),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) != append(sK3,'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9)),filter_mset(sK3,sK6,sK4)) <- (3, ~6) [forward demodulation 504,196]
+560. append(sK3,filter_mset(sK3,sK6,sK4),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) != 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,sK9),filter_mset(sK3,sK6,sK4))) <- (3, ~6) [superposition 505,172]
+579. append(sK3,filter_mset(sK3,sK6,sK4),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) != 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,sK4),filter_mset(sK3,sK6,sK9))) <- (3, ~6) [forward demodulation 560,86]
+592. ! [X0 : sK3,X1 : 'list()'(sK3)] : ('Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),filter_mset(sK3,sK6,sK9))) = append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) & ('Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,X1),filter_mset(sK3,sK6,sK9))) = append(sK3,filter_mset(sK3,sK6,X1),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) => 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,X0,X1)),filter_mset(sK3,sK6,sK9))) = append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,X0,X1)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))))) => ! [X2 : 'list()'(sK3)] : 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,X2),filter_mset(sK3,sK6,sK9))) = append(sK3,filter_mset(sK3,sK6,X2),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) [structural induction hypothesis (one)]
+593. ! [X2 : 'list()'(sK3)] : 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,X2),filter_mset(sK3,sK6,sK9))) = append(sK3,filter_mset(sK3,sK6,X2),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) | ? [X0 : sK3,X1 : 'list()'(sK3)] : ('Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) | ('Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,X0,X1)),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,X0,X1)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) & 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,X1),filter_mset(sK3,sK6,sK9))) = append(sK3,filter_mset(sK3,sK6,X1),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))))) [ennf transformation 592]
+594. 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,sK29),filter_mset(sK3,sK6,sK9))) = append(sK3,filter_mset(sK3,sK6,sK29),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) | 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) | 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,X2),filter_mset(sK3,sK6,sK9))) = append(sK3,filter_mset(sK3,sK6,X2),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) [cnf transformation 593]
+595. 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK28,sK29)),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK28,sK29)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) | 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) | 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,X2),filter_mset(sK3,sK6,sK9))) = append(sK3,filter_mset(sK3,sK6,X2),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) [cnf transformation 593]
+596. 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) | 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK28,sK29)),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK28,sK29)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) <- (3, ~6) [induction hyperresolution 579,595]
+597. 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,sK29),filter_mset(sK3,sK6,sK9))) = append(sK3,filter_mset(sK3,sK6,sK29),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) | 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,'Nil'(sK3)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) <- (3, ~6) [induction hyperresolution 579,594]
+598. 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,sK29),filter_mset(sK3,sK6,sK9))) = append(sK3,filter_mset(sK3,sK6,sK29),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) | 'Cons'(sK3,sK6,append(sK3,'Nil'(sK3),filter_mset(sK3,sK6,sK9))) != append(sK3,'Nil'(sK3),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) <- (3, ~6) [forward demodulation 597,152]
+599. 'Cons'(sK3,sK6,append(sK3,'Nil'(sK3),filter_mset(sK3,sK6,sK9))) != 'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9)) | 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,sK29),filter_mset(sK3,sK6,sK9))) = append(sK3,filter_mset(sK3,sK6,sK29),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) <- (3, ~6) [forward demodulation 598,171]
+600. append(sK3,'Nil'(sK3),filter_mset(sK3,sK6,sK9)) != filter_mset(sK3,sK6,sK9) | 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,sK29),filter_mset(sK3,sK6,sK9))) = append(sK3,filter_mset(sK3,sK6,sK29),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) | sK6 != sK6 <- (3, ~6) [term algebras injectivity 599]
+601. 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,sK29),filter_mset(sK3,sK6,sK9))) = append(sK3,filter_mset(sK3,sK6,sK29),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) | append(sK3,'Nil'(sK3),filter_mset(sK3,sK6,sK9)) != filter_mset(sK3,sK6,sK9) <- (3, ~6) [trivial inequality removal 600]
+602. 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,sK29),filter_mset(sK3,sK6,sK9))) = append(sK3,filter_mset(sK3,sK6,sK29),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) <- (3, ~6) [subsumption resolution 601,171]
+603. 'Cons'(sK3,sK6,append(sK3,'Nil'(sK3),filter_mset(sK3,sK6,sK9))) != append(sK3,'Nil'(sK3),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) | 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK28,sK29)),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK28,sK29)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) <- (3, ~6) [forward demodulation 596,152]
+604. 'Cons'(sK3,sK6,append(sK3,'Nil'(sK3),filter_mset(sK3,sK6,sK9))) != 'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9)) | 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK28,sK29)),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK28,sK29)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) <- (3, ~6) [forward demodulation 603,171]
+605. append(sK3,'Nil'(sK3),filter_mset(sK3,sK6,sK9)) != filter_mset(sK3,sK6,sK9) | sK6 != sK6 | 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK28,sK29)),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK28,sK29)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) <- (3, ~6) [term algebras injectivity 604]
+606. append(sK3,'Nil'(sK3),filter_mset(sK3,sK6,sK9)) != filter_mset(sK3,sK6,sK9) | 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK28,sK29)),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK28,sK29)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) <- (3, ~6) [trivial inequality removal 605]
+607. 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK28,sK29)),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK28,sK29)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) <- (3, ~6) [subsumption resolution 606,171]
+614. sK6 = sK28 | 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,sK29),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,sK29),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) <- (3, ~6) [superposition 607,193]
+615. sK6 = sK28 <- (3, ~6) [subsumption resolution 614,602]
+616. 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK6,sK29)),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,'Cons'(sK3,sK6,sK29)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) <- (3, ~6) [backward demodulation 607,615]
+617. 'Cons'(sK3,sK6,append(sK3,'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK29)),filter_mset(sK3,sK6,sK9))) != append(sK3,'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK29)),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) <- (3, ~6) [forward demodulation 616,196]
+618. 'Cons'(sK3,sK6,append(sK3,'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK29)),filter_mset(sK3,sK6,sK9))) != 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,sK29),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9)))) <- (3, ~6) [forward demodulation 617,172]
+619. append(sK3,filter_mset(sK3,sK6,sK29),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) != append(sK3,'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK29)),filter_mset(sK3,sK6,sK9)) | sK6 != sK6 <- (3, ~6) [term algebras injectivity 618]
+620. append(sK3,filter_mset(sK3,sK6,sK29),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) != append(sK3,'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK29)),filter_mset(sK3,sK6,sK9)) <- (3, ~6) [trivial inequality removal 619]
+621. 'Cons'(sK3,sK6,append(sK3,filter_mset(sK3,sK6,sK29),filter_mset(sK3,sK6,sK9))) != append(sK3,filter_mset(sK3,sK6,sK29),'Cons'(sK3,sK6,filter_mset(sK3,sK6,sK9))) <- (3, ~6) [forward demodulation 620,172]
+622. $false <- (3, ~6) [subsumption resolution 621,602]
+623. ~3 | 6 [avatar contradiction clause 622]
+624. $false [avatar sat refutation 91,101,443,623]
+% SZS output end Proof for lemma3
+% (44466)------------------------------
+% (44466)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (44466)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (44466)Termination reason: Refutation
+
+% (44466)Memory used [KB]: 1014
+% (44466)Time elapsed: 0.021 s
+% (44466)Instructions burned: 59 (million)
+% (44466)------------------------------
+% (44466)------------------------------
+% (44457)Success in time 0.015 s

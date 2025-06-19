@@ -1,0 +1,153 @@
+% (47032)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=on:urr=on_89 on conjecture for (89ds/0Mi)
+% (47031)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=on:urr=off_89 on conjecture for (89ds/0Mi)
+% (47033)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=off:urr=off_89 on conjecture for (89ds/0Mi)
+% (47035)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=on:urr=off_89 on conjecture for (89ds/0Mi)
+% (47034)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=off:urr=on_89 on conjecture for (89ds/0Mi)
+% (47037)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=off:urr=off_89 on conjecture for (89ds/0Mi)
+% (47036)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=on:urr=on_89 on conjecture for (89ds/0Mi)
+% (47038)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=off:urr=on_89 on conjecture for (89ds/0Mi)
+% (47039)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=on:urr=off_89 on conjecture for (89ds/0Mi)
+% (47043)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=on:urr=off_89 on conjecture for (89ds/0Mi)
+% (47042)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=off:urr=on_89 on conjecture for (89ds/0Mi)
+% (47041)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=off:urr=off_89 on conjecture for (89ds/0Mi)
+% (47040)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=on:urr=on_89 on conjecture for (89ds/0Mi)
+% (47044)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=on:urr=on_89 on conjecture for (89ds/0Mi)
+% (47031)First to succeed.
+% (47033)Also succeeded, but the first one will report.
+% (47031)Refutation found. Thanks to Tanya!
+% SZS status Unsatisfiable for conjecture
+% SZS output start Proof for conjecture
+1. (leq(X0,X1,X2) = ~less(X0,X2,X1)) [input]
+2. ! [X0 : $tType] : ! [X1 : X0] : leq(X0,X1,X1) [input]
+6. filter_less(X0,X1,X2) = $match(X2,'Nil'(X0),'Nil'(X0),'Cons'(X0,X3,X4),$ite(less(X0,X3,X1), 'Cons'(X0,X3,filter_less(X0,X1,X4)),filter_less(X0,X1,X4))) [input]
+7. filter_ge(X0,X1,X2) = $match(X2,'Nil'(X0),'Nil'(X0),'Cons'(X0,X3,X4),$ite(~less(X0,X3,X1), 'Cons'(X0,X3,filter_ge(X0,X1,X4)),filter_ge(X0,X1,X4))) [input]
+8. append(X0,X1,X2) = $match(X1,'Nil'(X0),X2,'Cons'(X0,X3,X4),'Cons'(X0,X3,append(X0,X4,X2))) [input]
+11. quicksort(X0,X1) = $match(X1,'Nil'(X0),'Nil'(X0),'Cons'(X0,X2,X3),append(X0,quicksort(X0,filter_less(X0,X2,X3)),'Cons'(X0,X2,quicksort(X0,filter_ge(X0,X2,X3))))) [input]
+14. ! [X0 : $tType] : ! [X3 : 'list()'(X0),X1 : X0,X2 : 'list()'(X0)] : append(X0,filter_mset(X0,X1,X2),filter_mset(X0,X1,X3)) = filter_mset(X0,X1,append(X0,X2,X3)) [input]
+15. ! [X0 : $tType] : ! [X2 : X0,X1 : X0,X3 : 'list()'(X0)] : filter_mset(X0,X1,X3) = append(X0,filter_mset(X0,X1,filter_less(X0,X2,X3)),filter_mset(X0,X1,filter_ge(X0,X2,X3))) [input]
+16. ! [X0 : $tType] : ! [X1 : X0,X2 : 'list()'(X0)] : filter_mset(X0,X1,X2) = filter_mset(X0,X1,quicksort(X0,X2)) [input]
+17. ~! [X0 : $tType] : ! [X1 : X0,X2 : 'list()'(X0)] : filter_mset(X0,X1,X2) = filter_mset(X0,X1,quicksort(X0,X2)) [negated conjecture 16]
+34. ! [X3 : 'list()'(X0),X2 : X0,X1 : 'list()'(X0),X0 : $tType] : quicksort(X0,X1) = $match(X1,'Nil'(X0),'Nil'(X0),'Cons'(X0,X2,X3),append(X0,quicksort(X0,filter_less(X0,X2,X3)),'Cons'(X0,X2,quicksort(X0,filter_ge(X0,X2,X3))))) [closure 11]
+35. ! [X0 : $tType,X3 : 'list()'(X0),X2 : X0,X1 : 'list()'(X0)] : ('Nil'(X0) = X1 => 'Nil'(X0) = mG3(X0,X3,X2,X1)) [fool $match elimination 34]
+36. ! [X0 : $tType,X3 : 'list()'(X0),X2 : X0,X1 : 'list()'(X0)] : ('Cons'(X0,X2,X3) = X1 => append(X0,quicksort(X0,filter_less(X0,X2,X3)),'Cons'(X0,X2,quicksort(X0,filter_ge(X0,X2,X3)))) = mG3(X0,X3,X2,X1)) [fool $match elimination 34]
+37. ! [X3 : 'list()'(X0),X2 : X0,X1 : 'list()'(X0),X0 : $tType] : quicksort(X0,X1) = mG3(X0,X3,X2,X1) [fool elimination 34]
+46. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : 'list()'(X0),X0 : $tType] : append(X0,X1,X2) = $match(X1,'Nil'(X0),X2,'Cons'(X0,X3,X4),'Cons'(X0,X3,append(X0,X4,X2))) [closure 8]
+47. ! [X0 : $tType,X2 : 'list()'(X0),X4 : 'list()'(X0),X3 : X0,X1 : 'list()'(X0)] : ('Nil'(X0) = X1 => mG6(X0,X2,X4,X3,X1) = X2) [fool $match elimination 46]
+48. ! [X0 : $tType,X2 : 'list()'(X0),X4 : 'list()'(X0),X3 : X0,X1 : 'list()'(X0)] : ('Cons'(X0,X3,X4) = X1 => 'Cons'(X0,X3,append(X0,X4,X2)) = mG6(X0,X2,X4,X3,X1)) [fool $match elimination 46]
+49. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : 'list()'(X0),X0 : $tType] : append(X0,X1,X2) = mG6(X0,X2,X4,X3,X1) [fool elimination 46]
+50. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : X0,X0 : $tType] : filter_ge(X0,X1,X2) = $match(X2,'Nil'(X0),'Nil'(X0),'Cons'(X0,X3,X4),$ite(~less(X0,X3,X1), 'Cons'(X0,X3,filter_ge(X0,X1,X4)),filter_ge(X0,X1,X4))) [closure 7]
+52. ! [X0 : $tType,X1 : X0,X3 : X0,X4 : 'list()'(X0)] : (~less(X0,X3,X1) => 'Cons'(X0,X3,filter_ge(X0,X1,X4)) = iG8(X0,X1,X3,X4)) [fool $ite elimination 50]
+54. ! [X0 : $tType,X1 : X0,X3 : X0,X4 : 'list()'(X0),X2 : 'list()'(X0)] : ('Cons'(X0,X3,X4) = X2 => mG7(X0,X1,X3,X4,X2) = iG8(X0,X1,X3,X4)) [fool $match elimination 50]
+55. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : X0,X0 : $tType] : filter_ge(X0,X1,X2) = mG7(X0,X1,X3,X4,X2) [fool elimination 50]
+56. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : X0,X0 : $tType] : filter_less(X0,X1,X2) = $match(X2,'Nil'(X0),'Nil'(X0),'Cons'(X0,X3,X4),$ite(less(X0,X3,X1), 'Cons'(X0,X3,filter_less(X0,X1,X4)),filter_less(X0,X1,X4))) [closure 6]
+59. ! [X0 : $tType,X1 : X0,X3 : X0,X4 : 'list()'(X0)] : (~less(X0,X3,X1) => filter_less(X0,X1,X4) = iG10(X0,X1,X3,X4)) [fool $ite elimination 56]
+60. ! [X0 : $tType,X1 : X0,X3 : X0,X4 : 'list()'(X0),X2 : 'list()'(X0)] : ('Cons'(X0,X3,X4) = X2 => mG9(X0,X1,X3,X4,X2) = iG10(X0,X1,X3,X4)) [fool $match elimination 56]
+61. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : X0,X0 : $tType] : filter_less(X0,X1,X2) = mG9(X0,X1,X3,X4,X2) [fool elimination 56]
+62. ! [X2 : X0,X1 : X0,X0 : $tType] : (leq(X0,X1,X2) = ~less(X0,X2,X1)) [closure 1]
+63. ! [X2 : X0,X1 : X0,X0 : $tType] : (leq(X0,X1,X2) <=> ~less(X0,X2,X1)) [fool elimination 62]
+64. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Cons'(X0,X2,X3) = X4 => mG9(X0,X1,X2,X3,X4) = iG10(X0,X1,X2,X3)) [rectify 60]
+65. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (~less(X0,X2,X1) => iG10(X0,X1,X2,X3) = filter_less(X0,X1,X3)) [rectify 59]
+66. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (~less(X0,X2,X1) => iG10(X0,X1,X2,X3) = filter_less(X0,X1,X3)) [flattening 65]
+69. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Cons'(X0,X2,X3) = X4 => mG7(X0,X1,X2,X3,X4) = iG8(X0,X1,X2,X3)) [rectify 54]
+72. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (~less(X0,X2,X1) => iG8(X0,X1,X2,X3) = 'Cons'(X0,X2,filter_ge(X0,X1,X3))) [rectify 52]
+73. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (~less(X0,X2,X1) => iG8(X0,X1,X2,X3) = 'Cons'(X0,X2,filter_ge(X0,X1,X3))) [flattening 72]
+75. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : ('Cons'(X0,X3,X2) = X4 => 'Cons'(X0,X3,append(X0,X2,X1)) = mG6(X0,X1,X2,X3,X4)) [rectify 48]
+76. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : ('Nil'(X0) = X4 => mG6(X0,X1,X2,X3,X4) = X1) [rectify 47]
+84. ! [X0 : $tType,X1 : 'list()'(X0),X2 : X0,X3 : 'list()'(X0)] : ('Cons'(X0,X2,X1) = X3 => append(X0,quicksort(X0,filter_less(X0,X2,X1)),'Cons'(X0,X2,quicksort(X0,filter_ge(X0,X2,X1)))) = mG3(X0,X1,X2,X3)) [rectify 36]
+85. ! [X0 : $tType,X1 : 'list()'(X0),X2 : X0,X3 : 'list()'(X0)] : ('Nil'(X0) = X3 => 'Nil'(X0) = mG3(X0,X1,X2,X3)) [rectify 35]
+94. ~! [X0 : $tType,X1 : X0,X2 : 'list()'(X0)] : filter_mset(X0,X1,X2) = filter_mset(X0,X1,quicksort(X0,X2)) [flattening 17]
+95. ! [X0 : $tType] : ! [X1 : X0,X2 : X0,X3 : 'list()'(X0)] : filter_mset(X0,X2,X3) = append(X0,filter_mset(X0,X2,filter_less(X0,X1,X3)),filter_mset(X0,X2,filter_ge(X0,X1,X3))) [rectify 15]
+96. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : filter_mset(X0,X2,X3) = append(X0,filter_mset(X0,X2,filter_less(X0,X1,X3)),filter_mset(X0,X2,filter_ge(X0,X1,X3))) [flattening 95]
+97. ! [X0 : $tType] : ! [X1 : 'list()'(X0),X2 : X0,X3 : 'list()'(X0)] : append(X0,filter_mset(X0,X2,X3),filter_mset(X0,X2,X1)) = filter_mset(X0,X2,append(X0,X3,X1)) [rectify 14]
+98. ! [X0 : $tType,X1 : 'list()'(X0),X2 : X0,X3 : 'list()'(X0)] : append(X0,filter_mset(X0,X2,X3),filter_mset(X0,X2,X1)) = filter_mset(X0,X2,append(X0,X3,X1)) [flattening 97]
+101. ! [X0 : 'list()'(X3),X1 : X3,X2 : 'list()'(X3),X3 : $tType] : quicksort(X3,X2) = mG3(X3,X0,X1,X2) [rectify 37]
+104. ! [X0 : 'list()'(X4),X1 : X4,X2 : 'list()'(X4),X3 : 'list()'(X4),X4 : $tType] : append(X4,X3,X2) = mG6(X4,X2,X0,X1,X3) [rectify 49]
+105. ! [X0 : 'list()'(X4),X1 : X4,X2 : 'list()'(X4),X3 : X4,X4 : $tType] : filter_ge(X4,X3,X2) = mG7(X4,X3,X1,X0,X2) [rectify 55]
+106. ! [X0 : 'list()'(X4),X1 : X4,X2 : 'list()'(X4),X3 : X4,X4 : $tType] : filter_less(X4,X3,X2) = mG9(X4,X3,X1,X0,X2) [rectify 61]
+113. ! [X0 : $tType,X1 : X0] : leq(X0,X1,X1) [flattening 2]
+114. ! [X0 : X2,X1 : X2,X2 : $tType] : (leq(X2,X1,X0) <=> ~less(X2,X0,X1)) [rectify 63]
+115. ! [X0 : X2,X1 : X2,X2 : $tType] : (leq(X2,X1,X0) <=> ~less(X2,X0,X1)) [flattening 114]
+116. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : (mG9(X0,X1,X2,X3,X4) = iG10(X0,X1,X2,X3) | 'Cons'(X0,X2,X3) != X4) [ennf transformation 64]
+117. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (iG10(X0,X1,X2,X3) = filter_less(X0,X1,X3) | less(X0,X2,X1)) [ennf transformation 66]
+120. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : (mG7(X0,X1,X2,X3,X4) = iG8(X0,X1,X2,X3) | 'Cons'(X0,X2,X3) != X4) [ennf transformation 69]
+122. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (iG8(X0,X1,X2,X3) = 'Cons'(X0,X2,filter_ge(X0,X1,X3)) | less(X0,X2,X1)) [ennf transformation 73]
+124. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : ('Cons'(X0,X3,append(X0,X2,X1)) = mG6(X0,X1,X2,X3,X4) | 'Cons'(X0,X3,X2) != X4) [ennf transformation 75]
+125. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : (mG6(X0,X1,X2,X3,X4) = X1 | 'Nil'(X0) != X4) [ennf transformation 76]
+130. ! [X0 : $tType,X1 : 'list()'(X0),X2 : X0,X3 : 'list()'(X0)] : (append(X0,quicksort(X0,filter_less(X0,X2,X1)),'Cons'(X0,X2,quicksort(X0,filter_ge(X0,X2,X1)))) = mG3(X0,X1,X2,X3) | 'Cons'(X0,X2,X1) != X3) [ennf transformation 84]
+131. ! [X0 : $tType,X1 : 'list()'(X0),X2 : X0,X3 : 'list()'(X0)] : ('Nil'(X0) = mG3(X0,X1,X2,X3) | 'Nil'(X0) != X3) [ennf transformation 85]
+138. ? [X0 : $tType,X1 : X0,X2 : 'list()'(X0)] : filter_mset(X0,X1,X2) != filter_mset(X0,X1,quicksort(X0,X2)) [ennf transformation 94]
+149. ? [X0 : $tType,X1 : X0,X2 : 'list()'(X0)] : filter_mset(X0,X1,X2) != filter_mset(X0,X1,quicksort(X0,X2)) => filter_mset(sK11,sK12,sK13) != filter_mset(sK11,sK12,quicksort(sK11,sK13)) [choice axiom]
+150. filter_mset(sK11,sK12,sK13) != filter_mset(sK11,sK12,quicksort(sK11,sK13)) [skolemisation 138,149]
+154. ! [X0 : X2,X1 : X2,X2 : $tType] : ((leq(X2,X1,X0) | less(X2,X0,X1)) & (~less(X2,X0,X1) | ~leq(X2,X1,X0))) [nnf transformation 115]
+155. mG9(X0,X1,X2,X3,X4) = iG10(X0,X1,X2,X3) | 'Cons'(X0,X2,X3) != X4 [cnf transformation 116]
+156. iG10(X0,X1,X2,X3) = filter_less(X0,X1,X3) | less(X0,X2,X1) [cnf transformation 117]
+159. mG7(X0,X1,X2,X3,X4) = iG8(X0,X1,X2,X3) | 'Cons'(X0,X2,X3) != X4 [cnf transformation 120]
+161. iG8(X0,X1,X2,X3) = 'Cons'(X0,X2,filter_ge(X0,X1,X3)) | less(X0,X2,X1) [cnf transformation 122]
+163. 'Cons'(X0,X3,append(X0,X2,X1)) = mG6(X0,X1,X2,X3,X4) | 'Cons'(X0,X3,X2) != X4 [cnf transformation 124]
+164. mG6(X0,X1,X2,X3,X4) = X1 | 'Nil'(X0) != X4 [cnf transformation 125]
+173. append(X0,quicksort(X0,filter_less(X0,X2,X1)),'Cons'(X0,X2,quicksort(X0,filter_ge(X0,X2,X1)))) = mG3(X0,X1,X2,X3) | 'Cons'(X0,X2,X1) != X3 [cnf transformation 130]
+174. 'Nil'(X0) = mG3(X0,X1,X2,X3) | 'Nil'(X0) != X3 [cnf transformation 131]
+183. filter_mset(sK11,sK12,sK13) != filter_mset(sK11,sK12,quicksort(sK11,sK13)) [cnf transformation 150]
+184. filter_mset(X0,X2,X3) = append(X0,filter_mset(X0,X2,filter_less(X0,X1,X3)),filter_mset(X0,X2,filter_ge(X0,X1,X3))) [cnf transformation 96]
+185. append(X0,filter_mset(X0,X2,X3),filter_mset(X0,X2,X1)) = filter_mset(X0,X2,append(X0,X3,X1)) [cnf transformation 98]
+189. quicksort(X3,X2) = mG3(X3,X0,X1,X2) [cnf transformation 101]
+194. append(X4,X3,X2) = mG6(X4,X2,X0,X1,X3) [cnf transformation 104]
+195. filter_ge(X4,X3,X2) = mG7(X4,X3,X1,X0,X2) [cnf transformation 105]
+196. filter_less(X4,X3,X2) = mG9(X4,X3,X1,X0,X2) [cnf transformation 106]
+200. leq(X0,X1,X1) [cnf transformation 113]
+201. ~leq(X2,X1,X0) | ~less(X2,X0,X1) [cnf transformation 154]
+203. filter_less(X0,X1,X4) = iG10(X0,X1,X2,X3) | 'Cons'(X0,X2,X3) != X4 [definition unfolding 155,196]
+205. filter_ge(X0,X1,X4) = iG8(X0,X1,X2,X3) | 'Cons'(X0,X2,X3) != X4 [definition unfolding 159,195]
+207. 'Cons'(X0,X3,append(X0,X2,X1)) = append(X0,X4,X1) | 'Cons'(X0,X3,X2) != X4 [definition unfolding 163,194]
+208. append(X0,X4,X1) = X1 | 'Nil'(X0) != X4 [definition unfolding 164,194]
+209. append(X0,quicksort(X0,filter_less(X0,X2,X1)),'Cons'(X0,X2,quicksort(X0,filter_ge(X0,X2,X1)))) = quicksort(X0,X3) | 'Cons'(X0,X2,X1) != X3 [definition unfolding 173,189]
+210. 'Nil'(X0) = quicksort(X0,X3) | 'Nil'(X0) != X3 [definition unfolding 174,189]
+213. iG10(X0,X1,X2,X3) = filter_less(X0,X1,'Cons'(X0,X2,X3)) [equality resolution 203]
+215. iG8(X0,X1,X2,X3) = filter_ge(X0,X1,'Cons'(X0,X2,X3)) [equality resolution 205]
+217. 'Cons'(X0,X3,append(X0,X2,X1)) = append(X0,'Cons'(X0,X3,X2),X1) [equality resolution 207]
+218. append(X0,'Nil'(X0),X1) = X1 [equality resolution 208]
+227. append(X0,quicksort(X0,filter_less(X0,X2,X1)),'Cons'(X0,X2,quicksort(X0,filter_ge(X0,X2,X1)))) = quicksort(X0,'Cons'(X0,X2,X1)) [equality resolution 209]
+228. 'Nil'(X0) = quicksort(X0,'Nil'(X0)) [equality resolution 210]
+236. less(X0,X2,X1) | filter_less(X0,X1,X3) = filter_less(X0,X1,'Cons'(X0,X2,X3)) [forward demodulation 156,213]
+239. less(X0,X2,X1) | 'Cons'(X0,X2,filter_ge(X0,X1,X3)) = filter_ge(X0,X1,'Cons'(X0,X2,X3)) [forward demodulation 161,215]
+247. ~less(X0,X1,X1) [resolution 201,200]
+297. ! [X2 : 'list()'(sK11),X1 : sK11] : (((filter_mset(sK11,sK12,filter_ge(sK11,X1,X2)) = filter_mset(sK11,sK12,quicksort(sK11,filter_ge(sK11,X1,X2))) & filter_mset(sK11,sK12,filter_less(sK11,X1,X2)) = filter_mset(sK11,sK12,quicksort(sK11,filter_less(sK11,X1,X2)))) => filter_mset(sK11,sK12,'Cons'(sK11,X1,X2)) = filter_mset(sK11,sK12,quicksort(sK11,'Cons'(sK11,X1,X2)))) & filter_mset(sK11,sK12,'Nil'(sK11)) = filter_mset(sK11,sK12,quicksort(sK11,'Nil'(sK11)))) => ! [X4 : 'list()'(sK11)] : filter_mset(sK11,sK12,X4) = filter_mset(sK11,sK12,quicksort(sK11,X4)) [structural induction hypothesis (recursion)]
+298. ! [X4 : 'list()'(sK11)] : filter_mset(sK11,sK12,X4) = filter_mset(sK11,sK12,quicksort(sK11,X4)) | ? [X2 : 'list()'(sK11),X1 : sK11] : ((filter_mset(sK11,sK12,'Cons'(sK11,X1,X2)) != filter_mset(sK11,sK12,quicksort(sK11,'Cons'(sK11,X1,X2))) & (filter_mset(sK11,sK12,filter_ge(sK11,X1,X2)) = filter_mset(sK11,sK12,quicksort(sK11,filter_ge(sK11,X1,X2))) & filter_mset(sK11,sK12,filter_less(sK11,X1,X2)) = filter_mset(sK11,sK12,quicksort(sK11,filter_less(sK11,X1,X2))))) | filter_mset(sK11,sK12,'Nil'(sK11)) != filter_mset(sK11,sK12,quicksort(sK11,'Nil'(sK11)))) [ennf transformation 297]
+299. filter_mset(sK11,sK12,'Nil'(sK11)) != filter_mset(sK11,sK12,quicksort(sK11,'Nil'(sK11))) | filter_mset(sK11,sK12,filter_less(sK11,sK18,sK17)) = filter_mset(sK11,sK12,quicksort(sK11,filter_less(sK11,sK18,sK17))) | filter_mset(sK11,sK12,X4) = filter_mset(sK11,sK12,quicksort(sK11,X4)) [cnf transformation 298]
+300. filter_mset(sK11,sK12,'Nil'(sK11)) != filter_mset(sK11,sK12,quicksort(sK11,'Nil'(sK11))) | filter_mset(sK11,sK12,filter_ge(sK11,sK18,sK17)) = filter_mset(sK11,sK12,quicksort(sK11,filter_ge(sK11,sK18,sK17))) | filter_mset(sK11,sK12,X4) = filter_mset(sK11,sK12,quicksort(sK11,X4)) [cnf transformation 298]
+301. filter_mset(sK11,sK12,'Nil'(sK11)) != filter_mset(sK11,sK12,quicksort(sK11,'Nil'(sK11))) | filter_mset(sK11,sK12,'Cons'(sK11,sK18,sK17)) != filter_mset(sK11,sK12,quicksort(sK11,'Cons'(sK11,sK18,sK17))) | filter_mset(sK11,sK12,X4) = filter_mset(sK11,sK12,quicksort(sK11,X4)) [cnf transformation 298]
+308. filter_mset(sK11,sK12,'Nil'(sK11)) != filter_mset(sK11,sK12,quicksort(sK11,'Nil'(sK11))) | filter_mset(sK11,sK12,'Cons'(sK11,sK18,sK17)) != filter_mset(sK11,sK12,quicksort(sK11,'Cons'(sK11,sK18,sK17))) [induction hyperresolution 183,301]
+309. filter_mset(sK11,sK12,'Nil'(sK11)) != filter_mset(sK11,sK12,quicksort(sK11,'Nil'(sK11))) | filter_mset(sK11,sK12,filter_ge(sK11,sK18,sK17)) = filter_mset(sK11,sK12,quicksort(sK11,filter_ge(sK11,sK18,sK17))) [induction hyperresolution 183,300]
+310. filter_mset(sK11,sK12,'Nil'(sK11)) != filter_mset(sK11,sK12,quicksort(sK11,'Nil'(sK11))) | filter_mset(sK11,sK12,filter_less(sK11,sK18,sK17)) = filter_mset(sK11,sK12,quicksort(sK11,filter_less(sK11,sK18,sK17))) [induction hyperresolution 183,299]
+317. filter_mset(sK11,sK12,'Nil'(sK11)) != filter_mset(sK11,sK12,'Nil'(sK11)) | filter_mset(sK11,sK12,filter_less(sK11,sK18,sK17)) = filter_mset(sK11,sK12,quicksort(sK11,filter_less(sK11,sK18,sK17))) [forward demodulation 310,228]
+318. filter_mset(sK11,sK12,filter_less(sK11,sK18,sK17)) = filter_mset(sK11,sK12,quicksort(sK11,filter_less(sK11,sK18,sK17))) [trivial inequality removal 317]
+319. filter_mset(sK11,sK12,'Nil'(sK11)) != filter_mset(sK11,sK12,'Nil'(sK11)) | filter_mset(sK11,sK12,filter_ge(sK11,sK18,sK17)) = filter_mset(sK11,sK12,quicksort(sK11,filter_ge(sK11,sK18,sK17))) [forward demodulation 309,228]
+320. filter_mset(sK11,sK12,filter_ge(sK11,sK18,sK17)) = filter_mset(sK11,sK12,quicksort(sK11,filter_ge(sK11,sK18,sK17))) [trivial inequality removal 319]
+321. filter_mset(sK11,sK12,'Nil'(sK11)) != filter_mset(sK11,sK12,'Nil'(sK11)) | filter_mset(sK11,sK12,'Cons'(sK11,sK18,sK17)) != filter_mset(sK11,sK12,quicksort(sK11,'Cons'(sK11,sK18,sK17))) [forward demodulation 308,228]
+322. filter_mset(sK11,sK12,'Cons'(sK11,sK18,sK17)) != filter_mset(sK11,sK12,quicksort(sK11,'Cons'(sK11,sK18,sK17))) [trivial inequality removal 321]
+439. filter_less(X0,X1,X2) = filter_less(X0,X1,'Cons'(X0,X1,X2)) [resolution 236,247]
+452. append(X3,filter_mset(X3,X7,'Cons'(X3,X4,X5)),filter_mset(X3,X7,X6)) = filter_mset(X3,X7,'Cons'(X3,X4,append(X3,X5,X6))) [superposition 185,217]
+461. 'Cons'(X0,X1,filter_ge(X0,X1,X2)) = filter_ge(X0,X1,'Cons'(X0,X1,X2)) [resolution 239,247]
+473. filter_mset(X3,X6,'Cons'(X3,X4,X5)) = append(X3,filter_mset(X3,X6,filter_less(X3,X4,X5)),filter_mset(X3,X6,filter_ge(X3,X4,'Cons'(X3,X4,X5)))) [superposition 184,439]
+478. filter_mset(X3,X6,'Cons'(X3,X4,X5)) = append(X3,filter_mset(X3,X6,filter_less(X3,X4,X5)),filter_mset(X3,X6,'Cons'(X3,X4,filter_ge(X3,X4,X5)))) [forward demodulation 473,461]
+494. append(X0,filter_mset(X0,X3,quicksort(X0,filter_less(X0,X1,X2))),filter_mset(X0,X3,'Cons'(X0,X1,quicksort(X0,filter_ge(X0,X1,X2))))) = filter_mset(X0,X3,quicksort(X0,'Cons'(X0,X1,X2))) [superposition 185,227]
+918. append(X0,filter_mset(X0,X2,'Cons'(X0,X3,'Nil'(X0))),filter_mset(X0,X2,X1)) = filter_mset(X0,X2,'Cons'(X0,X3,X1)) [superposition 452,218]
+927. filter_mset(X3,X6,'Cons'(X3,X4,X5)) = append(X3,filter_mset(X3,X6,filter_less(X3,X4,X5)),append(X3,filter_mset(X3,X6,'Cons'(X3,X4,'Nil'(X3))),filter_mset(X3,X6,filter_ge(X3,X4,X5)))) [backward demodulation 478,918]
+929. filter_mset(X0,X3,quicksort(X0,'Cons'(X0,X1,X2))) = append(X0,filter_mset(X0,X3,quicksort(X0,filter_less(X0,X1,X2))),append(X0,filter_mset(X0,X3,'Cons'(X0,X1,'Nil'(X0))),filter_mset(X0,X3,quicksort(X0,filter_ge(X0,X1,X2))))) [backward demodulation 494,918]
+933. filter_mset(sK11,sK12,quicksort(sK11,'Cons'(sK11,sK18,sK17))) != append(sK11,filter_mset(sK11,sK12,'Cons'(sK11,sK18,'Nil'(sK11))),filter_mset(sK11,sK12,sK17)) [backward demodulation 322,918]
+1337. filter_mset(sK11,sK12,quicksort(sK11,'Cons'(sK11,sK18,sK17))) = append(sK11,filter_mset(sK11,sK12,filter_less(sK11,sK18,sK17)),append(sK11,filter_mset(sK11,sK12,'Cons'(sK11,sK18,'Nil'(sK11))),filter_mset(sK11,sK12,quicksort(sK11,filter_ge(sK11,sK18,sK17))))) [superposition 929,318]
+1355. filter_mset(sK11,sK12,quicksort(sK11,'Cons'(sK11,sK18,sK17))) = append(sK11,filter_mset(sK11,sK12,filter_less(sK11,sK18,sK17)),append(sK11,filter_mset(sK11,sK12,'Cons'(sK11,sK18,'Nil'(sK11))),filter_mset(sK11,sK12,filter_ge(sK11,sK18,sK17)))) [forward demodulation 1337,320]
+1356. filter_mset(sK11,sK12,'Cons'(sK11,sK18,sK17)) = filter_mset(sK11,sK12,quicksort(sK11,'Cons'(sK11,sK18,sK17))) [forward demodulation 1355,927]
+1357. filter_mset(sK11,sK12,quicksort(sK11,'Cons'(sK11,sK18,sK17))) = append(sK11,filter_mset(sK11,sK12,'Cons'(sK11,sK18,'Nil'(sK11))),filter_mset(sK11,sK12,sK17)) [forward demodulation 1356,918]
+1358. $false [subsumption resolution 1357,933]
+% SZS output end Proof for conjecture
+% (47031)------------------------------
+% (47031)Version: Vampire 4.7 (commit )
+% (47031)Linked with Z3 4.9.1.0  NOTFOUND
+% (47031)Termination reason: Refutation
+
+% (47031)Memory used [KB]: 6652
+% (47031)Time elapsed: 0.059 s
+% (47031)------------------------------
+% (47031)------------------------------
+% (47030)Success in time 0.055 s

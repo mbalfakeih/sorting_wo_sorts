@@ -1,0 +1,2 @@
+User error: 
+Broken Constraint: if structural_induction_kind(recursion) is equal to recursion then newcnf(off) is equal to on

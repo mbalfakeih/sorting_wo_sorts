@@ -1,0 +1,653 @@
+% (51073)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=on:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51072)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=on:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51075)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=off:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51074)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=off:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51076)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=on:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51077)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=on:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51079)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=off:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51078)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=off:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51080)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=on:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51081)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=on:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51082)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=off:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51083)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=off:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51084)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=on:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51085)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=on:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51084)Refutation not found, non-redundant clauses discarded% (51084)------------------------------
+% (51084)Version: Vampire 4.7 (commit )
+% (51084)Linked with Z3 4.9.1.0  NOTFOUND
+% (51084)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51084)Memory used [KB]: 96842
+% (51084)Time elapsed: 8.924 s
+% (51084)------------------------------
+% (51084)------------------------------
+% (51078)Refutation not found, non-redundant clauses discarded% (51078)------------------------------
+% (51078)Version: Vampire 4.7 (commit )
+% (51078)Linked with Z3 4.9.1.0  NOTFOUND
+% (51078)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51078)Memory used [KB]: 109251
+% (51078)Time elapsed: 8.915 s
+% (51078)------------------------------
+% (51078)------------------------------
+% (51079)Refutation not found, non-redundant clauses discarded% (51079)------------------------------
+% (51079)Version: Vampire 4.7 (commit )
+% (51079)Linked with Z3 4.9.1.0  NOTFOUND
+% (51079)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51079)Memory used [KB]: 111042
+% (51079)Time elapsed: 8.933 s
+% (51079)------------------------------
+% (51079)------------------------------
+% (51089)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=off:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51090)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=off:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51091)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=off:indao=on:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51081)Refutation not found, non-redundant clauses discarded% (51081)------------------------------
+% (51081)Version: Vampire 4.7 (commit )
+% (51081)Linked with Z3 4.9.1.0  NOTFOUND
+% (51081)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51081)Memory used [KB]: 102727
+% (51081)Time elapsed: 8.979 s
+% (51081)------------------------------
+% (51081)------------------------------
+% (51082)Time limit reached!
+% (51082)------------------------------
+% (51082)Version: Vampire 4.7 (commit )
+% (51082)Linked with Z3 4.9.1.0  NOTFOUND
+% (51082)Termination reason: Time limit
+% (51082)Termination phase: Saturation
+
+% (51082)Memory used [KB]: 70105
+% (51082)Time elapsed: 9.0000 s
+% (51082)------------------------------
+% (51082)------------------------------
+% (51085)Time limit reached!
+% (51085)------------------------------
+% (51085)Version: Vampire 4.7 (commit )
+% (51085)Linked with Z3 4.9.1.0  NOTFOUND
+% (51085)Termination reason: Time limit
+% (51085)Termination phase: Saturation
+
+% (51085)Memory used [KB]: 111426
+% (51085)Time elapsed: 9.0000 s
+% (51085)------------------------------
+% (51085)------------------------------
+% (51077)Time limit reached!
+% (51077)------------------------------
+% (51077)Version: Vampire 4.7 (commit )
+% (51077)Linked with Z3 4.9.1.0  NOTFOUND
+% (51077)Termination reason: Time limit
+% (51077)Termination phase: Saturation
+
+% (51077)Memory used [KB]: 106565
+% (51077)Time elapsed: 9.0000 s
+% (51077)------------------------------
+% (51077)------------------------------
+% (51083)Refutation not found, non-redundant clauses discarded% (51083)------------------------------
+% (51083)Version: Vampire 4.7 (commit )
+% (51083)Linked with Z3 4.9.1.0  NOTFOUND
+% (51083)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51083)Memory used [KB]: 119614
+% (51083)Time elapsed: 8.986 s
+% (51083)------------------------------
+% (51083)------------------------------
+% (51076)Time limit reached!
+% (51076)------------------------------
+% (51076)Version: Vampire 4.7 (commit )
+% (51076)Linked with Z3 4.9.1.0  NOTFOUND
+% (51076)Termination reason: Time limit
+% (51076)Termination phase: Saturation
+
+% (51076)Memory used [KB]: 94795
+% (51076)Time elapsed: 9.0000 s
+% (51076)------------------------------
+% (51076)------------------------------
+% (51072)Time limit reached!
+% (51072)------------------------------
+% (51072)Version: Vampire 4.7 (commit )
+% (51072)Linked with Z3 4.9.1.0  NOTFOUND
+% (51072)Termination reason: Time limit
+% (51072)Termination phase: Saturation
+
+% (51072)Memory used [KB]: 85457
+% (51072)Time elapsed: 9.0000 s
+% (51072)------------------------------
+% (51072)------------------------------
+% (51074)Time limit reached!
+% (51074)------------------------------
+% (51074)Version: Vampire 4.7 (commit )
+% (51074)Linked with Z3 4.9.1.0  NOTFOUND
+% (51074)Termination reason: Time limit
+% (51074)Termination phase: Saturation
+
+% (51074)Memory used [KB]: 67291
+% (51074)Time elapsed: 9.0000 s
+% (51074)------------------------------
+% (51074)------------------------------
+% (51075)Time limit reached!
+% (51075)------------------------------
+% (51075)Version: Vampire 4.7 (commit )
+% (51075)Linked with Z3 4.9.1.0  NOTFOUND
+% (51075)Termination reason: Time limit
+% (51075)Termination phase: Saturation
+
+% (51075)Memory used [KB]: 100680
+% (51075)Time elapsed: 9.0000 s
+% (51075)------------------------------
+% (51075)------------------------------
+% (51092)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=off:indao=on:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51073)Time limit reached!
+% (51073)------------------------------
+% (51073)Version: Vampire 4.7 (commit )
+% (51073)Linked with Z3 4.9.1.0  NOTFOUND
+% (51073)Termination reason: Time limit
+% (51073)Termination phase: Saturation
+
+% (51073)Memory used [KB]: 102727
+% (51073)Time elapsed: 9.0000 s
+% (51073)------------------------------
+% (51073)------------------------------
+% (51080)Refutation not found, non-redundant clauses discarded% (51080)------------------------------
+% (51080)Version: Vampire 4.7 (commit )
+% (51080)Linked with Z3 4.9.1.0  NOTFOUND
+% (51080)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51080)Memory used [KB]: 88399
+% (51080)Time elapsed: 9.005 s
+% (51080)------------------------------
+% (51080)------------------------------
+% (51093)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=off:indao=off:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51094)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=off:indao=off:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51095)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=on:indao=on:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51096)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=on:indao=on:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51097)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=on:indao=off:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51098)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=on:indao=off:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51099)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=off:indao=on:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51100)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=off:indao=on:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51101)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=off:indao=off:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51102)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=off:indao=off:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51101)Refutation not found, non-redundant clauses discarded% (51101)------------------------------
+% (51101)Version: Vampire 4.7 (commit )
+% (51101)Linked with Z3 4.9.1.0  NOTFOUND
+% (51101)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51101)Memory used [KB]: 73047
+% (51101)Time elapsed: 8.811 s
+% (51101)------------------------------
+% (51101)------------------------------
+% (51091)Refutation not found, non-redundant clauses discarded% (51091)------------------------------
+% (51091)Version: Vampire 4.7 (commit )
+% (51091)Linked with Z3 4.9.1.0  NOTFOUND
+% (51091)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51091)Memory used [KB]: 80467
+% (51091)Time elapsed: 8.914 s
+% (51091)------------------------------
+% (51091)------------------------------
+% (51109)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=on:indao=on:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51089)Refutation not found, non-redundant clauses discarded% (51089)------------------------------
+% (51089)Version: Vampire 4.7 (commit )
+% (51089)Linked with Z3 4.9.1.0  NOTFOUND
+% (51089)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51089)Memory used [KB]: 127290
+% (51089)Time elapsed: 8.939 s
+% (51089)------------------------------
+% (51089)------------------------------
+% (51093)Refutation not found, non-redundant clauses discarded% (51093)------------------------------
+% (51093)Version: Vampire 4.7 (commit )
+% (51093)Linked with Z3 4.9.1.0  NOTFOUND
+% (51093)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51093)Memory used [KB]: 72152
+% (51093)Time elapsed: 8.878 s
+% (51093)------------------------------
+% (51093)------------------------------
+% (51110)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=on:indao=on:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51111)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=on:indao=off:urr=off_89 on lemma3 for (89ds/0Mi)
+% (51112)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=on:indao=off:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51092)Refutation not found, non-redundant clauses discarded% (51092)------------------------------
+% (51092)Version: Vampire 4.7 (commit )
+% (51092)Linked with Z3 4.9.1.0  NOTFOUND
+% (51092)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51092)Memory used [KB]: 92365
+% (51092)Time elapsed: 8.914 s
+% (51092)------------------------------
+% (51092)------------------------------
+% (51094)Refutation not found, non-redundant clauses discarded% (51094)------------------------------
+% (51094)Version: Vampire 4.7 (commit )
+% (51094)Linked with Z3 4.9.1.0  NOTFOUND
+% (51094)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51094)Memory used [KB]: 82898
+% (51094)Time elapsed: 8.918 s
+% (51094)------------------------------
+% (51094)------------------------------
+% (51113)lrs+1002_1_aac=none:anc=all:sac=on:ind=struct:thsq=on:to=lpo:nui=on:drc=encompass:sik=recursion:urr=on_89 on lemma3 for (89ds/0Mi)
+% (51095)Refutation not found, non-redundant clauses discarded% (51095)------------------------------
+% (51095)Version: Vampire 4.7 (commit )
+% (51095)Linked with Z3 4.9.1.0  NOTFOUND
+% (51095)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51095)Memory used [KB]: 75094
+% (51095)Time elapsed: 8.910 s
+% (51095)------------------------------
+% (51095)------------------------------
+% (51114)lrs+10_1__50 on lemma3 for (50ds/0Mi)
+% (51090)Time limit reached!
+% (51090)------------------------------
+% (51090)Version: Vampire 4.7 (commit )
+% (51090)Linked with Z3 4.9.1.0  NOTFOUND
+% (51090)Termination reason: Time limit
+% (51090)Termination phase: Saturation
+
+% (51090)Memory used [KB]: 124347
+% (51090)Time elapsed: 9.0000 s
+% (51090)------------------------------
+% (51090)------------------------------
+% (51115)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=on:urr=off_178 on lemma3 for (178ds/0Mi)
+% (51097)Refutation not found, non-redundant clauses discarded% (51097)------------------------------
+% (51097)Version: Vampire 4.7 (commit )
+% (51097)Linked with Z3 4.9.1.0  NOTFOUND
+% (51097)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51097)Memory used [KB]: 106693
+% (51097)Time elapsed: 8.937 s
+% (51097)------------------------------
+% (51097)------------------------------
+% (51102)Refutation not found, non-redundant clauses discarded% (51102)------------------------------
+% (51102)Version: Vampire 4.7 (commit )
+% (51102)Linked with Z3 4.9.1.0  NOTFOUND
+% (51102)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51102)Memory used [KB]: 88271
+% (51102)Time elapsed: 8.927 s
+% (51102)------------------------------
+% (51102)------------------------------
+% (51116)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=on:urr=on_178 on lemma3 for (178ds/0Mi)
+% (51098)Refutation not found, non-redundant clauses discarded% (51098)------------------------------
+% (51098)Version: Vampire 4.7 (commit )
+% (51098)Linked with Z3 4.9.1.0  NOTFOUND
+% (51098)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51098)Memory used [KB]: 99657
+% (51098)Time elapsed: 8.942 s
+% (51098)------------------------------
+% (51098)------------------------------
+% (51117)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=off:urr=off_178 on lemma3 for (178ds/0Mi)
+% (51118)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=off:urr=on_178 on lemma3 for (178ds/0Mi)
+% (51119)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=on:urr=off_178 on lemma3 for (178ds/0Mi)
+% (51096)Time limit reached!
+% (51096)------------------------------
+% (51096)Version: Vampire 4.7 (commit )
+% (51096)Linked with Z3 4.9.1.0  NOTFOUND
+% (51096)Termination reason: Time limit
+% (51096)Termination phase: Saturation
+
+% (51096)Memory used [KB]: 99401
+% (51096)Time elapsed: 9.0000 s
+% (51096)------------------------------
+% (51096)------------------------------
+% (51120)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=on:urr=on_178 on lemma3 for (178ds/0Mi)
+% (51099)Refutation not found, non-redundant clauses discarded% (51099)------------------------------
+% (51099)Version: Vampire 4.7 (commit )
+% (51099)Linked with Z3 4.9.1.0  NOTFOUND
+% (51099)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51099)Memory used [KB]: 82514
+% (51099)Time elapsed: 9.002 s
+% (51099)------------------------------
+% (51099)------------------------------
+% (51100)Time limit reached!
+% (51100)------------------------------
+% (51100)Version: Vampire 4.7 (commit )
+% (51100)Linked with Z3 4.9.1.0  NOTFOUND
+% (51100)Termination reason: Time limit
+% (51100)Termination phase: Saturation
+
+% (51100)Memory used [KB]: 100168
+% (51100)Time elapsed: 9.0000 s
+% (51100)------------------------------
+% (51100)------------------------------
+% (51121)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=off:urr=off_178 on lemma3 for (178ds/0Mi)
+% (51122)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=off:urr=on_178 on lemma3 for (178ds/0Mi)
+% (51114)Time limit reached!
+% (51114)------------------------------
+% (51114)Version: Vampire 4.7 (commit )
+% (51114)Linked with Z3 4.9.1.0  NOTFOUND
+% (51114)Termination reason: Time limit
+% (51114)Termination phase: Saturation
+
+% (51114)Memory used [KB]: 40681
+% (51114)Time elapsed: 5.100 s
+% (51114)------------------------------
+% (51114)------------------------------
+% (51124)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=on:urr=off_178 on lemma3 for (178ds/0Mi)
+% (51109)Refutation not found, non-redundant clauses discarded% (51109)------------------------------
+% (51109)Version: Vampire 4.7 (commit )
+% (51109)Linked with Z3 4.9.1.0  NOTFOUND
+% (51109)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51109)Memory used [KB]: 90574
+% (51109)Time elapsed: 8.916 s
+% (51109)------------------------------
+% (51109)------------------------------
+% (51126)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=on:urr=on_178 on lemma3 for (178ds/0Mi)
+% (51110)Time limit reached!
+% (51110)------------------------------
+% (51110)Version: Vampire 4.7 (commit )
+% (51110)Linked with Z3 4.9.1.0  NOTFOUND
+% (51110)Termination reason: Time limit
+% (51110)Termination phase: Saturation
+
+% (51110)Memory used [KB]: 108100
+% (51110)Time elapsed: 9.0000 s
+% (51110)------------------------------
+% (51110)------------------------------
+% (51112)Refutation not found, non-redundant clauses discarded% (51112)------------------------------
+% (51112)Version: Vampire 4.7 (commit )
+% (51112)Linked with Z3 4.9.1.0  NOTFOUND
+% (51112)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51112)Memory used [KB]: 110275
+% (51112)Time elapsed: 8.984 s
+% (51112)------------------------------
+% (51112)------------------------------
+% (51111)Time limit reached!
+% (51111)------------------------------
+% (51111)Version: Vampire 4.7 (commit )
+% (51111)Linked with Z3 4.9.1.0  NOTFOUND
+% (51111)Termination reason: Time limit
+% (51111)Termination phase: Saturation
+
+% (51111)Memory used [KB]: 102855
+% (51111)Time elapsed: 9.0000 s
+% (51111)------------------------------
+% (51111)------------------------------
+% (51127)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=off:urr=off_178 on lemma3 for (178ds/0Mi)
+% (51128)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=off:urr=on_178 on lemma3 for (178ds/0Mi)
+% (51129)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=on:urr=off_178 on lemma3 for (178ds/0Mi)
+% (51113)Time limit reached!
+% (51113)------------------------------
+% (51113)Version: Vampire 4.7 (commit )
+% (51113)Linked with Z3 4.9.1.0  NOTFOUND
+% (51113)Termination reason: Time limit
+% (51113)Termination phase: Saturation
+
+% (51113)Memory used [KB]: 61662
+% (51113)Time elapsed: 9.0000 s
+% (51113)------------------------------
+% (51113)------------------------------
+% (51130)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=on:urr=on_178 on lemma3 for (178ds/0Mi)
+% (51117)Refutation not found, non-redundant clauses discarded% (51117)------------------------------
+% (51117)Version: Vampire 4.7 (commit )
+% (51117)Linked with Z3 4.9.1.0  NOTFOUND
+% (51117)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51117)Memory used [KB]: 123068
+% (51117)Time elapsed: 17.682 s
+% (51117)------------------------------
+% (51117)------------------------------
+% (51140)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=off:urr=off_178 on lemma3 for (178ds/0Mi)
+% (51115)Refutation not found, non-redundant clauses discarded% (51115)------------------------------
+% (51115)Version: Vampire 4.7 (commit )
+% (51115)Linked with Z3 4.9.1.0  NOTFOUND
+% (51115)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51115)Memory used [KB]: 128569
+% (51115)Time elapsed: 17.758 s
+% (51115)------------------------------
+% (51115)------------------------------
+% (51141)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=off:urr=on_178 on lemma3 for (178ds/0Mi)
+% (51118)Refutation not found, non-redundant clauses discarded% (51118)------------------------------
+% (51118)Version: Vampire 4.7 (commit )
+% (51118)Linked with Z3 4.9.1.0  NOTFOUND
+% (51118)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51118)Memory used [KB]: 122428
+% (51118)Time elapsed: 17.803 s
+% (51118)------------------------------
+% (51118)------------------------------
+% (51142)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=off:indao=on:urr=off_178 on lemma3 for (178ds/0Mi)
+% (51116)Time limit reached!
+% (51116)------------------------------
+% (51116)Version: Vampire 4.7 (commit )
+% (51116)Linked with Z3 4.9.1.0  NOTFOUND
+% (51116)Termination reason: Time limit
+% (51116)Termination phase: Saturation
+
+% (51116)Memory used [KB]: 172449
+% (51116)Time elapsed: 17.900 s
+% (51116)------------------------------
+% (51116)------------------------------
+% (51119)Time limit reached!
+% (51119)------------------------------
+% (51119)Version: Vampire 4.7 (commit )
+% (51119)Linked with Z3 4.9.1.0  NOTFOUND
+% (51119)Termination reason: Time limit
+% (51119)Termination phase: Saturation
+
+% (51119)Memory used [KB]: 116543
+% (51119)Time elapsed: 17.900 s
+% (51119)------------------------------
+% (51119)------------------------------
+% (51143)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=off:indao=on:urr=on_178 on lemma3 for (178ds/0Mi)
+% (51144)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=off:indao=off:urr=off_178 on lemma3 for (178ds/0Mi)
+% (51120)Time limit reached!
+% (51120)------------------------------
+% (51120)Version: Vampire 4.7 (commit )
+% (51120)Linked with Z3 4.9.1.0  NOTFOUND
+% (51120)Termination reason: Time limit
+% (51120)Termination phase: Saturation
+
+% (51120)Memory used [KB]: 169506
+% (51120)Time elapsed: 17.900 s
+% (51120)------------------------------
+% (51120)------------------------------
+% (51145)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=off:indao=off:urr=on_178 on lemma3 for (178ds/0Mi)
+% (51121)Time limit reached!
+% (51121)------------------------------
+% (51121)Version: Vampire 4.7 (commit )
+% (51121)Linked with Z3 4.9.1.0  NOTFOUND
+% (51121)Termination reason: Time limit
+% (51121)Termination phase: Saturation
+
+% (51121)Memory used [KB]: 193685
+% (51121)Time elapsed: 17.900 s
+% (51121)------------------------------
+% (51121)------------------------------
+% (51122)Time limit reached!
+% (51122)------------------------------
+% (51122)Version: Vampire 4.7 (commit )
+% (51122)Linked with Z3 4.9.1.0  NOTFOUND
+% (51122)Termination reason: Time limit
+% (51122)Termination phase: Saturation
+
+% (51122)Memory used [KB]: 171425
+% (51122)Time elapsed: 17.900 s
+% (51122)------------------------------
+% (51122)------------------------------
+% (51146)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=on:indao=on:urr=off_178 on lemma3 for (178ds/0Mi)
+% (51147)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=on:indao=on:urr=on_178 on lemma3 for (178ds/0Mi)
+% (51124)Time limit reached!
+% (51124)------------------------------
+% (51124)Version: Vampire 4.7 (commit )
+% (51124)Linked with Z3 4.9.1.0  NOTFOUND
+% (51124)Termination reason: Time limit
+% (51124)Termination phase: Saturation
+
+% (51124)Memory used [KB]: 110915
+% (51124)Time elapsed: 17.900 s
+% (51124)------------------------------
+% (51124)------------------------------
+% (51150)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=on:indao=off:urr=off_178 on lemma3 for (178ds/0Mi)
+% (51127)Refutation not found, non-redundant clauses discarded% (51127)------------------------------
+% (51127)Version: Vampire 4.7 (commit )
+% (51127)Linked with Z3 4.9.1.0  NOTFOUND
+% (51127)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51127)Memory used [KB]: 139827
+% (51127)Time elapsed: 17.805 s
+% (51127)------------------------------
+% (51127)------------------------------
+% (51126)Time limit reached!
+% (51126)------------------------------
+% (51126)Version: Vampire 4.7 (commit )
+% (51126)Linked with Z3 4.9.1.0  NOTFOUND
+% (51126)Termination reason: Time limit
+% (51126)Termination phase: Saturation
+
+% (51126)Memory used [KB]: 166692
+% (51126)Time elapsed: 17.900 s
+% (51126)------------------------------
+% (51126)------------------------------
+% (51151)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=off:indoct=on:indao=off:urr=on_178 on lemma3 for (152ds/0Mi)
+% (51152)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=off:indao=on:urr=off_178 on lemma3 for (152ds/0Mi)
+% (51129)Refutation not found, non-redundant clauses discarded% (51129)------------------------------
+% (51129)Version: Vampire 4.7 (commit )
+% (51129)Linked with Z3 4.9.1.0  NOTFOUND
+% (51129)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51129)Memory used [KB]: 144816
+% (51129)Time elapsed: 17.856 s
+% (51129)------------------------------
+% (51129)------------------------------
+% (51128)Time limit reached!
+% (51128)------------------------------
+% (51128)Version: Vampire 4.7 (commit )
+% (51128)Linked with Z3 4.9.1.0  NOTFOUND
+% (51128)Termination reason: Time limit
+% (51128)Termination phase: Saturation
+
+% (51128)Memory used [KB]: 168995
+% (51128)Time elapsed: 17.900 s
+% (51128)------------------------------
+% (51128)------------------------------
+% (51154)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=off:indao=on:urr=on_178 on lemma3 for (152ds/0Mi)
+% (51155)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=off:indao=off:urr=off_178 on lemma3 for (151ds/0Mi)
+% (51130)Time limit reached!
+% (51130)------------------------------
+% (51130)Version: Vampire 4.7 (commit )
+% (51130)Linked with Z3 4.9.1.0  NOTFOUND
+% (51130)Termination reason: Time limit
+% (51130)Termination phase: Saturation
+
+% (51130)Memory used [KB]: 183962
+% (51130)Time elapsed: 17.900 s
+% (51130)------------------------------
+% (51130)------------------------------
+% (51156)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=off:indao=off:urr=on_178 on lemma3 for (151ds/0Mi)
+% (51140)Time limit reached!
+% (51140)------------------------------
+% (51140)Version: Vampire 4.7 (commit )
+% (51140)Linked with Z3 4.9.1.0  NOTFOUND
+% (51140)Termination reason: Time limit
+% (51140)Termination phase: Saturation
+
+% (51140)Memory used [KB]: 184090
+% (51140)Time elapsed: 17.900 s
+% (51140)------------------------------
+% (51140)------------------------------
+% (51165)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=on:indao=on:urr=off_178 on lemma3 for (63ds/0Mi)
+% (51141)Time limit reached!
+% (51141)------------------------------
+% (51141)Version: Vampire 4.7 (commit )
+% (51141)Linked with Z3 4.9.1.0  NOTFOUND
+% (51141)Termination reason: Time limit
+% (51141)Termination phase: Saturation
+
+% (51141)Memory used [KB]: 209165
+% (51141)Time elapsed: 17.900 s
+% (51141)------------------------------
+% (51141)------------------------------
+% (51166)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=on:indao=on:urr=on_178 on lemma3 for (63ds/0Mi)
+% (51144)Refutation not found, non-redundant clauses discarded% (51144)------------------------------
+% (51144)Version: Vampire 4.7 (commit )
+% (51144)Linked with Z3 4.9.1.0  NOTFOUND
+% (51144)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51144)Memory used [KB]: 97354
+% (51144)Time elapsed: 17.792 s
+% (51144)------------------------------
+% (51144)------------------------------
+% (51142)Time limit reached!
+% (51142)------------------------------
+% (51142)Version: Vampire 4.7 (commit )
+% (51142)Linked with Z3 4.9.1.0  NOTFOUND
+% (51142)Termination reason: Time limit
+% (51142)Termination phase: Saturation
+
+% (51142)Memory used [KB]: 135093
+% (51142)Time elapsed: 17.900 s
+% (51142)------------------------------
+% (51142)------------------------------
+% (51143)Refutation not found, non-redundant clauses discarded% (51143)------------------------------
+% (51143)Version: Vampire 4.7 (commit )
+% (51143)Linked with Z3 4.9.1.0  NOTFOUND
+% (51143)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51143)Memory used [KB]: 143409
+% (51143)Time elapsed: 17.814 s
+% (51143)------------------------------
+% (51143)------------------------------
+% (51167)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=on:indao=off:urr=off_178 on lemma3 for (63ds/0Mi)
+% (51168)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=one:nui=on:indoct=on:indao=off:urr=on_178 on lemma3 for (62ds/0Mi)
+% (51169)lrs+1002_1_aac=none:anc=all:sac=on:ind=struct:thsq=on:to=lpo:nui=on:drc=encompass:sik=recursion:urr=on_178 on lemma3 for (62ds/0Mi)
+% (51145)Refutation not found, non-redundant clauses discarded% (51145)------------------------------
+% (51145)Version: Vampire 4.7 (commit )
+% (51145)Linked with Z3 4.9.1.0  NOTFOUND
+% (51145)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51145)Memory used [KB]: 139571
+% (51145)Time elapsed: 17.864 s
+% (51145)------------------------------
+% (51145)------------------------------
+% (51170)lrs+10_1__100 on lemma3 for (61ds/0Mi)
+% (51147)Refutation not found, non-redundant clauses discarded% (51147)------------------------------
+% (51147)Version: Vampire 4.7 (commit )
+% (51147)Linked with Z3 4.9.1.0  NOTFOUND
+% (51147)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51147)Memory used [KB]: 129848
+% (51147)Time elapsed: 17.841 s
+% (51147)------------------------------
+% (51147)------------------------------
+% (51171)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=on:urr=off_356 on lemma3 for (61ds/0Mi)
+% (51146)Time limit reached!
+% (51146)------------------------------
+% (51146)Version: Vampire 4.7 (commit )
+% (51146)Linked with Z3 4.9.1.0  NOTFOUND
+% (51146)Termination reason: Time limit
+% (51146)Termination phase: Saturation
+
+% (51146)Memory used [KB]: 123835
+% (51146)Time elapsed: 17.900 s
+% (51146)------------------------------
+% (51146)------------------------------
+% (51172)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=on:urr=on_356 on lemma3 for (60ds/0Mi)
+% (51150)Time limit reached!
+% (51150)------------------------------
+% (51150)Version: Vampire 4.7 (commit )
+% (51150)Linked with Z3 4.9.1.0  NOTFOUND
+% (51150)Termination reason: Time limit
+% (51150)Termination phase: Saturation
+
+% (51150)Memory used [KB]: 173216
+% (51150)Time elapsed: 17.900 s
+% (51150)------------------------------
+% (51150)------------------------------
+% (51209)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=off:urr=off_356 on lemma3 for (10ds/0Mi)
+% (51170)Refutation not found, non-redundant clauses discarded% (51170)------------------------------
+% (51170)Version: Vampire 4.7 (commit )
+% (51170)Linked with Z3 4.9.1.0  NOTFOUND
+% (51170)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (51170)Memory used [KB]: 41577
+% (51170)Time elapsed: 6.100 s
+% (51170)------------------------------
+% (51170)------------------------------
+% (51071)Proof not found in time 59.93 s
+% (51071)SZS status Timeout for lemma3

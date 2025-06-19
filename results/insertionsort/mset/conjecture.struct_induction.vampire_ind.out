@@ -1,0 +1,101 @@
+% (41336)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=on:urr=off_89 on conjecture for (89ds/0Mi)
+% (41338)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=off:urr=off_89 on conjecture for (89ds/0Mi)
+% (41337)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=on:urr=on_89 on conjecture for (89ds/0Mi)
+% (41339)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=off:urr=on_89 on conjecture for (89ds/0Mi)
+% (41342)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=off:urr=off_89 on conjecture for (89ds/0Mi)
+% (41341)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=on:urr=on_89 on conjecture for (89ds/0Mi)
+% (41340)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=on:urr=off_89 on conjecture for (89ds/0Mi)
+% (41343)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=off:urr=on_89 on conjecture for (89ds/0Mi)
+% (41344)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=on:urr=off_89 on conjecture for (89ds/0Mi)
+% (41345)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=on:urr=on_89 on conjecture for (89ds/0Mi)
+% (41346)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=off:urr=off_89 on conjecture for (89ds/0Mi)
+% (41347)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=off:urr=on_89 on conjecture for (89ds/0Mi)
+% (41348)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=on:urr=off_89 on conjecture for (89ds/0Mi)
+% (41349)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=on:urr=on_89 on conjecture for (89ds/0Mi)
+% (41336)First to succeed.
+% (41338)Also succeeded, but the first one will report.
+% (41344)Also succeeded, but the first one will report.
+% (41336)Refutation found. Thanks to Tanya!
+% SZS status Unsatisfiable for conjecture
+% SZS output start Proof for conjecture
+7. isort(X0,X1) = $match(X1,'Nil'(X0),'Nil'(X0),'Cons'(X0,X2,X3),insort(X0,X2,isort(X0,X3))) [input]
+8. filter_mset(X0,X1,X2) = $match(X2,'Nil'(X0),'Nil'(X0),'Cons'(X0,X3,X4),$ite(X1 = X3, 'Cons'(X0,X3,filter_mset(X0,X1,X4)),filter_mset(X0,X1,X4))) [input]
+9. ! [X0 : $tType] : ! [X2 : X0,X1 : X0,X3 : 'list()'(X0)] : filter_mset(X0,X1,insort(X0,X2,X3)) = filter_mset(X0,X1,'Cons'(X0,X2,X3)) [input]
+10. ! [X0 : $tType] : ! [X1 : X0,X2 : 'list()'(X0)] : filter_mset(X0,X1,X2) = filter_mset(X0,X1,isort(X0,X2)) [input]
+11. ~! [X0 : $tType] : ! [X1 : X0,X2 : 'list()'(X0)] : filter_mset(X0,X1,X2) = filter_mset(X0,X1,isort(X0,X2)) [negated conjecture 10]
+18. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : X0,X0 : $tType] : filter_mset(X0,X1,X2) = $match(X2,'Nil'(X0),'Nil'(X0),'Cons'(X0,X3,X4),$ite(X1 = X3, 'Cons'(X0,X3,filter_mset(X0,X1,X4)),filter_mset(X0,X1,X4))) [closure 8]
+20. ! [X0 : $tType,X3 : X0,X1 : X0,X4 : 'list()'(X0)] : (X1 = X3 => 'Cons'(X0,X3,filter_mset(X0,X1,X4)) = iG1(X0,X3,X1,X4)) [fool $ite elimination 18]
+21. ! [X0 : $tType,X3 : X0,X1 : X0,X4 : 'list()'(X0)] : (~X1 = X3 => filter_mset(X0,X1,X4) = iG1(X0,X3,X1,X4)) [fool $ite elimination 18]
+22. ! [X0 : $tType,X3 : X0,X1 : X0,X4 : 'list()'(X0),X2 : 'list()'(X0)] : ('Cons'(X0,X3,X4) = X2 => mG0(X0,X3,X1,X4,X2) = iG1(X0,X3,X1,X4)) [fool $match elimination 18]
+23. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : X0,X0 : $tType] : filter_mset(X0,X1,X2) = mG0(X0,X3,X1,X4,X2) [fool elimination 18]
+24. ! [X3 : 'list()'(X0),X2 : X0,X1 : 'list()'(X0),X0 : $tType] : isort(X0,X1) = $match(X1,'Nil'(X0),'Nil'(X0),'Cons'(X0,X2,X3),insort(X0,X2,isort(X0,X3))) [closure 7]
+25. ! [X0 : $tType,X3 : 'list()'(X0),X2 : X0,X1 : 'list()'(X0)] : ('Nil'(X0) = X1 => 'Nil'(X0) = mG2(X0,X3,X2,X1)) [fool $match elimination 24]
+26. ! [X0 : $tType,X3 : 'list()'(X0),X2 : X0,X1 : 'list()'(X0)] : ('Cons'(X0,X2,X3) = X1 => insort(X0,X2,isort(X0,X3)) = mG2(X0,X3,X2,X1)) [fool $match elimination 24]
+27. ! [X3 : 'list()'(X0),X2 : X0,X1 : 'list()'(X0),X0 : $tType] : isort(X0,X1) = mG2(X0,X3,X2,X1) [fool elimination 24]
+39. ! [X0 : $tType,X1 : 'list()'(X0),X2 : X0,X3 : 'list()'(X0)] : ('Cons'(X0,X2,X1) = X3 => insort(X0,X2,isort(X0,X1)) = mG2(X0,X1,X2,X3)) [rectify 26]
+40. ! [X0 : $tType,X1 : 'list()'(X0),X2 : X0,X3 : 'list()'(X0)] : ('Nil'(X0) = X3 => 'Nil'(X0) = mG2(X0,X1,X2,X3)) [rectify 25]
+41. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Cons'(X0,X1,X3) = X4 => mG0(X0,X1,X2,X3,X4) = iG1(X0,X1,X2,X3)) [rectify 22]
+42. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (~X1 = X2 => iG1(X0,X1,X2,X3) = filter_mset(X0,X2,X3)) [rectify 21]
+43. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (X1 != X2 => iG1(X0,X1,X2,X3) = filter_mset(X0,X2,X3)) [flattening 42]
+44. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (X1 = X2 => iG1(X0,X1,X2,X3) = 'Cons'(X0,X1,filter_mset(X0,X2,X3))) [rectify 20]
+46. ~! [X0 : $tType,X1 : X0,X2 : 'list()'(X0)] : filter_mset(X0,X1,X2) = filter_mset(X0,X1,isort(X0,X2)) [flattening 11]
+47. ! [X0 : $tType] : ! [X1 : X0,X2 : X0,X3 : 'list()'(X0)] : filter_mset(X0,X2,insort(X0,X1,X3)) = filter_mset(X0,X2,'Cons'(X0,X1,X3)) [rectify 9]
+48. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : filter_mset(X0,X2,insort(X0,X1,X3)) = filter_mset(X0,X2,'Cons'(X0,X1,X3)) [flattening 47]
+49. ! [X0 : 'list()'(X4),X1 : X4,X2 : 'list()'(X4),X3 : X4,X4 : $tType] : filter_mset(X4,X3,X2) = mG0(X4,X1,X3,X0,X2) [rectify 23]
+50. ! [X0 : 'list()'(X3),X1 : X3,X2 : 'list()'(X3),X3 : $tType] : isort(X3,X2) = mG2(X3,X0,X1,X2) [rectify 27]
+65. ! [X0 : $tType,X1 : 'list()'(X0),X2 : X0,X3 : 'list()'(X0)] : (insort(X0,X2,isort(X0,X1)) = mG2(X0,X1,X2,X3) | 'Cons'(X0,X2,X1) != X3) [ennf transformation 39]
+66. ! [X0 : $tType,X1 : 'list()'(X0),X2 : X0,X3 : 'list()'(X0)] : ('Nil'(X0) = mG2(X0,X1,X2,X3) | 'Nil'(X0) != X3) [ennf transformation 40]
+67. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : (mG0(X0,X1,X2,X3,X4) = iG1(X0,X1,X2,X3) | 'Cons'(X0,X1,X3) != X4) [ennf transformation 41]
+68. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (iG1(X0,X1,X2,X3) = filter_mset(X0,X2,X3) | X1 = X2) [ennf transformation 43]
+69. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (iG1(X0,X1,X2,X3) = 'Cons'(X0,X1,filter_mset(X0,X2,X3)) | X1 != X2) [ennf transformation 44]
+71. ? [X0 : $tType,X1 : X0,X2 : 'list()'(X0)] : filter_mset(X0,X1,X2) != filter_mset(X0,X1,isort(X0,X2)) [ennf transformation 46]
+76. ? [X0 : $tType,X1 : X0,X2 : 'list()'(X0)] : filter_mset(X0,X1,X2) != filter_mset(X0,X1,isort(X0,X2)) => filter_mset(sK5,sK6,sK7) != filter_mset(sK5,sK6,isort(sK5,sK7)) [choice axiom]
+77. filter_mset(sK5,sK6,sK7) != filter_mset(sK5,sK6,isort(sK5,sK7)) [skolemisation 71,76]
+82. insort(X0,X2,isort(X0,X1)) = mG2(X0,X1,X2,X3) | 'Cons'(X0,X2,X1) != X3 [cnf transformation 65]
+83. 'Nil'(X0) = mG2(X0,X1,X2,X3) | 'Nil'(X0) != X3 [cnf transformation 66]
+84. mG0(X0,X1,X2,X3,X4) = iG1(X0,X1,X2,X3) | 'Cons'(X0,X1,X3) != X4 [cnf transformation 67]
+85. iG1(X0,X1,X2,X3) = filter_mset(X0,X2,X3) | X1 = X2 [cnf transformation 68]
+86. iG1(X0,X1,X2,X3) = 'Cons'(X0,X1,filter_mset(X0,X2,X3)) | X1 != X2 [cnf transformation 69]
+88. filter_mset(sK5,sK6,sK7) != filter_mset(sK5,sK6,isort(sK5,sK7)) [cnf transformation 77]
+89. filter_mset(X0,X2,insort(X0,X1,X3)) = filter_mset(X0,X2,'Cons'(X0,X1,X3)) [cnf transformation 48]
+90. filter_mset(X4,X3,X2) = mG0(X4,X1,X3,X0,X2) [cnf transformation 49]
+91. isort(X3,X2) = mG2(X3,X0,X1,X2) [cnf transformation 50]
+99. isort(X0,X3) = insort(X0,X2,isort(X0,X1)) | 'Cons'(X0,X2,X1) != X3 [definition unfolding 82,91]
+100. 'Nil'(X0) = isort(X0,X3) | 'Nil'(X0) != X3 [definition unfolding 83,91]
+101. iG1(X0,X1,X2,X3) = filter_mset(X0,X2,X4) | 'Cons'(X0,X1,X3) != X4 [definition unfolding 84,90]
+105. insort(X0,X2,isort(X0,X1)) = isort(X0,'Cons'(X0,X2,X1)) [equality resolution 99]
+106. 'Nil'(X0) = isort(X0,'Nil'(X0)) [equality resolution 100]
+107. iG1(X0,X1,X2,X3) = filter_mset(X0,X2,'Cons'(X0,X1,X3)) [equality resolution 101]
+108. iG1(X0,X2,X2,X3) = 'Cons'(X0,X2,filter_mset(X0,X2,X3)) [equality resolution 86]
+112. filter_mset(X0,X2,X3) = filter_mset(X0,X2,'Cons'(X0,X1,X3)) | X1 = X2 [forward demodulation 85,107]
+162. ! [X2 : sK5,X3 : 'list()'(sK5)] : ((filter_mset(sK5,sK6,X3) = filter_mset(sK5,sK6,isort(sK5,X3)) => filter_mset(sK5,sK6,'Cons'(sK5,X2,X3)) = filter_mset(sK5,sK6,isort(sK5,'Cons'(sK5,X2,X3)))) & filter_mset(sK5,sK6,'Nil'(sK5)) = filter_mset(sK5,sK6,isort(sK5,'Nil'(sK5)))) => ! [X6 : 'list()'(sK5)] : filter_mset(sK5,sK6,X6) = filter_mset(sK5,sK6,isort(sK5,X6)) [structural induction hypothesis (recursion)]
+163. ! [X6 : 'list()'(sK5)] : filter_mset(sK5,sK6,X6) = filter_mset(sK5,sK6,isort(sK5,X6)) | ? [X2 : sK5,X3 : 'list()'(sK5)] : ((filter_mset(sK5,sK6,'Cons'(sK5,X2,X3)) != filter_mset(sK5,sK6,isort(sK5,'Cons'(sK5,X2,X3))) & filter_mset(sK5,sK6,X3) = filter_mset(sK5,sK6,isort(sK5,X3))) | filter_mset(sK5,sK6,'Nil'(sK5)) != filter_mset(sK5,sK6,isort(sK5,'Nil'(sK5)))) [ennf transformation 162]
+164. filter_mset(sK5,sK6,'Nil'(sK5)) != filter_mset(sK5,sK6,isort(sK5,'Nil'(sK5))) | filter_mset(sK5,sK6,sK14) = filter_mset(sK5,sK6,isort(sK5,sK14)) | filter_mset(sK5,sK6,X6) = filter_mset(sK5,sK6,isort(sK5,X6)) [cnf transformation 163]
+165. filter_mset(sK5,sK6,'Nil'(sK5)) != filter_mset(sK5,sK6,isort(sK5,'Nil'(sK5))) | filter_mset(sK5,sK6,'Cons'(sK5,sK13,sK14)) != filter_mset(sK5,sK6,isort(sK5,'Cons'(sK5,sK13,sK14))) | filter_mset(sK5,sK6,X6) = filter_mset(sK5,sK6,isort(sK5,X6)) [cnf transformation 163]
+170. filter_mset(sK5,sK6,'Nil'(sK5)) != filter_mset(sK5,sK6,isort(sK5,'Nil'(sK5))) | filter_mset(sK5,sK6,'Cons'(sK5,sK13,sK14)) != filter_mset(sK5,sK6,isort(sK5,'Cons'(sK5,sK13,sK14))) [induction hyperresolution 88,165]
+171. filter_mset(sK5,sK6,'Nil'(sK5)) != filter_mset(sK5,sK6,isort(sK5,'Nil'(sK5))) | filter_mset(sK5,sK6,sK14) = filter_mset(sK5,sK6,isort(sK5,sK14)) [induction hyperresolution 88,164]
+172. filter_mset(sK5,sK6,'Nil'(sK5)) != filter_mset(sK5,sK6,'Nil'(sK5)) | filter_mset(sK5,sK6,sK14) = filter_mset(sK5,sK6,isort(sK5,sK14)) [forward demodulation 171,106]
+173. filter_mset(sK5,sK6,sK14) = filter_mset(sK5,sK6,isort(sK5,sK14)) [trivial inequality removal 172]
+174. filter_mset(sK5,sK6,'Nil'(sK5)) != filter_mset(sK5,sK6,'Nil'(sK5)) | filter_mset(sK5,sK6,'Cons'(sK5,sK13,sK14)) != filter_mset(sK5,sK6,isort(sK5,'Cons'(sK5,sK13,sK14))) [forward demodulation 170,106]
+175. filter_mset(sK5,sK6,'Cons'(sK5,sK13,sK14)) != filter_mset(sK5,sK6,isort(sK5,'Cons'(sK5,sK13,sK14))) [trivial inequality removal 174]
+176. filter_mset(sK5,sK6,'Cons'(sK5,sK13,sK14)) != filter_mset(sK5,sK6,insort(sK5,sK13,isort(sK5,sK14))) [forward demodulation 175,105]
+177. filter_mset(sK5,sK6,'Cons'(sK5,sK13,sK14)) != filter_mset(sK5,sK6,'Cons'(sK5,sK13,isort(sK5,sK14))) [forward demodulation 176,89]
+206. 'Cons'(X0,X1,filter_mset(X0,X1,X2)) = filter_mset(X0,X1,'Cons'(X0,X1,X2)) [superposition 108,107]
+274. filter_mset(sK5,sK6,isort(sK5,sK14)) != filter_mset(sK5,sK6,'Cons'(sK5,sK13,sK14)) | sK6 = sK13 [superposition 177,112]
+287. filter_mset(sK5,sK6,sK14) != filter_mset(sK5,sK6,'Cons'(sK5,sK13,sK14)) | sK6 = sK13 [forward demodulation 274,173]
+288. sK6 = sK13 [subsumption resolution 287,112]
+289. filter_mset(sK5,sK6,'Cons'(sK5,sK6,sK14)) != filter_mset(sK5,sK6,'Cons'(sK5,sK6,isort(sK5,sK14))) [backward demodulation 177,288]
+290. filter_mset(sK5,sK6,'Cons'(sK5,sK6,sK14)) != 'Cons'(sK5,sK6,filter_mset(sK5,sK6,isort(sK5,sK14))) [forward demodulation 289,206]
+291. filter_mset(sK5,sK6,'Cons'(sK5,sK6,sK14)) != 'Cons'(sK5,sK6,filter_mset(sK5,sK6,sK14)) [forward demodulation 290,173]
+292. $false [subsumption resolution 291,206]
+% SZS output end Proof for conjecture
+% (41336)------------------------------
+% (41336)Version: Vampire 4.7 (commit )
+% (41336)Linked with Z3 4.9.1.0  NOTFOUND
+% (41336)Termination reason: Refutation
+
+% (41336)Memory used [KB]: 5628
+% (41336)Time elapsed: 0.008 s
+% (41336)------------------------------
+% (41336)------------------------------
+% (41335)Success in time 0.007 s

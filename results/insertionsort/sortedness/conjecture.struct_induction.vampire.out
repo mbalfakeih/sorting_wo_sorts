@@ -1,0 +1,144 @@
+% (41593)ott+10_1:32_bsd=on:canc=force:drc=off:fsr=off:ind=struct:indao=on:newcnf=on:rawr=on:sac=on:taea=off:i=284:si=on:rtra=on_0 on conjecture for (600ds/284Mi)
+% (41593)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (41592)lrs+10_1:1_bd=off:gtg=exists_top:ind=struct:indmd=2:indstrhyp=on:nwc=5.0:s2a=on:s2agt=16:i=36:si=on:rtra=on_0 on conjecture for (600ds/36Mi)
+% (41589)ott+10_1:4_av=off:drc=off:ind=struct:indgen=on:newcnf=on:nui=on:uwa=ground:i=10:si=on:rtra=on_0 on conjecture for (600ds/10Mi)
+% (41589)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (41591)lrs+1010_1:3_drc=encompass:ind=both:indmd=1:nui=on:s2a=on:ss=axioms:i=24:si=on:rtra=on_0 on conjecture for (600ds/24Mi)
+% (41590)dis+10_1:1_aac=none:alpa=true:drc=off:ind=both:indoct=on:newcnf=on:sac=on:taea=off:to=lpo:i=5:si=on:rtra=on_0 on conjecture for (600ds/5Mi)
+% (41600)lrs+1010_1:1_avsq=on:avsqc=1:avsqr=1,16:drc=off:ev=force:ind=struct:sos=on:to=lpo:urr=on:i=14:si=on:rtra=on_0 on conjecture for (600ds/14Mi)
+% (41594)lrs+1011_5:1_av=off:canc=force:drc=encompass:s2a=on:sp=const_frequency:to=lpo:urr=on:i=7:si=on:rtra=on_0 on conjecture for (600ds/7Mi)
+% (41595)lrs+2_1:1_atotf=0.2:drc=off:gtg=exists_top:ind=both:nwc=10.0:sac=on:sp=unary_frequency:tgt=ground:to=lpo:i=7:si=on:rtra=on_0 on conjecture for (600ds/7Mi)
+% (41589)Instruction limit reached!
+% (41589)------------------------------
+% (41589)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (41589)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (41589)Termination reason: Time limit
+% (41589)Termination phase: Saturation
+
+% (41589)Memory used [KB]: 914
+% (41589)Time elapsed: 0.008 s
+% (41589)Instructions burned: 11 (million)
+% (41590)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (41590)Instruction limit reached!
+% (41590)------------------------------
+% (41590)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (41590)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (41590)Termination reason: Time limit
+% (41590)Termination phase: Preprocessing 3
+
+% (41590)Memory used [KB]: 761
+% (41590)Time elapsed: 0.007 s
+% (41590)Instructions burned: 5 (million)
+% (41593)First to succeed.
+% (41595)Instruction limit reached!
+% (41595)------------------------------
+% (41595)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (41595)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (41595)Termination reason: Time limit
+% (41596)dis+10_1:1_gtg=exists_top:gve=cautious:ind=struct:indn=off:rawr=on:s2a=on:s2agt=8:sac=on:uwa=all:i=11:si=on:rtra=on_0 on conjecture for (600ds/11Mi)
+% (41595)Termination phase: Saturation
+
+% (41595)Memory used [KB]: 955
+% (41595)Time elapsed: 0.006 s
+% (41595)Instructions burned: 8 (million)
+% (41597)lrs+2_1:4_drc=off:gtg=position:gve=cautious:ile=on:ind=struct:indao=on:indc=goal:indmd=6:newcnf=on:nwc=5.0:s2a=on:tac=axiom:to=lpo:i=232:si=on:rtra=on_0 on conjecture for (600ds/232Mi)
+% (41593)Solution written to "/tmp/vampire-proof-41588"
+% (41592)Also succeeded, but the first one will report.
+% (41594)Instruction limit reached!
+% (41594)------------------------------
+% (41594)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (41594)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (41599)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=293:si=on:rtra=on_0 on conjecture for (600ds/293Mi)
+% (41594)Termination reason: Time limit
+% (41594)Termination phase: Saturation
+
+% (41594)Memory used [KB]: 928
+% (41594)Time elapsed: 0.007 s
+% (41594)Instructions burned: 7 (million)
+% (41601)ott+10_1:172_awrs=decay:drc=off:gtg=position:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:sik=recursion:sp=weighted_frequency:taea=off:uhcvi=on:i=165:si=on:rtra=on_0 on conjecture for (600ds/165Mi)
+% (41591)Also succeeded, but the first one will report.
+% (41598)lrs+10_1:1_drc=off:ind=both:indoct=on:indstrhyp=on:sos=on:sp=const_frequency:ss=axioms:to=lpo:i=96:si=on:rtra=on_0 on conjecture for (600ds/96Mi)
+% (41597)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (41601)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (41593)Refutation found. Thanks to Tanya!
+% SZS status Unsatisfiable for conjecture
+% SZS output start Proof for conjecture
+9. (sPN_sorted(X0,X1) = $match(X1,'Nil'(X0),$true,'Cons'(X0,X2,X3),list_ge_elem(X0,X3,X2) & sorted(X0,X3))) [input]
+11. sFN_isort(X0,isort(X0,X1),$match(X1,'Nil'(X0),'Nil'(X0),'Cons'(X0,X2,X3),insort(X0,X2,isort(X0,X3)))) [input]
+12. ! [X0 : $tType] : ! [X1 : X0,X2 : 'list()'(X0)] : (sorted(X0,X2) => sorted(X0,insort(X0,X1,X2))) [input]
+13. ! [X0 : $tType] : ! [X1 : 'list()'(X0)] : sorted(X0,isort(X0,X1)) [input]
+14. ~! [X0 : $tType] : ! [X1 : 'list()'(X0)] : sorted(X0,isort(X0,X1)) [negated conjecture 13]
+16. (sPN_sorted(X0,X1) = $match(X1,'Nil'(X0),$true,'Cons'(X0,X2,X3),list_ge_elem(X0,X3,X2) & sorted(X0,X3))) [theory normalization 9]
+18. sFN_isort(X0,isort(X0,X1),$match(X1,'Nil'(X0),'Nil'(X0),'Cons'(X0,X2,X3),insort(X0,X2,isort(X0,X3)))) [theory normalization 11]
+29. ! [X3 : 'list()'(X0),X2 : X0,X1 : 'list()'(X0),X0 : $tType] : (sPN_sorted(X0,X1) = $match(X1,'Nil'(X0),$true,'Cons'(X0,X2,X3),list_ge_elem(X0,X3,X2) & sorted(X0,X3))) [closure 16]
+30. ! [X0 : $tType,X2 : X0,X3 : 'list()'(X0),X1 : 'list()'(X0)] : ('Nil'(X0) = X1 => (mG1(X0,X2,X3,X1) <=> $true)) [fool match definition]
+31. ! [X0 : $tType,X2 : X0,X3 : 'list()'(X0),X1 : 'list()'(X0)] : ('Cons'(X0,X2,X3) = X1 => (mG1(X0,X2,X3,X1) <=> (list_ge_elem(X0,X3,X2) & sorted(X0,X3)))) [fool match definition]
+32. ! [X3 : 'list()'(X0),X2 : X0,X1 : 'list()'(X0),X0 : $tType] : (sPN_sorted(X0,X1) <=> mG1(X0,X2,X3,X1)) [fool elimination 29,31,30]
+38. ! [X3 : 'list()'(X0),X2 : X0,X1 : 'list()'(X0),X0 : $tType] : sFN_isort(X0,isort(X0,X1),$match(X1,'Nil'(X0),'Nil'(X0),'Cons'(X0,X2,X3),insort(X0,X2,isort(X0,X3)))) [closure 18]
+39. ! [X0 : $tType,X3 : 'list()'(X0),X2 : X0,X1 : 'list()'(X0)] : ('Nil'(X0) = X1 => 'Nil'(X0) = mG4(X0,X3,X2,X1)) [fool match definition]
+40. ! [X0 : $tType,X3 : 'list()'(X0),X2 : X0,X1 : 'list()'(X0)] : ('Cons'(X0,X2,X3) = X1 => insort(X0,X2,isort(X0,X3)) = mG4(X0,X3,X2,X1)) [fool match definition]
+41. ! [X3 : 'list()'(X0),X2 : X0,X1 : 'list()'(X0),X0 : $tType] : sFN_isort(X0,isort(X0,X1),mG4(X0,X3,X2,X1)) [fool elimination 38,40,39]
+42. ! [X0 : $tType,X1 : 'list()'(X0),X2 : X0,X3 : 'list()'(X0)] : ('Cons'(X0,X2,X1) = X3 => mG4(X0,X1,X2,X3) = insort(X0,X2,isort(X0,X1))) [rectify 40]
+43. ! [X0 : $tType,X1 : 'list()'(X0),X2 : X0,X3 : 'list()'(X0)] : ('Nil'(X0) = X3 => 'Nil'(X0) = mG4(X0,X1,X2,X3)) [rectify 39]
+49. ! [X0 : $tType,X1 : X0,X2 : 'list()'(X0),X3 : 'list()'(X0)] : ('Nil'(X0) = X3 => (mG1(X0,X1,X2,X3) <=> $true)) [rectify 30]
+50. ! [X0 : $tType,X1 : X0,X2 : 'list()'(X0),X3 : 'list()'(X0)] : ('Nil'(X0) = X3 => mG1(X0,X1,X2,X3)) [true and false elimination 49]
+58. ! [X0 : $tType,X1 : X0,X2 : 'list()'(X0)] : (sorted(X0,X2) => sorted(X0,insort(X0,X1,X2))) [flattening 12]
+61. ! [X0 : 'list()'(X3),X1 : X3,X2 : 'list()'(X3),X3 : $tType] : (mG1(X3,X1,X0,X2) <=> sPN_sorted(X3,X2)) [rectify 32]
+67. ~! [X0 : $tType,X1 : 'list()'(X0)] : sorted(X0,isort(X0,X1)) [flattening 14]
+68. ! [X0 : 'list()'(X3),X1 : X3,X2 : 'list()'(X3),X3 : $tType] : sFN_isort(X3,isort(X3,X2),mG4(X3,X0,X1,X2)) [rectify 41]
+77. ! [X0 : $tType,X1 : X0,X2 : 'list()'(X0)] : (sorted(X0,insort(X0,X1,X2)) | ~sorted(X0,X2)) [ennf transformation 58]
+80. ! [X0 : $tType,X1 : 'list()'(X0),X2 : X0,X3 : 'list()'(X0)] : (mG4(X0,X1,X2,X3) = insort(X0,X2,isort(X0,X1)) | 'Cons'(X0,X2,X1) != X3) [ennf transformation 42]
+85. ! [X0 : $tType,X1 : 'list()'(X0),X2 : X0,X3 : 'list()'(X0)] : ('Nil'(X0) != X3 | 'Nil'(X0) = mG4(X0,X1,X2,X3)) [ennf transformation 43]
+86. ? [X0 : $tType,X1 : 'list()'(X0)] : ~sorted(X0,isort(X0,X1)) [ennf transformation 67]
+87. ! [X0 : $tType,X1 : X0,X2 : 'list()'(X0),X3 : 'list()'(X0)] : ('Nil'(X0) != X3 | mG1(X0,X1,X2,X3)) [ennf transformation 50]
+88. ? [X0 : $tType,X1 : 'list()'(X0)] : ~sorted(X0,isort(X0,X1)) => ~sorted(sK5,isort(sK5,sK6)) [choice axiom]
+89. ~sorted(sK5,isort(sK5,sK6)) [skolemisation 86,88]
+98. ! [X0 : 'list()'(X3),X1 : X3,X2 : 'list()'(X3),X3 : $tType] : ((mG1(X3,X1,X0,X2) | ~sPN_sorted(X3,X2)) & (sPN_sorted(X3,X2) | ~mG1(X3,X1,X0,X2))) [nnf transformation 61]
+101. mG4(X0,X1,X2,X3) = insort(X0,X2,isort(X0,X1)) | 'Cons'(X0,X2,X1) != X3 [cnf transformation 80]
+103. ~sorted(sK5,isort(sK5,sK6)) [cnf transformation 89]
+122. sPN_sorted(X3,X2) | ~mG1(X3,X1,X0,X2) [cnf transformation 98]
+127. sorted(X0,insort(X0,X1,X2)) | ~sorted(X0,X2) [cnf transformation 77]
+128. sFN_isort(X3,isort(X3,X2),mG4(X3,X0,X1,X2)) [cnf transformation 68]
+129. 'Nil'(X0) != X3 | mG1(X0,X1,X2,X3) [cnf transformation 87]
+133. 'Nil'(X0) != X3 | 'Nil'(X0) = mG4(X0,X1,X2,X3) [cnf transformation 85]
+134. mG4(X0,X1,X2,'Cons'(X0,X2,X1)) = insort(X0,X2,isort(X0,X1)) [equality resolution 101]
+146. mG1(X0,X1,X2,'Nil'(X0)) [equality resolution 129]
+147. 'Nil'(X0) = mG4(X0,X1,X2,'Nil'(X0)) [equality resolution 133]
+151. ~mG1(X3,X1,X0,X2) | sorted(X3,X2) [definition unfolding 122]
+152. isort(X3,X2) = mG4(X3,X0,X1,X2) [definition unfolding 128]
+154. isort(X0,'Cons'(X0,X2,X1)) = insort(X0,X2,isort(X0,X1)) [backward demodulation 134,152]
+155. ! [X0 : sK5,X1 : 'list()'(sK5)] : (sorted(sK5,isort(sK5,'Nil'(sK5))) & (sorted(sK5,isort(sK5,X1)) => sorted(sK5,isort(sK5,'Cons'(sK5,X0,X1))))) => ! [X2 : 'list()'(sK5)] : sorted(sK5,isort(sK5,X2)) [structural induction hypothesis (one)]
+156. ! [X2 : 'list()'(sK5)] : sorted(sK5,isort(sK5,X2)) | ? [X0 : sK5,X1 : 'list()'(sK5)] : (~sorted(sK5,isort(sK5,'Nil'(sK5))) | (~sorted(sK5,isort(sK5,'Cons'(sK5,X0,X1))) & sorted(sK5,isort(sK5,X1)))) [ennf transformation 155]
+157. sorted(sK5,isort(sK5,sK9)) | ~sorted(sK5,isort(sK5,'Nil'(sK5))) | sorted(sK5,isort(sK5,X2)) [cnf transformation 156]
+158. ~sorted(sK5,isort(sK5,'Cons'(sK5,sK8,sK9))) | ~sorted(sK5,isort(sK5,'Nil'(sK5))) | sorted(sK5,isort(sK5,X2)) [cnf transformation 156]
+159. ~sorted(sK5,isort(sK5,'Nil'(sK5))) | ~sorted(sK5,isort(sK5,'Cons'(sK5,sK8,sK9))) [induction hyperresolution 103,158]
+160. sorted(sK5,isort(sK5,sK9)) | ~sorted(sK5,isort(sK5,'Nil'(sK5))) [induction hyperresolution 103,157]
+165. sorted(X0,'Nil'(X0)) [resolution 151,146]
+200. 'Nil'(X0) = isort(X0,'Nil'(X0)) [superposition 152,147]
+201. ~sorted(sK5,isort(sK5,'Cons'(sK5,sK8,sK9))) | ~sorted(sK5,'Nil'(sK5)) [backward demodulation 159,200]
+202. ~sorted(sK5,'Nil'(sK5)) | sorted(sK5,isort(sK5,sK9)) [backward demodulation 160,200]
+204. 1 <=> sorted(sK5,'Nil'(sK5)) [avatar definition]
+206. ~sorted(sK5,'Nil'(sK5)) <- (~1) [avatar component clause 204]
+208. 2 <=> sorted(sK5,isort(sK5,sK9)) [avatar definition]
+211. ~1 | 2 [avatar split clause 202,208,204]
+212. $false <- (~1) [resolution 206,165]
+213. 1 [avatar contradiction clause 212]
+236. 3 <=> sorted(sK5,isort(sK5,'Cons'(sK5,sK8,sK9))) [avatar definition]
+238. ~sorted(sK5,isort(sK5,'Cons'(sK5,sK8,sK9))) <- (~3) [avatar component clause 236]
+239. ~3 | ~1 [avatar split clause 201,204,236]
+274. sorted(X0,isort(X0,'Cons'(X0,X1,X2))) | ~sorted(X0,isort(X0,X2)) [superposition 127,154]
+277. ~sorted(sK5,isort(sK5,sK9)) <- (~3) [resolution 274,238]
+278. ~2 | 3 [avatar split clause 277,236,208]
+279. $false [avatar sat refutation 211,213,239,278]
+% SZS output end Proof for conjecture
+% (41593)------------------------------
+% (41593)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (41593)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (41593)Termination reason: Refutation
+
+% (41593)Memory used [KB]: 969
+% (41593)Time elapsed: 0.010 s
+% (41593)Instructions burned: 18 (million)
+% (41593)------------------------------
+% (41593)------------------------------
+% (41588)Success in time 0.005 s

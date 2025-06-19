@@ -1,0 +1,521 @@
+Running on /insertionsort/mset/conjecture with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:sos=theory:sstl=1:sp=occurrence_1200 using vampire
+
+User error:
+
+Running on /insertionsort/mset/conjecture with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:sos=theory:sstl=1:sp=occurrence_1200 using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /insertionsort/mset/conjecture with --cores 0 --mode portfolio -sched struct_induction using vampire
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /insertionsort/mset/conjecture with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /insertionsort/mset/conjecture with --cores 0 --mode portfolio -sched induction using vampire
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /insertionsort/mset/conjecture with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /insertionsort/mset/lemma1 with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:sos=theory:sstl=1:sp=occurrence_1200 using vampire
+
+User error:
+
+Running on /insertionsort/mset/lemma1 with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:sos=theory:sstl=1:sp=occurrence_1200 using vampire_ind
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /insertionsort/mset/lemma1 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /insertionsort/mset/lemma1 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /insertionsort/mset/lemma1 with --cores 0 --mode portfolio -sched induction using vampire
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /insertionsort/mset/lemma1 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /insertionsort/sortedness/conjecture with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:sos=theory:sstl=1:sp=occurrence_1200 using vampire
+
+User error:
+
+Running on /insertionsort/sortedness/conjecture with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:sos=theory:sstl=1:sp=occurrence_1200 using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /insertionsort/sortedness/conjecture with --cores 0 --mode portfolio -sched struct_induction using vampire
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /insertionsort/sortedness/conjecture with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /insertionsort/sortedness/conjecture with --cores 0 --mode portfolio -sched induction using vampire
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /insertionsort/sortedness/conjecture with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /insertionsort/sortedness/lemma1 with --decode lrs+1002_1_aac=none:anc=all:sac=on:ind=struct:thsq=on:to=lpo:nui=on:drc=encompass:sik=recursion_1200 using vampire
+
+User error:
+
+Running on /insertionsort/sortedness/lemma1 with --decode lrs+1002_1_aac=none:anc=all:sac=on:ind=struct:thsq=on:to=lpo:nui=on:drc=encompass:sik=recursion_1200 using vampire_ind
+
+
+
+Running on /insertionsort/sortedness/lemma1 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% (42084)SZS status Timeout for lemma1
+
+
+Running on /insertionsort/sortedness/lemma1 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% (42495)SZS status Timeout for lemma1
+
+
+Running on /insertionsort/sortedness/lemma1 with --cores 0 --mode portfolio -sched induction using vampire
+% (42588)SZS status Timeout for lemma1
+
+
+Running on /insertionsort/sortedness/lemma1 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% (43001)SZS status Timeout for lemma1
+
+
+Running on /mergesort/mset/conjecture with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on_1200 using vampire
+
+User error:
+
+Running on /mergesort/mset/conjecture with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on_1200 using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /mergesort/mset/conjecture with --cores 0 --mode portfolio -sched struct_induction using vampire
+% (43214)SZS status Timeout for conjecture
+
+
+Running on /mergesort/mset/conjecture with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /mergesort/mset/conjecture with --cores 0 --mode portfolio -sched induction using vampire
+% (43505)SZS status Timeout for conjecture
+
+
+Running on /mergesort/mset/conjecture with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /mergesort/mset/lemma2 with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on_1200 using vampire
+
+User error:
+
+Running on /mergesort/mset/lemma2 with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on_1200 using vampire_ind
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /mergesort/mset/lemma2 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% (43744)SZS status Timeout for lemma2
+
+
+Running on /mergesort/mset/lemma2 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /mergesort/mset/lemma2 with --cores 0 --mode portfolio -sched induction using vampire
+% (44019)SZS status Timeout for lemma2
+
+
+Running on /mergesort/mset/lemma2 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /mergesort/mset/lemma3 with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on_1200 using vampire
+
+User error:
+
+Running on /mergesort/mset/lemma3 with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on_1200 using vampire_ind
+% SZS status Unsatisfiable for lemma3
+
+
+Running on /mergesort/mset/lemma3 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% SZS status Unsatisfiable for lemma3
+
+
+Running on /mergesort/mset/lemma3 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for lemma3
+
+
+Running on /mergesort/mset/lemma3 with --cores 0 --mode portfolio -sched induction using vampire
+% SZS status Unsatisfiable for lemma3
+
+
+Running on /mergesort/mset/lemma3 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for lemma3
+
+
+Running on /mergesort/mset/lemma1 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /mergesort/mset/lemma1 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /mergesort/mset/lemma1 with --cores 0 --mode portfolio -sched induction using vampire
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /mergesort/mset/lemma1 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /mergesort/sortedness/conjecture with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on_1200 using vampire
+
+User error:
+
+Running on /mergesort/sortedness/conjecture with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on_1200 using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /mergesort/sortedness/conjecture with --cores 0 --mode portfolio -sched struct_induction using vampire
+% (44775)SZS status Timeout for conjecture
+
+
+Running on /mergesort/sortedness/conjecture with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /mergesort/sortedness/conjecture with --cores 0 --mode portfolio -sched induction using vampire
+% (45102)SZS status Timeout for conjecture
+
+
+Running on /mergesort/sortedness/conjecture with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /mergesort/sortedness/lemma2 with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on:sp=occurrence_1200 using vampire
+
+User error:
+
+Running on /mergesort/sortedness/lemma2 with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on:sp=occurrence_1200 using vampire_ind
+
+
+
+Running on /mergesort/sortedness/lemma2 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /mergesort/sortedness/lemma2 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /mergesort/sortedness/lemma2 with --cores 0 --mode portfolio -sched induction using vampire
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /mergesort/sortedness/lemma2 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /mergesort/sortedness/lemma1 with --decode lrs+10_1_drc=encompass:ind=struct:sik=one_plus_recursion:to=lpo:thsq=on:sp=occurrence:nui=on:indoct=on:urr=on_1200 using vampire
+
+User error: value one_plus_recursion for option sik not known
+
+Running on /mergesort/sortedness/lemma1 with --decode lrs+10_1_drc=encompass:ind=struct:sik=one_plus_recursion:to=lpo:thsq=on:sp=occurrence:nui=on:indoct=on:urr=on_1200 using vampire_ind
+
+User error: value one_plus_recursion for option sik not known
+
+Running on /mergesort/sortedness/lemma1 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% (45612)SZS status Timeout for lemma1
+
+
+Running on /mergesort/sortedness/lemma1 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% (45904)SZS status Timeout for lemma1
+
+
+Running on /mergesort/sortedness/lemma1 with --cores 0 --mode portfolio -sched induction using vampire
+% (46047)SZS status Timeout for lemma1
+
+
+Running on /mergesort/sortedness/lemma1 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% (46265)SZS status Timeout for lemma1
+
+
+Running on /quicksort/mset/conjecture with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:sos=theory:sstl=1:sp=occurrence_1200 using vampire
+
+User error:
+
+Running on /quicksort/mset/conjecture with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:sos=theory:sstl=1:sp=occurrence_1200 using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /quicksort/mset/conjecture with --cores 0 --mode portfolio -sched struct_induction using vampire
+% (46367)SZS status Timeout for conjecture
+
+
+Running on /quicksort/mset/conjecture with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /quicksort/mset/conjecture with --cores 0 --mode portfolio -sched induction using vampire
+% (46672)SZS status Timeout for conjecture
+
+
+Running on /quicksort/mset/conjecture with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /quicksort/mset/lemma1 with --decode lrs+10_1_drc=encompass:ind=struct:sik=one:to=lpo:thsq=on_1200 using vampire
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /quicksort/mset/lemma1 with --decode lrs+10_1_drc=encompass:ind=struct:sik=one:to=lpo:thsq=on_1200 using vampire_ind
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /quicksort/mset/lemma1 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /quicksort/mset/lemma1 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /quicksort/mset/lemma1 with --cores 0 --mode portfolio -sched induction using vampire
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /quicksort/mset/lemma1 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /quicksort/mset/lemma2 with --decode lrs+10_1_drc=encompass:ind=struct:sik=one:to=lpo:sos=theory:sstl=1:sp=occurrence_1200 using vampire
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /quicksort/mset/lemma2 with --decode lrs+10_1_drc=encompass:ind=struct:sik=one:to=lpo:sos=theory:sstl=1:sp=occurrence_1200 using vampire_ind
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /quicksort/mset/lemma2 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% (47206)SZS status Timeout for lemma2
+
+
+Running on /quicksort/mset/lemma2 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /quicksort/mset/lemma2 with --cores 0 --mode portfolio -sched induction using vampire
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /quicksort/mset/lemma2 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /quicksort/sortedness/conjecture with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on_1200 using vampire
+
+User error:
+
+Running on /quicksort/sortedness/conjecture with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on_1200 using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /quicksort/sortedness/conjecture with --cores 0 --mode portfolio -sched struct_induction using vampire
+% (48295)SZS status Timeout for conjecture
+
+
+Running on /quicksort/sortedness/conjecture with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /quicksort/sortedness/conjecture with --cores 0 --mode portfolio -sched induction using vampire
+% (48643)SZS status Timeout for conjecture
+
+
+Running on /quicksort/sortedness/conjecture with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for conjecture
+
+
+Running on /quicksort/sortedness/lemma1 with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on:sp=occurrence_1200 using vampire
+
+User error:
+
+Running on /quicksort/sortedness/lemma1 with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on:sp=occurrence_1200 using vampire_ind
+
+
+
+Running on /quicksort/sortedness/lemma1 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% (49179)SZS status Timeout for lemma1
+
+
+Running on /quicksort/sortedness/lemma1 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /quicksort/sortedness/lemma1 with --cores 0 --mode portfolio -sched induction using vampire
+% (49691)SZS status Timeout for lemma1
+
+
+Running on /quicksort/sortedness/lemma1 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for lemma1
+
+
+Running on /quicksort/sortedness/lemma2 with --decode lrs+10_1_drc=encompass:ind=struct:sik=one:to=lpo:thsq=on_1200 using vampire
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /quicksort/sortedness/lemma2 with --decode lrs+10_1_drc=encompass:ind=struct:sik=one:to=lpo:thsq=on_1200 using vampire_ind
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /quicksort/sortedness/lemma2 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /quicksort/sortedness/lemma2 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /quicksort/sortedness/lemma2 with --cores 0 --mode portfolio -sched induction using vampire
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /quicksort/sortedness/lemma2 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for lemma2
+
+
+Running on /quicksort/sortedness/lemma3 with --decode lrs+10_1_drc=encompass:ind=struct:sik=one:to=lpo:thsq=on:sp=occurrence_1200 using vampire
+
+
+
+Running on /quicksort/sortedness/lemma3 with --decode lrs+10_1_drc=encompass:ind=struct:sik=one:to=lpo:thsq=on:sp=occurrence_1200 using vampire_ind
+
+
+
+Running on /quicksort/sortedness/lemma3 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% (50638)SZS status Timeout for lemma3
+
+
+Running on /quicksort/sortedness/lemma3 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% (51071)SZS status Timeout for lemma3
+
+
+Running on /quicksort/sortedness/lemma3 with --cores 0 --mode portfolio -sched induction using vampire
+% (51215)SZS status Timeout for lemma3
+
+
+Running on /quicksort/sortedness/lemma3 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% (51600)SZS status Timeout for lemma3
+
+
+Running on /quicksort/sortedness/lemma4 with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on:sp=occurrence:nui=on_1200 using vampire
+
+User error:
+
+Running on /quicksort/sortedness/lemma4 with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on:sp=occurrence:nui=on_1200 using vampire_ind
+
+
+
+Running on /quicksort/sortedness/lemma4 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% (53747)SZS status Timeout for lemma4
+
+
+Running on /quicksort/sortedness/lemma4 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for lemma4
+
+
+Running on /quicksort/sortedness/lemma4 with --cores 0 --mode portfolio -sched induction using vampire
+% (54436)SZS status Timeout for lemma4
+
+
+Running on /quicksort/sortedness/lemma4 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for lemma4
+
+
+Running on /quicksort/sortedness/lemma5 with --decode lrs+10_1_ind=struct:sos=theory:sstl=1:urr=on:nui=on:indao=on_1200 using vampire
+
+
+
+Running on /quicksort/sortedness/lemma5 with --decode lrs+10_1_ind=struct:sos=theory:sstl=1:urr=on:nui=on:indao=on_1200 using vampire_ind
+
+
+
+Running on /quicksort/sortedness/lemma5 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% (55037)SZS status Timeout for lemma5
+
+
+Running on /quicksort/sortedness/lemma5 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for lemma5
+
+
+Running on /quicksort/sortedness/lemma5 with --cores 0 --mode portfolio -sched induction using vampire
+% (55356)SZS status Timeout for lemma5
+
+
+Running on /quicksort/sortedness/lemma5 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for lemma5
+
+
+Running on /quicksort/sortedness/lemma6 with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on:sp=occurrence:nui=on_1200 using vampire
+
+User error:
+
+Running on /quicksort/sortedness/lemma6 with --decode lrs+10_1_drc=encompass:ind=struct:sik=recursion:to=lpo:thsq=on:sp=occurrence:nui=on_1200 using vampire_ind
+% SZS status Unsatisfiable for lemma6
+
+
+Running on /quicksort/sortedness/lemma6 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% SZS status Unsatisfiable for lemma6
+
+
+Running on /quicksort/sortedness/lemma6 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for lemma6
+
+
+Running on /quicksort/sortedness/lemma6 with --cores 0 --mode portfolio -sched induction using vampire
+% SZS status Unsatisfiable for lemma6
+
+
+Running on /quicksort/sortedness/lemma6 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for lemma6
+
+
+Running on /quicksort/sortedness/lemma7 with --decode lrs+10_1_drc=encompass:ind=struct:sik=one:to=lpo:thsq=on:sp=occurrence:indao=on_1200 using vampire
+
+
+
+Running on /quicksort/sortedness/lemma7 with --decode lrs+10_1_drc=encompass:ind=struct:sik=one:to=lpo:thsq=on:sp=occurrence:indao=on_1200 using vampire_ind
+
+
+
+Running on /quicksort/sortedness/lemma7 with --cores 0 --mode portfolio -sched struct_induction using vampire
+% SZS status Unsatisfiable for lemma7
+
+
+Running on /quicksort/sortedness/lemma7 with --cores 0 --mode portfolio -sched struct_induction using vampire_ind
+% SZS status Unsatisfiable for lemma7
+
+
+Running on /quicksort/sortedness/lemma7 with --cores 0 --mode portfolio -sched induction using vampire
+% SZS status Unsatisfiable for lemma7
+
+
+Running on /quicksort/sortedness/lemma7 with --cores 0 --mode portfolio -sched induction using vampire_ind
+% SZS status Unsatisfiable for lemma7
+
+
+For more information on individual results, check the results directory

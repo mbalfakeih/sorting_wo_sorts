@@ -1,0 +1,118 @@
+% (45533)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=on:urr=on_89 on lemma2 for (89ds/0Mi)
+% (45535)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=off:urr=on_89 on lemma2 for (89ds/0Mi)
+% (45532)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=on:urr=off_89 on lemma2 for (89ds/0Mi)
+% (45534)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=off:indao=off:urr=off_89 on lemma2 for (89ds/0Mi)
+% (45536)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=on:urr=off_89 on lemma2 for (89ds/0Mi)
+% (45537)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=on:urr=on_89 on lemma2 for (89ds/0Mi)
+% (45539)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=off:urr=on_89 on lemma2 for (89ds/0Mi)
+% (45538)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=off:indoct=on:indao=off:urr=off_89 on lemma2 for (89ds/0Mi)
+% (45540)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=on:urr=off_89 on lemma2 for (89ds/0Mi)
+% (45541)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=on:urr=on_89 on lemma2 for (89ds/0Mi)
+% (45542)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=off:urr=off_89 on lemma2 for (89ds/0Mi)
+% (45544)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=on:urr=off_89 on lemma2 for (89ds/0Mi)
+% (45543)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=off:indao=off:urr=on_89 on lemma2 for (89ds/0Mi)
+% (45545)lrs+10_1_ind=struct:sos=theory:sstl=1:drc=encompass:sp=occurrence:to=lpo:sik=recursion:nui=on:indoct=on:indao=on:urr=on_89 on lemma2 for (89ds/0Mi)
+% (45541)First to succeed.
+% (45542)Also succeeded, but the first one will report.
+% (45540)Also succeeded, but the first one will report.
+% (45541)Refutation found. Thanks to Tanya!
+% SZS status Unsatisfiable for lemma2
+% SZS output start Proof for lemma2
+1. (leq(X0,X1,X2) = ~less(X0,X2,X1)) [input]
+3. ! [X0 : $tType] : ! [X2 : X0,X1 : X0,X3 : X0] : ((leq(X0,X1,X2) & leq(X0,X2,X3)) => leq(X0,X1,X3)) [input]
+6. (list_ge_elem(X0,X1,X2) = $match(X1,'Nil'(X0),$true,'Cons'(X0,X3,X4),~less(X0,X3,X2) & list_ge_elem(X0,X4,X2))) [input]
+7. ! [X0 : $tType] : ! [X2 : X0,X1 : X0,X3 : 'list()'(X0)] : ((leq(X0,X1,X2) & list_ge_elem(X0,X3,X2)) => list_ge_elem(X0,X3,X1)) [input]
+8. ~! [X0 : $tType] : ! [X2 : X0,X1 : X0,X3 : 'list()'(X0)] : ((leq(X0,X1,X2) & list_ge_elem(X0,X3,X2)) => list_ge_elem(X0,X3,X1)) [negated conjecture 7]
+18. ! [X4 : 'list()'(X0),X3 : X0,X2 : X0,X1 : 'list()'(X0),X0 : $tType] : (list_ge_elem(X0,X1,X2) = $match(X1,'Nil'(X0),$true,'Cons'(X0,X3,X4),~less(X0,X3,X2) & list_ge_elem(X0,X4,X2))) [closure 6]
+19. ! [X0 : $tType,X2 : X0,X3 : X0,X4 : 'list()'(X0),X1 : 'list()'(X0)] : ('Nil'(X0) = X1 => (mG0(X0,X2,X3,X4,X1) <=> $true)) [fool $match elimination 18]
+20. ! [X0 : $tType,X2 : X0,X3 : X0,X4 : 'list()'(X0),X1 : 'list()'(X0)] : ('Cons'(X0,X3,X4) = X1 => (mG0(X0,X2,X3,X4,X1) <=> (~less(X0,X3,X2) & list_ge_elem(X0,X4,X2)))) [fool $match elimination 18]
+21. ! [X4 : 'list()'(X0),X3 : X0,X2 : X0,X1 : 'list()'(X0),X0 : $tType] : (list_ge_elem(X0,X1,X2) <=> mG0(X0,X2,X3,X4,X1)) [fool elimination 18]
+22. ! [X2 : X0,X1 : X0,X0 : $tType] : (leq(X0,X1,X2) = ~less(X0,X2,X1)) [closure 1]
+23. ! [X2 : X0,X1 : X0,X0 : $tType] : (leq(X0,X1,X2) <=> ~less(X0,X2,X1)) [fool elimination 22]
+24. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Cons'(X0,X2,X3) = X4 => (mG0(X0,X1,X2,X3,X4) <=> (~less(X0,X2,X1) & list_ge_elem(X0,X3,X1)))) [rectify 20]
+25. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Cons'(X0,X2,X3) = X4 => (mG0(X0,X1,X2,X3,X4) <=> (~less(X0,X2,X1) & list_ge_elem(X0,X3,X1)))) [flattening 24]
+26. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Nil'(X0) = X4 => (mG0(X0,X1,X2,X3,X4) <=> $true)) [rectify 19]
+27. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Nil'(X0) = X4 => mG0(X0,X1,X2,X3,X4)) [true and false elimination 26]
+28. ~! [X0 : $tType] : ! [X1 : X0,X2 : X0,X3 : 'list()'(X0)] : ((leq(X0,X2,X1) & list_ge_elem(X0,X3,X1)) => list_ge_elem(X0,X3,X2)) [rectify 8]
+29. ~! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : ((leq(X0,X2,X1) & list_ge_elem(X0,X3,X1)) => list_ge_elem(X0,X3,X2)) [flattening 28]
+30. ! [X0 : 'list()'(X4),X1 : X4,X2 : X4,X3 : 'list()'(X4),X4 : $tType] : (list_ge_elem(X4,X3,X2) <=> mG0(X4,X2,X1,X0,X3)) [rectify 21]
+35. ! [X0 : $tType] : ! [X1 : X0,X2 : X0,X3 : X0] : ((leq(X0,X2,X1) & leq(X0,X1,X3)) => leq(X0,X2,X3)) [rectify 3]
+36. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : X0] : ((leq(X0,X2,X1) & leq(X0,X1,X3)) => leq(X0,X2,X3)) [flattening 35]
+38. ! [X0 : X2,X1 : X2,X2 : $tType] : (leq(X2,X1,X0) <=> ~less(X2,X0,X1)) [rectify 23]
+39. ! [X0 : X2,X1 : X2,X2 : $tType] : (leq(X2,X1,X0) <=> ~less(X2,X0,X1)) [flattening 38]
+40. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ((mG0(X0,X1,X2,X3,X4) <=> (~less(X0,X2,X1) & list_ge_elem(X0,X3,X1))) | 'Cons'(X0,X2,X3) != X4) [ennf transformation 25]
+41. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : (mG0(X0,X1,X2,X3,X4) | 'Nil'(X0) != X4) [ennf transformation 27]
+42. ? [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (~list_ge_elem(X0,X3,X2) & (leq(X0,X2,X1) & list_ge_elem(X0,X3,X1))) [ennf transformation 29]
+43. ? [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (~list_ge_elem(X0,X3,X2) & leq(X0,X2,X1) & list_ge_elem(X0,X3,X1)) [flattening 42]
+46. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : X0] : (leq(X0,X2,X3) | (~leq(X0,X2,X1) | ~leq(X0,X1,X3))) [ennf transformation 36]
+47. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : X0] : (leq(X0,X2,X3) | ~leq(X0,X2,X1) | ~leq(X0,X1,X3)) [flattening 46]
+48. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : (((mG0(X0,X1,X2,X3,X4) | (less(X0,X2,X1) | ~list_ge_elem(X0,X3,X1))) & ((~less(X0,X2,X1) & list_ge_elem(X0,X3,X1)) | ~mG0(X0,X1,X2,X3,X4))) | 'Cons'(X0,X2,X3) != X4) [nnf transformation 40]
+49. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : (((mG0(X0,X1,X2,X3,X4) | less(X0,X2,X1) | ~list_ge_elem(X0,X3,X1)) & ((~less(X0,X2,X1) & list_ge_elem(X0,X3,X1)) | ~mG0(X0,X1,X2,X3,X4))) | 'Cons'(X0,X2,X3) != X4) [flattening 48]
+50. ? [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0)] : (~list_ge_elem(X0,X3,X2) & leq(X0,X2,X1) & list_ge_elem(X0,X3,X1)) => (~list_ge_elem(sK1,sK4,sK3) & leq(sK1,sK3,sK2) & list_ge_elem(sK1,sK4,sK2)) [choice axiom]
+51. ~list_ge_elem(sK1,sK4,sK3) & leq(sK1,sK3,sK2) & list_ge_elem(sK1,sK4,sK2) [skolemisation 43,50]
+52. ! [X0 : 'list()'(X4),X1 : X4,X2 : X4,X3 : 'list()'(X4),X4 : $tType] : ((list_ge_elem(X4,X3,X2) | ~mG0(X4,X2,X1,X0,X3)) & (mG0(X4,X2,X1,X0,X3) | ~list_ge_elem(X4,X3,X2))) [nnf transformation 30]
+53. ! [X0 : X2,X1 : X2,X2 : $tType] : ((leq(X2,X1,X0) | less(X2,X0,X1)) & (~less(X2,X0,X1) | ~leq(X2,X1,X0))) [nnf transformation 39]
+54. list_ge_elem(X0,X3,X1) | ~mG0(X0,X1,X2,X3,X4) | 'Cons'(X0,X2,X3) != X4 [cnf transformation 49]
+55. ~less(X0,X2,X1) | ~mG0(X0,X1,X2,X3,X4) | 'Cons'(X0,X2,X3) != X4 [cnf transformation 49]
+56. mG0(X0,X1,X2,X3,X4) | less(X0,X2,X1) | ~list_ge_elem(X0,X3,X1) | 'Cons'(X0,X2,X3) != X4 [cnf transformation 49]
+57. mG0(X0,X1,X2,X3,X4) | 'Nil'(X0) != X4 [cnf transformation 41]
+58. list_ge_elem(sK1,sK4,sK2) [cnf transformation 51]
+59. leq(sK1,sK3,sK2) [cnf transformation 51]
+60. ~list_ge_elem(sK1,sK4,sK3) [cnf transformation 51]
+61. mG0(X4,X2,X1,X0,X3) | ~list_ge_elem(X4,X3,X2) [cnf transformation 52]
+62. ~mG0(X4,X2,X1,X0,X3) | list_ge_elem(X4,X3,X2) [cnf transformation 52]
+65. ~leq(X0,X2,X1) | leq(X0,X2,X3) | ~leq(X0,X1,X3) [cnf transformation 47]
+67. ~leq(X2,X1,X0) | ~less(X2,X0,X1) [cnf transformation 53]
+68. leq(X2,X1,X0) | less(X2,X0,X1) [cnf transformation 53]
+69. mG0(X0,X1,X2,X3,'Cons'(X0,X2,X3)) | less(X0,X2,X1) | ~list_ge_elem(X0,X3,X1) [equality resolution 56]
+70. ~mG0(X0,X1,X2,X3,'Cons'(X0,X2,X3)) | ~less(X0,X2,X1) [equality resolution 55]
+71. ~mG0(X0,X1,X2,X3,'Cons'(X0,X2,X3)) | list_ge_elem(X0,X3,X1) [equality resolution 54]
+72. mG0(X0,X1,X2,X3,'Nil'(X0)) [equality resolution 57]
+81. ! [X2 : 'list()'(sK1),X1 : sK1] : (((list_ge_elem(sK1,X2,sK3) | ~list_ge_elem(sK1,X2,sK2)) => (list_ge_elem(sK1,'Cons'(sK1,X1,X2),sK3) | ~list_ge_elem(sK1,'Cons'(sK1,X1,X2),sK2))) & (list_ge_elem(sK1,'Nil'(sK1),sK3) | ~list_ge_elem(sK1,'Nil'(sK1),sK2))) => ! [X6 : 'list()'(sK1)] : (list_ge_elem(sK1,X6,sK3) | ~list_ge_elem(sK1,X6,sK2)) [structural induction hypothesis (recursion)]
+82. ! [X6 : 'list()'(sK1)] : (list_ge_elem(sK1,X6,sK3) | ~list_ge_elem(sK1,X6,sK2)) | ? [X2 : 'list()'(sK1),X1 : sK1] : (((~list_ge_elem(sK1,'Cons'(sK1,X1,X2),sK3) & list_ge_elem(sK1,'Cons'(sK1,X1,X2),sK2)) & (list_ge_elem(sK1,X2,sK3) | ~list_ge_elem(sK1,X2,sK2))) | (~list_ge_elem(sK1,'Nil'(sK1),sK3) & list_ge_elem(sK1,'Nil'(sK1),sK2))) [ennf transformation 81]
+85. ~list_ge_elem(sK1,'Nil'(sK1),sK3) | list_ge_elem(sK1,'Cons'(sK1,sK9,sK8),sK2) | ~list_ge_elem(sK1,X6,sK2) | list_ge_elem(sK1,X6,sK3) [cnf transformation 82]
+86. ~list_ge_elem(sK1,'Nil'(sK1),sK3) | ~list_ge_elem(sK1,'Cons'(sK1,sK9,sK8),sK3) | ~list_ge_elem(sK1,X6,sK2) | list_ge_elem(sK1,X6,sK3) [cnf transformation 82]
+88. ~list_ge_elem(sK1,'Nil'(sK1),sK3) | ~list_ge_elem(sK1,sK8,sK2) | list_ge_elem(sK1,sK8,sK3) | ~list_ge_elem(sK1,X6,sK2) | list_ge_elem(sK1,X6,sK3) [cnf transformation 82]
+95. ~list_ge_elem(sK1,'Nil'(sK1),sK3) | ~list_ge_elem(sK1,sK8,sK2) | list_ge_elem(sK1,sK8,sK3) [induction hyperresolution 58,60,88]
+97. ~list_ge_elem(sK1,'Nil'(sK1),sK3) | ~list_ge_elem(sK1,'Cons'(sK1,sK9,sK8),sK3) [induction hyperresolution 58,60,86]
+98. ~list_ge_elem(sK1,'Nil'(sK1),sK3) | list_ge_elem(sK1,'Cons'(sK1,sK9,sK8),sK2) [induction hyperresolution 58,60,85]
+118. 2 <=> list_ge_elem(sK1,'Nil'(sK1),sK3) [avatar definition]
+120. ~list_ge_elem(sK1,'Nil'(sK1),sK3) <- (~2) [avatar component clause 118]
+138. 6 <=> list_ge_elem(sK1,'Cons'(sK1,sK9,sK8),sK2) [avatar definition]
+140. list_ge_elem(sK1,'Cons'(sK1,sK9,sK8),sK2) <- (6) [avatar component clause 138]
+147. 8 <=> list_ge_elem(sK1,'Cons'(sK1,sK9,sK8),sK3) [avatar definition]
+149. ~list_ge_elem(sK1,'Cons'(sK1,sK9,sK8),sK3) <- (~8) [avatar component clause 147]
+151. 6 | ~2 [avatar split clause 98,118,138]
+152. ~8 | ~2 [avatar split clause 97,118,147]
+154. 9 <=> list_ge_elem(sK1,sK8,sK3) [avatar definition]
+156. list_ge_elem(sK1,sK8,sK3) <- (9) [avatar component clause 154]
+158. 10 <=> list_ge_elem(sK1,sK8,sK2) [avatar definition]
+162. 9 | ~10 | ~2 [avatar split clause 95,118,158,154]
+223. ~mG0(sK1,sK3,X0,X1,'Nil'(sK1)) <- (~2) [unit resulting resolution 120,62]
+231. $false <- (~2) [subsumption resolution 223,72]
+232. 2 [avatar contradiction clause 231]
+275. ~list_ge_elem(X0,'Cons'(X0,X1,X3),X2) | ~less(X0,X1,X2) [resolution 70,61]
+284. ~list_ge_elem(X0,'Cons'(X0,X3,X1),X2) | list_ge_elem(X0,X1,X2) [resolution 71,61]
+332. list_ge_elem(X8,'Cons'(X8,X9,X11),X10) | ~list_ge_elem(X8,X11,X10) | less(X8,X9,X10) [resolution 69,62]
+686. ~less(sK1,sK9,sK2) <- (6) [unit resulting resolution 140,275]
+698. leq(sK1,sK2,sK9) <- (6) [unit resulting resolution 686,68]
+705. list_ge_elem(sK1,sK8,sK2) <- (6) [unit resulting resolution 140,284]
+717. 10 | ~6 [avatar split clause 705,138,158]
+765. leq(sK1,sK3,sK9) <- (6) [unit resulting resolution 59,698,65]
+849. ~less(sK1,sK9,sK3) <- (6) [unit resulting resolution 765,67]
+933. ~list_ge_elem(sK1,sK8,sK3) | less(sK1,sK9,sK3) <- (~8) [resolution 332,149]
+942. less(sK1,sK9,sK3) <- (~8, 9) [subsumption resolution 933,156]
+943. $false <- (6, ~8, 9) [subsumption resolution 942,849]
+944. ~6 | 8 | ~9 [avatar contradiction clause 943]
+945. $false [avatar sat refutation 151,152,162,232,717,944]
+% SZS output end Proof for lemma2
+% (45541)------------------------------
+% (45541)Version: Vampire 4.7 (commit )
+% (45541)Linked with Z3 4.9.1.0  NOTFOUND
+% (45541)Termination reason: Refutation
+
+% (45541)Memory used [KB]: 6012
+% (45541)Time elapsed: 0.015 s
+% (45541)------------------------------
+% (45541)------------------------------
+% (45531)Success in time 0.015 s

@@ -1,0 +1,262 @@
+% (55879)lrs+1010_1:3_drc=encompass:ind=both:indmd=1:nui=on:s2a=on:ss=axioms:i=24:si=on:rtra=on_0 on lemma6 for (600ds/24Mi)
+% (55877)ott+10_1:4_av=off:drc=off:ind=struct:indgen=on:newcnf=on:nui=on:uwa=ground:i=10:si=on:rtra=on_0 on lemma6 for (600ds/10Mi)
+% (55880)lrs+10_1:1_bd=off:gtg=exists_top:ind=struct:indmd=2:indstrhyp=on:nwc=5.0:s2a=on:s2agt=16:i=36:si=on:rtra=on_0 on lemma6 for (600ds/36Mi)
+% (55878)dis+10_1:1_aac=none:alpa=true:drc=off:ind=both:indoct=on:newcnf=on:sac=on:taea=off:to=lpo:i=5:si=on:rtra=on_0 on lemma6 for (600ds/5Mi)
+% (55882)lrs+1011_5:1_av=off:canc=force:drc=encompass:s2a=on:sp=const_frequency:to=lpo:urr=on:i=7:si=on:rtra=on_0 on lemma6 for (600ds/7Mi)
+% (55877)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (55878)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (55878)Instruction limit reached!
+% (55878)------------------------------
+% (55878)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (55878)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (55878)Termination reason: Time limit
+% (55878)Termination phase: Property scanning
+
+% (55878)Memory used [KB]: 744
+% (55878)Time elapsed: 0.003 s
+% (55878)Instructions burned: 5 (million)
+% (55881)ott+10_1:32_bsd=on:canc=force:drc=off:fsr=off:ind=struct:indao=on:newcnf=on:rawr=on:sac=on:taea=off:i=284:si=on:rtra=on_0 on lemma6 for (600ds/284Mi)
+% (55884)dis+10_1:1_gtg=exists_top:gve=cautious:ind=struct:indn=off:rawr=on:s2a=on:s2agt=8:sac=on:uwa=all:i=11:si=on:rtra=on_0 on lemma6 for (600ds/11Mi)
+% (55886)lrs+10_1:1_drc=off:ind=both:indoct=on:indstrhyp=on:sos=on:sp=const_frequency:ss=axioms:to=lpo:i=96:si=on:rtra=on_0 on lemma6 for (600ds/96Mi)
+% (55885)lrs+2_1:4_drc=off:gtg=position:gve=cautious:ile=on:ind=struct:indao=on:indc=goal:indmd=6:newcnf=on:nwc=5.0:s2a=on:tac=axiom:to=lpo:i=232:si=on:rtra=on_0 on lemma6 for (600ds/232Mi)
+% (55887)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=293:si=on:rtra=on_0 on lemma6 for (600ds/293Mi)
+% (55881)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (55882)Instruction limit reached!
+% (55882)------------------------------
+% (55882)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (55882)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (55882)Termination reason: Time limit
+% (55882)Termination phase: Saturation
+
+% (55882)Memory used [KB]: 895
+% (55882)Time elapsed: 0.004 s
+% (55882)Instructions burned: 9 (million)
+% (55885)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (55888)lrs+1010_1:1_avsq=on:avsqc=1:avsqr=1,16:drc=off:ev=force:ind=struct:sos=on:to=lpo:urr=on:i=14:si=on:rtra=on_0 on lemma6 for (600ds/14Mi)
+% (55889)ott+10_1:172_awrs=decay:drc=off:gtg=position:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:sik=recursion:sp=weighted_frequency:taea=off:uhcvi=on:i=165:si=on:rtra=on_0 on lemma6 for (600ds/165Mi)
+% (55889)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (55883)lrs+2_1:1_atotf=0.2:drc=off:gtg=exists_top:ind=both:nwc=10.0:sac=on:sp=unary_frequency:tgt=ground:to=lpo:i=7:si=on:rtra=on_0 on lemma6 for (600ds/7Mi)
+% (55877)Instruction limit reached!
+% (55877)------------------------------
+% (55877)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (55877)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (55877)Termination reason: Time limit
+% (55877)Termination phase: Saturation
+
+% (55877)Memory used [KB]: 861
+% (55877)Time elapsed: 0.006 s
+% (55877)Instructions burned: 11 (million)
+% (55890)dis+10_1:14_gtg=position:sp=frequency:ss=axioms:tgt=full:i=9:si=on:rtra=on_0 on lemma6 for (600ds/9Mi)
+% (55883)Instruction limit reached!
+% (55883)------------------------------
+% (55883)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (55883)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (55883)Termination reason: Time limit
+% (55883)Termination phase: Saturation
+
+% (55883)Memory used [KB]: 937
+% (55883)Time elapsed: 0.005 s
+% (55883)Instructions burned: 8 (million)
+% (55884)Instruction limit reached!
+% (55884)------------------------------
+% (55884)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (55884)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (55884)Termination reason: Time limit
+% (55884)Termination phase: Saturation
+
+% (55884)Memory used [KB]: 858
+% (55884)Time elapsed: 0.007 s
+% (55884)Instructions burned: 11 (million)
+% (55891)lrs+10_1:128_drc=off:gtg=exists_top:ind=struct:indstrhyp=on:sac=on:slsq=on:slsqc=1:taea=off:i=25:si=on:rtra=on_0 on lemma6 for (599ds/25Mi)
+% (55890)Instruction limit reached!
+% (55890)------------------------------
+% (55890)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (55890)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (55890)Termination reason: Time limit
+% (55890)Termination phase: Saturation
+
+% (55890)Memory used [KB]: 853
+% (55890)Time elapsed: 0.006 s
+% (55890)Instructions burned: 10 (million)
+% (55892)lrs+1002_1:1_av=off:br=off:drc=off:gtg=exists_all:ind=both:indc=goal:indmd=15:plsq=on:plsqr=9,1:sos=on:sp=unary_frequency:tgt=ground:to=lpo:uace=off:uwa=one_side_interpreted:i=3:si=on:rtra=on_0 on lemma6 for (599ds/3Mi)
+% (55892)Instruction limit reached!
+% (55892)------------------------------
+% (55892)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (55892)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (55892)Termination reason: Time limit
+% (55892)Termination phase: Initialization
+
+% (55892)Memory used [KB]: 726
+% (55892)Time elapsed: 0.003 s
+% (55892)Instructions burned: 3 (million)
+% (55888)Instruction limit reached!
+% (55888)------------------------------
+% (55888)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (55888)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (55888)Termination reason: Time limit
+% (55888)Termination phase: Saturation
+
+% (55879)Instruction limit reached!
+% (55879)------------------------------
+% (55879)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (55888)Memory used [KB]: 921
+% (55888)Time elapsed: 0.009 s
+% (55879)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (55888)Instructions burned: 14 (million)
+% (55879)Termination reason: Time limit
+% (55879)Termination phase: Saturation
+
+% (55879)Memory used [KB]: 1027
+% (55879)Time elapsed: 0.012 s
+% (55879)Instructions burned: 25 (million)
+% (55893)lrs+2_1:1_drc=encompass:ind=struct:indao=on:newcnf=on:plsq=on:plsqr=32,1:sp=frequency:to=lpo:i=2:si=on:rtra=on_0 on lemma6 for (599ds/2Mi)
+% (55893)Instruction limit reached!
+% (55893)------------------------------
+% (55893)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (55893)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (55893)Termination reason: Time limit
+% (55893)Termination phase: Property scanning
+
+% (55893)Memory used [KB]: 727
+% (55893)Time elapsed: 0.003 s
+% (55893)Instructions burned: 3 (million)
+% (55895)lrs+1010_1:128_aac=none:alpa=false:cond=fast:drc=off:gtg=position:gve=cautious:ind=both:norm_ineq=on:nwc=10.0:sac=on:sp=frequency:tgt=full:to=lpo:i=53:si=on:rtra=on_0 on lemma6 for (599ds/53Mi)
+% (55894)dis+1002_1:1024_av=off:bd=off:drc=off:fsr=off:gtg=position:ind=struct:indc=goal:indgen=on:indgenss=2:taea=off:to=lpo:i=742:si=on:rtra=on_0 on lemma6 for (599ds/742Mi)
+% (55896)lrs+1010_1:3_drc=encompass:ind=both:indmd=1:nui=on:s2a=on:ss=axioms:i=66:si=on:rtra=on_0 on lemma6 for (599ds/66Mi)
+% (55897)lrs+10_1:1_drc=encompass:fsr=off:ind=struct:indao=on:indmd=3:indoct=on:newcnf=on:taea=off:i=51:si=on:rtra=on_0 on lemma6 for (599ds/51Mi)
+% (55880)Instruction limit reached!
+% (55880)------------------------------
+% (55880)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (55897)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (55880)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (55880)Termination reason: Time limit
+% (55880)Termination phase: Saturation
+
+% (55880)Memory used [KB]: 1093
+% (55880)Time elapsed: 0.017 s
+% (55880)Instructions burned: 36 (million)
+% (55900)dis+1010_1:1_alpa=random:drc=encompass:gtg=all:kws=arity:nwc=3.0:spb=goal_then_units:ss=axioms:urr=on:i=44:si=on:rtra=on_0 on lemma6 for (599ds/44Mi)
+% (55898)ott+11_5:1_av=off:br=off:canc=cautious:drc=off:ev=cautious:fsr=off:ind=struct:indstrhyp=on:newcnf=on:i=128:si=on:rtra=on_0 on lemma6 for (599ds/128Mi)
+% (55899)ott+10_1:12_bsd=on:drc=off:fde=none:ind=struct:indgen=on:indgenss=2:norm_ineq=on:sac=on:taea=off:thi=strong:uwa=ground:i=571:si=on:rtra=on_0 on lemma6 for (599ds/571Mi)
+% (55891)Instruction limit reached!
+% (55891)------------------------------
+% (55891)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (55891)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (55891)Termination reason: Time limit
+% (55891)Termination phase: Saturation
+
+% (55891)Memory used [KB]: 941
+% (55891)Time elapsed: 0.012 s
+% (55891)Instructions burned: 27 (million)
+% (55898)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (55901)lrs+10_1:1_fsr=off:gtg=position:ind=both:indmd=1:indstrhyp=on:nwc=5.0:s2a=on:i=31:si=on:rtra=on_0 on lemma6 for (599ds/31Mi)
+% (55896)First to succeed.
+% (55896)Solution written to "/tmp/vampire-proof-55876"
+% (55902)lrs+1010_1:1_bsr=unit_only:ev=cautious:ind=both:nui=on:sac=on:i=47:si=on:rtra=on_0 on lemma6 for (599ds/47Mi)
+% (55896)Refutation found. Thanks to Tanya!
+% SZS status Unsatisfiable for lemma6
+% SZS output start Proof for lemma6
+6. append(X0,X1,X2) = $match(X1,'Nil'(X0),X2,'Cons'(X0,X3,X4),'Cons'(X0,X3,append(X0,X4,X2))) [input]
+7. (list_ge_elem(X0,X1,X2) = $match(X1,'Nil'(X0),$true,'Cons'(X0,X3,X4),~less(X0,X3,X2) & list_ge_elem(X0,X4,X2))) [input]
+8. ! [X0 : $tType] : ! [X2 : X0,X1 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ((~less(X0,X1,X2) & list_ge_elem(X0,X3,X2) & list_ge_elem(X0,X4,X2)) => list_ge_elem(X0,append(X0,X3,'Cons'(X0,X1,X4)),X2)) [input]
+9. ~! [X0 : $tType] : ! [X2 : X0,X1 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ((~less(X0,X1,X2) & list_ge_elem(X0,X3,X2) & list_ge_elem(X0,X4,X2)) => list_ge_elem(X0,append(X0,X3,'Cons'(X0,X1,X4)),X2)) [negated conjecture 8]
+11. append(X0,X1,X2) = $match(X1,'Nil'(X0),X2,'Cons'(X0,X3,X4),'Cons'(X0,X3,append(X0,X4,X2))) [theory normalization 6]
+12. (list_ge_elem(X0,X1,X2) = $match(X1,'Nil'(X0),$true,'Cons'(X0,X3,X4),~less(X0,X3,X2) & list_ge_elem(X0,X4,X2))) [theory normalization 7]
+21. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : 'list()'(X0),X0 : $tType] : append(X0,X1,X2) = $match(X1,'Nil'(X0),X2,'Cons'(X0,X3,X4),'Cons'(X0,X3,append(X0,X4,X2))) [closure 11]
+22. ! [X0 : $tType,X2 : 'list()'(X0),X4 : 'list()'(X0),X3 : X0,X1 : 'list()'(X0)] : ('Nil'(X0) = X1 => mG0(X0,X2,X4,X3,X1) = X2) [fool match definition]
+23. ! [X0 : $tType,X2 : 'list()'(X0),X4 : 'list()'(X0),X3 : X0,X1 : 'list()'(X0)] : ('Cons'(X0,X3,X4) = X1 => 'Cons'(X0,X3,append(X0,X4,X2)) = mG0(X0,X2,X4,X3,X1)) [fool match definition]
+24. ! [X4 : 'list()'(X0),X3 : X0,X2 : 'list()'(X0),X1 : 'list()'(X0),X0 : $tType] : append(X0,X1,X2) = mG0(X0,X2,X4,X3,X1) [fool elimination 21,23,22]
+25. ! [X4 : 'list()'(X0),X3 : X0,X2 : X0,X1 : 'list()'(X0),X0 : $tType] : (list_ge_elem(X0,X1,X2) = $match(X1,'Nil'(X0),$true,'Cons'(X0,X3,X4),~less(X0,X3,X2) & list_ge_elem(X0,X4,X2))) [closure 12]
+26. ! [X0 : $tType,X2 : X0,X3 : X0,X4 : 'list()'(X0),X1 : 'list()'(X0)] : ('Nil'(X0) = X1 => (mG1(X0,X2,X3,X4,X1) <=> $true)) [fool match definition]
+27. ! [X0 : $tType,X2 : X0,X3 : X0,X4 : 'list()'(X0),X1 : 'list()'(X0)] : ('Cons'(X0,X3,X4) = X1 => (mG1(X0,X2,X3,X4,X1) <=> (~less(X0,X3,X2) & list_ge_elem(X0,X4,X2)))) [fool match definition]
+28. ! [X4 : 'list()'(X0),X3 : X0,X2 : X0,X1 : 'list()'(X0),X0 : $tType] : (list_ge_elem(X0,X1,X2) <=> mG1(X0,X2,X3,X4,X1)) [fool elimination 25,27,26]
+29. ~! [X0 : $tType] : ! [X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ((~less(X0,X2,X1) & list_ge_elem(X0,X3,X1) & list_ge_elem(X0,X4,X1)) => list_ge_elem(X0,append(X0,X3,'Cons'(X0,X2,X4)),X1)) [rectify 9]
+30. ~! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ((list_ge_elem(X0,X4,X1) & list_ge_elem(X0,X3,X1) & ~less(X0,X2,X1)) => list_ge_elem(X0,append(X0,X3,'Cons'(X0,X2,X4)),X1)) [flattening 29]
+40. ! [X0 : 'list()'(X4),X1 : X4,X2 : 'list()'(X4),X3 : 'list()'(X4),X4 : $tType] : append(X4,X3,X2) = mG0(X4,X2,X0,X1,X3) [rectify 24]
+41. ! [X0 : 'list()'(X4),X1 : X4,X2 : X4,X3 : 'list()'(X4),X4 : $tType] : (list_ge_elem(X4,X3,X2) <=> mG1(X4,X2,X1,X0,X3)) [rectify 28]
+42. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Cons'(X0,X2,X3) = X4 => (mG1(X0,X1,X2,X3,X4) <=> (~less(X0,X2,X1) & list_ge_elem(X0,X3,X1)))) [rectify 27]
+43. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ('Cons'(X0,X2,X3) = X4 => ((~less(X0,X2,X1) & list_ge_elem(X0,X3,X1)) <=> mG1(X0,X1,X2,X3,X4))) [flattening 42]
+44. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : ('Cons'(X0,X3,X2) = X4 => mG0(X0,X1,X2,X3,X4) = 'Cons'(X0,X3,append(X0,X2,X1))) [rectify 23]
+45. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : ('Nil'(X0) = X4 => mG0(X0,X1,X2,X3,X4) = X1) [rectify 22]
+51. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : (((~less(X0,X2,X1) & list_ge_elem(X0,X3,X1)) <=> mG1(X0,X1,X2,X3,X4)) | 'Cons'(X0,X2,X3) != X4) [ennf transformation 43]
+52. ? [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : (~list_ge_elem(X0,append(X0,X3,'Cons'(X0,X2,X4)),X1) & (list_ge_elem(X0,X4,X1) & list_ge_elem(X0,X3,X1) & ~less(X0,X2,X1))) [ennf transformation 30]
+53. ? [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : (list_ge_elem(X0,X3,X1) & list_ge_elem(X0,X4,X1) & ~list_ge_elem(X0,append(X0,X3,'Cons'(X0,X2,X4)),X1) & ~less(X0,X2,X1)) [flattening 52]
+54. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : ('Cons'(X0,X3,X2) != X4 | mG0(X0,X1,X2,X3,X4) = 'Cons'(X0,X3,append(X0,X2,X1))) [ennf transformation 44]
+55. ! [X0 : $tType,X1 : 'list()'(X0),X2 : 'list()'(X0),X3 : X0,X4 : 'list()'(X0)] : ('Nil'(X0) != X4 | mG0(X0,X1,X2,X3,X4) = X1) [ennf transformation 45]
+58. ? [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : (list_ge_elem(X0,X3,X1) & list_ge_elem(X0,X4,X1) & ~list_ge_elem(X0,append(X0,X3,'Cons'(X0,X2,X4)),X1) & ~less(X0,X2,X1)) => (list_ge_elem(sK2,sK5,sK3) & list_ge_elem(sK2,sK6,sK3) & ~list_ge_elem(sK2,append(sK2,sK5,'Cons'(sK2,sK4,sK6)),sK3) & ~less(sK2,sK4,sK3)) [choice axiom]
+59. list_ge_elem(sK2,sK5,sK3) & list_ge_elem(sK2,sK6,sK3) & ~list_ge_elem(sK2,append(sK2,sK5,'Cons'(sK2,sK4,sK6)),sK3) & ~less(sK2,sK4,sK3) [skolemisation 53,58]
+60. ! [X0 : 'list()'(X4),X1 : X4,X2 : X4,X3 : 'list()'(X4),X4 : $tType] : ((list_ge_elem(X4,X3,X2) | ~mG1(X4,X2,X1,X0,X3)) & (mG1(X4,X2,X1,X0,X3) | ~list_ge_elem(X4,X3,X2))) [nnf transformation 41]
+62. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ((((~less(X0,X2,X1) & list_ge_elem(X0,X3,X1)) | ~mG1(X0,X1,X2,X3,X4)) & (mG1(X0,X1,X2,X3,X4) | (less(X0,X2,X1) | ~list_ge_elem(X0,X3,X1)))) | 'Cons'(X0,X2,X3) != X4) [nnf transformation 51]
+63. ! [X0 : $tType,X1 : X0,X2 : X0,X3 : 'list()'(X0),X4 : 'list()'(X0)] : ((((~less(X0,X2,X1) & list_ge_elem(X0,X3,X1)) | ~mG1(X0,X1,X2,X3,X4)) & (mG1(X0,X1,X2,X3,X4) | less(X0,X2,X1) | ~list_ge_elem(X0,X3,X1))) | 'Cons'(X0,X2,X3) != X4) [flattening 62]
+64. 'Cons'(X0,X3,X2) != X4 | mG0(X0,X1,X2,X3,X4) = 'Cons'(X0,X3,append(X0,X2,X1)) [cnf transformation 54]
+65. 'Nil'(X0) != X4 | mG0(X0,X1,X2,X3,X4) = X1 [cnf transformation 55]
+66. ~less(sK2,sK4,sK3) [cnf transformation 59]
+67. ~list_ge_elem(sK2,append(sK2,sK5,'Cons'(sK2,sK4,sK6)),sK3) [cnf transformation 59]
+68. list_ge_elem(sK2,sK6,sK3) [cnf transformation 59]
+69. list_ge_elem(sK2,sK5,sK3) [cnf transformation 59]
+72. mG1(X4,X2,X1,X0,X3) | ~list_ge_elem(X4,X3,X2) [cnf transformation 60]
+73. ~mG1(X4,X2,X1,X0,X3) | list_ge_elem(X4,X3,X2) [cnf transformation 60]
+78. mG1(X0,X1,X2,X3,X4) | less(X0,X2,X1) | ~list_ge_elem(X0,X3,X1) | 'Cons'(X0,X2,X3) != X4 [cnf transformation 63]
+79. list_ge_elem(X0,X3,X1) | ~mG1(X0,X1,X2,X3,X4) | 'Cons'(X0,X2,X3) != X4 [cnf transformation 63]
+80. ~less(X0,X2,X1) | ~mG1(X0,X1,X2,X3,X4) | 'Cons'(X0,X2,X3) != X4 [cnf transformation 63]
+81. append(X4,X3,X2) = mG0(X4,X2,X0,X1,X3) [cnf transformation 40]
+83. 'Cons'(X0,X3,X2) != X4 | append(X0,X4,X1) = 'Cons'(X0,X3,append(X0,X2,X1)) [definition unfolding 64,81]
+84. 'Nil'(X0) != X4 | append(X0,X4,X1) = X1 [definition unfolding 65,81]
+85. append(X0,'Cons'(X0,X3,X2),X1) = 'Cons'(X0,X3,append(X0,X2,X1)) [equality resolution 83]
+86. append(X0,'Nil'(X0),X1) = X1 [equality resolution 84]
+88. ~mG1(X0,X1,X2,X3,'Cons'(X0,X2,X3)) | ~less(X0,X2,X1) [equality resolution 80]
+89. ~mG1(X0,X1,X2,X3,'Cons'(X0,X2,X3)) | list_ge_elem(X0,X3,X1) [equality resolution 79]
+90. mG1(X0,X1,X2,X3,'Cons'(X0,X2,X3)) | ~list_ge_elem(X0,X3,X1) | less(X0,X2,X1) [equality resolution 78]
+109. ! [X0 : sK2,X1 : 'list()'(sK2)] : ((list_ge_elem(sK2,append(sK2,'Nil'(sK2),'Cons'(sK2,sK4,sK6)),sK3) | ~list_ge_elem(sK2,'Nil'(sK2),sK3)) & ((list_ge_elem(sK2,append(sK2,X1,'Cons'(sK2,sK4,sK6)),sK3) | ~list_ge_elem(sK2,X1,sK3)) => (list_ge_elem(sK2,append(sK2,'Cons'(sK2,X0,X1),'Cons'(sK2,sK4,sK6)),sK3) | ~list_ge_elem(sK2,'Cons'(sK2,X0,X1),sK3)))) => ! [X2 : 'list()'(sK2)] : (list_ge_elem(sK2,append(sK2,X2,'Cons'(sK2,sK4,sK6)),sK3) | ~list_ge_elem(sK2,X2,sK3)) [structural induction hypothesis (one)]
+110. ! [X2 : 'list()'(sK2)] : (list_ge_elem(sK2,append(sK2,X2,'Cons'(sK2,sK4,sK6)),sK3) | ~list_ge_elem(sK2,X2,sK3)) | ? [X0 : sK2,X1 : 'list()'(sK2)] : ((~list_ge_elem(sK2,append(sK2,'Nil'(sK2),'Cons'(sK2,sK4,sK6)),sK3) & list_ge_elem(sK2,'Nil'(sK2),sK3)) | ((~list_ge_elem(sK2,append(sK2,'Cons'(sK2,X0,X1),'Cons'(sK2,sK4,sK6)),sK3) & list_ge_elem(sK2,'Cons'(sK2,X0,X1),sK3)) & (list_ge_elem(sK2,append(sK2,X1,'Cons'(sK2,sK4,sK6)),sK3) | ~list_ge_elem(sK2,X1,sK3)))) [ennf transformation 109]
+111. list_ge_elem(sK2,'Cons'(sK2,sK10,sK11),sK3) | ~list_ge_elem(sK2,append(sK2,'Nil'(sK2),'Cons'(sK2,sK4,sK6)),sK3) | ~list_ge_elem(sK2,X2,sK3) | list_ge_elem(sK2,append(sK2,X2,'Cons'(sK2,sK4,sK6)),sK3) [cnf transformation 110]
+112. ~list_ge_elem(sK2,append(sK2,'Cons'(sK2,sK10,sK11),'Cons'(sK2,sK4,sK6)),sK3) | ~list_ge_elem(sK2,append(sK2,'Nil'(sK2),'Cons'(sK2,sK4,sK6)),sK3) | ~list_ge_elem(sK2,X2,sK3) | list_ge_elem(sK2,append(sK2,X2,'Cons'(sK2,sK4,sK6)),sK3) [cnf transformation 110]
+115. ~list_ge_elem(sK2,sK11,sK3) | list_ge_elem(sK2,append(sK2,sK11,'Cons'(sK2,sK4,sK6)),sK3) | ~list_ge_elem(sK2,append(sK2,'Nil'(sK2),'Cons'(sK2,sK4,sK6)),sK3) | ~list_ge_elem(sK2,X2,sK3) | list_ge_elem(sK2,append(sK2,X2,'Cons'(sK2,sK4,sK6)),sK3) [cnf transformation 110]
+118. ~list_ge_elem(sK2,sK11,sK3) | ~list_ge_elem(sK2,append(sK2,'Nil'(sK2),'Cons'(sK2,sK4,sK6)),sK3) | list_ge_elem(sK2,append(sK2,sK11,'Cons'(sK2,sK4,sK6)),sK3) [induction hyperresolution 69,67,115]
+121. ~list_ge_elem(sK2,append(sK2,'Cons'(sK2,sK10,sK11),'Cons'(sK2,sK4,sK6)),sK3) | ~list_ge_elem(sK2,append(sK2,'Nil'(sK2),'Cons'(sK2,sK4,sK6)),sK3) [induction hyperresolution 69,67,112]
+122. list_ge_elem(sK2,'Cons'(sK2,sK10,sK11),sK3) | ~list_ge_elem(sK2,append(sK2,'Nil'(sK2),'Cons'(sK2,sK4,sK6)),sK3) [induction hyperresolution 69,67,111]
+150. 4 <=> list_ge_elem(sK2,'Cons'(sK2,sK10,append(sK2,sK11,'Cons'(sK2,sK4,sK6))),sK3) [avatar definition]
+152. ~list_ge_elem(sK2,'Cons'(sK2,sK10,append(sK2,sK11,'Cons'(sK2,sK4,sK6))),sK3) <- (~4) [avatar component clause 150]
+166. 7 <=> list_ge_elem(sK2,'Cons'(sK2,sK4,sK6),sK3) [avatar definition]
+168. ~list_ge_elem(sK2,'Cons'(sK2,sK4,sK6),sK3) <- (~7) [avatar component clause 166]
+184. ~list_ge_elem(sK2,'Cons'(sK2,sK10,append(sK2,sK11,'Cons'(sK2,sK4,sK6))),sK3) | ~list_ge_elem(sK2,append(sK2,'Nil'(sK2),'Cons'(sK2,sK4,sK6)),sK3) [forward demodulation 121,85]
+185. ~list_ge_elem(sK2,'Cons'(sK2,sK10,append(sK2,sK11,'Cons'(sK2,sK4,sK6))),sK3) | ~list_ge_elem(sK2,'Cons'(sK2,sK4,sK6),sK3) [forward demodulation 184,86]
+186. ~7 | ~4 [avatar split clause 185,150,166]
+187. ~list_ge_elem(sK2,'Cons'(sK2,sK4,sK6),sK3) | list_ge_elem(sK2,'Cons'(sK2,sK10,sK11),sK3) [forward demodulation 122,86]
+189. 11 <=> list_ge_elem(sK2,'Cons'(sK2,sK10,sK11),sK3) [avatar definition]
+191. list_ge_elem(sK2,'Cons'(sK2,sK10,sK11),sK3) <- (11) [avatar component clause 189]
+192. ~7 | 11 [avatar split clause 187,189,166]
+200. 13 <=> list_ge_elem(sK2,append(sK2,sK11,'Cons'(sK2,sK4,sK6)),sK3) [avatar definition]
+202. list_ge_elem(sK2,append(sK2,sK11,'Cons'(sK2,sK4,sK6)),sK3) <- (13) [avatar component clause 200]
+204. 14 <=> list_ge_elem(sK2,sK11,sK3) [avatar definition]
+206. ~list_ge_elem(sK2,sK11,sK3) <- (~14) [avatar component clause 204]
+208. list_ge_elem(sK2,append(sK2,sK11,'Cons'(sK2,sK4,sK6)),sK3) | ~list_ge_elem(sK2,sK11,sK3) | ~list_ge_elem(sK2,'Cons'(sK2,sK4,sK6),sK3) [forward demodulation 118,86]
+209. ~7 | 13 | ~14 [avatar split clause 208,204,200,166]
+314. ~list_ge_elem(X0,'Cons'(X0,X1,X3),X2) | ~less(X0,X1,X2) [resolution 88,72]
+326. ~list_ge_elem(X0,'Cons'(X0,X3,X1),X2) | list_ge_elem(X0,X1,X2) [resolution 89,72]
+378. list_ge_elem(X0,'Cons'(X0,X3,X1),X2) | ~list_ge_elem(X0,X1,X2) | less(X0,X3,X2) [resolution 90,73]
+397. ~list_ge_elem(sK2,sK6,sK3) | less(sK2,sK4,sK3) <- (~7) [resolution 378,168]
+400. less(sK2,sK4,sK3) <- (~7) [subsumption resolution 397,68]
+401. $false <- (~7) [subsumption resolution 400,66]
+402. 7 [avatar contradiction clause 401]
+405. list_ge_elem(sK2,sK11,sK3) <- (11) [resolution 191,326]
+406. ~less(sK2,sK10,sK3) <- (11) [resolution 191,314]
+407. $false <- (11, ~14) [subsumption resolution 405,206]
+408. ~11 | 14 [avatar contradiction clause 407]
+480. ~list_ge_elem(sK2,append(sK2,sK11,'Cons'(sK2,sK4,sK6)),sK3) | less(sK2,sK10,sK3) <- (~4) [resolution 152,378]
+481. less(sK2,sK10,sK3) <- (~4, 13) [subsumption resolution 480,202]
+482. $false <- (~4, 11, 13) [subsumption resolution 481,406]
+483. 4 | ~11 | ~13 [avatar contradiction clause 482]
+484. $false [avatar sat refutation 186,192,209,402,408,483]
+% SZS output end Proof for lemma6
+% (55896)------------------------------
+% (55896)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (55896)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (55896)Termination reason: Refutation
+
+% (55896)Memory used [KB]: 998
+% (55896)Time elapsed: 0.012 s
+% (55896)Instructions burned: 31 (million)
+% (55896)------------------------------
+% (55896)------------------------------
+% (55876)Success in time 0.019 s

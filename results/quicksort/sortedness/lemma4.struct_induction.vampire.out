@@ -1,0 +1,2773 @@
+% (53754)lrs+2_1:1_atotf=0.2:drc=off:gtg=exists_top:ind=both:nwc=10.0:sac=on:sp=unary_frequency:tgt=ground:to=lpo:i=7:si=on:rtra=on_0 on lemma4 for (599ds/7Mi)
+% (53751)lrs+10_1:1_bd=off:gtg=exists_top:ind=struct:indmd=2:indstrhyp=on:nwc=5.0:s2a=on:s2agt=16:i=36:si=on:rtra=on_0 on lemma4 for (599ds/36Mi)
+% (53754)Instruction limit reached!
+% (53754)------------------------------
+% (53754)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53754)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53754)Termination reason: Time limit
+% (53754)Termination phase: Saturation
+
+% (53754)Memory used [KB]: 941
+% (53754)Time elapsed: 0.004 s
+% (53754)Instructions burned: 8 (million)
+% (53752)ott+10_1:32_bsd=on:canc=force:drc=off:fsr=off:ind=struct:indao=on:newcnf=on:rawr=on:sac=on:taea=off:i=284:si=on:rtra=on_0 on lemma4 for (599ds/284Mi)
+% (53753)lrs+1011_5:1_av=off:canc=force:drc=encompass:s2a=on:sp=const_frequency:to=lpo:urr=on:i=7:si=on:rtra=on_0 on lemma4 for (599ds/7Mi)
+% (53761)dis+10_1:14_gtg=position:sp=frequency:ss=axioms:tgt=full:i=9:si=on:rtra=on_0 on lemma4 for (599ds/9Mi)
+% (53757)lrs+10_1:1_drc=off:ind=both:indoct=on:indstrhyp=on:sos=on:sp=const_frequency:ss=axioms:to=lpo:i=96:si=on:rtra=on_0 on lemma4 for (599ds/96Mi)
+% (53752)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53755)dis+10_1:1_gtg=exists_top:gve=cautious:ind=struct:indn=off:rawr=on:s2a=on:s2agt=8:sac=on:uwa=all:i=11:si=on:rtra=on_0 on lemma4 for (599ds/11Mi)
+% (53760)ott+10_1:172_awrs=decay:drc=off:gtg=position:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:sik=recursion:sp=weighted_frequency:taea=off:uhcvi=on:i=165:si=on:rtra=on_0 on lemma4 for (599ds/165Mi)
+% (53753)Instruction limit reached!
+% (53753)------------------------------
+% (53753)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53753)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53753)Termination reason: Time limit
+% (53753)Termination phase: Saturation
+
+% (53753)Memory used [KB]: 827
+% (53753)Time elapsed: 0.004 s
+% (53753)Instructions burned: 7 (million)
+% (53749)dis+10_1:1_aac=none:alpa=true:drc=off:ind=both:indoct=on:newcnf=on:sac=on:taea=off:to=lpo:i=5:si=on:rtra=on_0 on lemma4 for (599ds/5Mi)
+% (53750)lrs+1010_1:3_drc=encompass:ind=both:indmd=1:nui=on:s2a=on:ss=axioms:i=24:si=on:rtra=on_0 on lemma4 for (599ds/24Mi)
+% (53760)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53749)Instruction limit reached!
+% (53749)------------------------------
+% (53749)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53749)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53749)Termination reason: Time limit
+% (53749)Termination phase: Preprocessing 1
+
+% (53749)Memory used [KB]: 738
+% (53749)Time elapsed: 0.006 s
+% (53749)Instructions burned: 5 (million)
+% (53748)ott+10_1:4_av=off:drc=off:ind=struct:indgen=on:newcnf=on:nui=on:uwa=ground:i=10:si=on:rtra=on_0 on lemma4 for (599ds/10Mi)
+% (53761)Instruction limit reached!
+% (53761)------------------------------
+% (53761)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53761)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53761)Termination reason: Time limit
+% (53761)Termination phase: Saturation
+
+% (53761)Memory used [KB]: 1002
+% (53761)Time elapsed: 0.006 s
+% (53761)Instructions burned: 9 (million)
+% (53756)lrs+2_1:4_drc=off:gtg=position:gve=cautious:ile=on:ind=struct:indao=on:indc=goal:indmd=6:newcnf=on:nwc=5.0:s2a=on:tac=axiom:to=lpo:i=232:si=on:rtra=on_0 on lemma4 for (599ds/232Mi)
+% (53748)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53755)Instruction limit reached!
+% (53755)------------------------------
+% (53755)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53756)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53755)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53755)Termination reason: Time limit
+% (53755)Termination phase: Saturation
+
+% (53755)Memory used [KB]: 915
+% (53755)Time elapsed: 0.008 s
+% (53755)Instructions burned: 11 (million)
+% (53758)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=293:si=on:rtra=on_0 on lemma4 for (599ds/293Mi)
+% (53762)lrs+10_1:128_drc=off:gtg=exists_top:ind=struct:indstrhyp=on:sac=on:slsq=on:slsqc=1:taea=off:i=25:si=on:rtra=on_0 on lemma4 for (599ds/25Mi)
+% (53759)lrs+1010_1:1_avsq=on:avsqc=1:avsqr=1,16:drc=off:ev=force:ind=struct:sos=on:to=lpo:urr=on:i=14:si=on:rtra=on_0 on lemma4 for (599ds/14Mi)
+% (53748)Instruction limit reached!
+% (53748)------------------------------
+% (53748)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53748)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53748)Termination reason: Time limit
+% (53748)Termination phase: Saturation
+
+% (53748)Memory used [KB]: 898
+% (53748)Time elapsed: 0.009 s
+% (53748)Instructions burned: 10 (million)
+% (% (53763)Instruction limit reached!
+% (53763)------------------------------
+% (53763)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53763)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53763)Termination reason: Time limit
+% (53763)Termination phase: Initialization
+
+% (53763)Memory used [KB]: 728
+% (53763)Time elapsed: 0.003 s
+% (53763)Instructions burned: 3 (million)
+% (53759)Instruction limit reached!
+% (53759)------------------------------
+% (53759)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53759)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53759)Termination reason: Time limit
+% (53759)Termination phase: Saturation
+
+% (53759)Memory used [KB]: 973
+% (53759)Time elapsed: 0.010 s
+% (53759)Instructions burned: 15 (million)
+% (53751)Instruction limit reached!
+% (53751)------------------------------
+% (53751)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53751)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53751)Termination reason: Time limit
+% (53751)Termination phase: Saturation
+
+% (53751)Memory used [KB]: 1028
+% (53751)Time elapsed: 0.016 s
+% (53751)Instructions burned: 36 (million)
+% (53762)Instruction limit reached!
+% (53762)------------------------------
+% (53762)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53762)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53762)Termination reason: Time limit
+% (53762)Termination phase: Saturation
+
+% (53762)Memory used [KB]: 1026
+% (53762)Time elapsed: 0.012 s
+% (53762)Instructions burned: 27 (million)
+% (53750)Instruction limit reached!
+% (53750)------------------------------
+% (53750)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53750)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53750)Termination reason: Time limit
+% (53750)Termination phase: Saturation
+
+% (53750)Memory used [KB]: 1010
+% (53750)Time elapsed: 0.019 s
+% (53750)Instructions burned: 24 (million)
+% (53767)lrs+1010_1:3_drc=encompass:ind=both:indmd=1:nui=on:s2a=on:ss=axioms:i=66:si=on:rtra=on_0 on lemma4 for (599ds/66Mi)
+% (53769)ott+11_5:1_av=off:br=off:canc=cautious:drc=off:ev=cautious:fsr=off:ind=struct:indstrhyp=on:newcnf=on:i=128:si=on:rtra=on_0 on lemma4 for (599ds/128Mi)
+% (53766)lrs+1010_1:128_aac=none:alpa=false:cond=fast:drc=off:gtg=position:gve=cautious:ind=both:norm_ineq=on:nwc=10.0:sac=on:sp=frequency:tgt=full:to=lpo:i=53:si=on:rtra=on_0 on lemma4 for (599ds/53Mi)
+% (53769)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53768)lrs+10_1:1_drc=encompass:fsr=off:ind=struct:indao=on:indmd=3:indoct=on:newcnf=on:taea=off:i=51:si=on:rtra=on_0 on lemma4 for (599ds/51Mi)
+% (53768)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53770)ott+10_1:12_bsd=on:drc=off:fde=none:ind=struct:indgen=on:indgenss=2:norm_ineq=on:sac=on:taea=off:thi=strong:uwa=ground:i=571:si=on:rtra=on_0 on lemma4 for (599ds/571Mi)
+% (53765)dis+1002_1:1024_av=off:bd=off:drc=off:fsr=off:gtg=position:ind=struct:indc=goal:indgen=on:indgenss=2:taea=off:to=lpo:i=742:si=on:rtra=on_0 on lemma4 for (599ds/742Mi)
+% (53772)lrs+10_1:1_fsr=off:gtg=position:ind=both:indmd=1:indstrhyp=on:nwc=5.0:s2a=on:i=31:si=on:rtra=on_0 on lemma4 for (599ds/31Mi)
+% (53771)dis+1010_1:1_alpa=random:drc=encompass:gtg=all:kws=arity:nwc=3.0:spb=goal_then_units:ss=axioms:urr=on:i=44:si=on:rtra=on_0 on lemma4 for (599ds/44Mi)
+% (53764)lrs+2_1:1_drc=encompass:ind=struct:indao=on:newcnf=on:plsq=on:plsqr=32,1:sp=frequency:to=lpo:i=2:si=on:rtra=on_0 on lemma4 for (599ds/2Mi)
+% (53764)Instruction limit reached!
+% (53764)------------------------------
+% (53764)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53764)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53764)Termination reason: Time limit
+% (53764)Termination phase: Including theory axioms
+
+% (53764)Memory used [KB]: 736
+% (53764)Time elapsed: 0.003 s
+% (53764)Instructions burned: 4 (million)
+% (53773)lrs+1010_1:1_bsr=unit_only:ev=cautious:ind=both:nui=on:sac=on:i=47:si=on:rtra=on_0 on lemma4 for (599ds/47Mi)
+% (53757)Instruction limit reached!
+% (53757)------------------------------
+% (53757)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53771)Instruction limit reached!
+% (53771)------------------------------
+% (53771)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53757)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53757)Termination reason: Time limit
+% (53757)Termination phase: Saturation
+
+% (53771)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53757)Memory used [KB]: 2306
+% (53771)Termination reason: Time limit
+% (53757)Time elapsed: 0.045 s
+% (53771)Termination phase: Saturation
+% (53757)Instructions burned: 97 (million)
+
+% (53771)Memory used [KB]: 1139
+% (53771)Time elapsed: 0.021 s
+% (53771)Instructions burned: 46 (million)
+% (53760)Instruction limit reached!
+% (53760)------------------------------
+% (53760)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53760)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53760)Termination reason: Time limit
+% (53760)Termination phase: Saturation
+
+% (53760)Memory used [KB]: 1128
+% (53760)Time elapsed: 0.046 s
+% (53760)Instructions burned: 165 (million)
+% (53772)Instruction limit reached!
+% (53772)------------------------------
+% (53772)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53772)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53772)Termination reason: Time limit
+% (53772)Termination phase: Saturation
+
+% (53772)Memory used [KB]: 999
+% (53772)Time elapsed: 0.020 s
+% (53772)Instructions burned: 32 (million)
+% (53767)Instruction limit reached!
+% (53767)------------------------------
+% (53767)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53767)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53767)Termination reason: Time limit
+% (53767)Termination phase: Saturation
+
+% (53767)Memory used [KB]: 1119
+% (53767)Time elapsed: 0.050 s
+% (53767)Instructions burned: 68 (million)
+% (53766)Instruction limit reached!
+% (53766)------------------------------
+% (53766)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53766)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53766)Termination reason: Time limit
+% (53766)Termination phase: Saturation
+
+% (53766)Memory used [KB]: 1011
+% (53766)Time elapsed: 0.045 s
+% (53766)Instructions burned: 55 (million)
+WARNING Broken Constraint: if max_induction_gen_subset_size(7) has been set then induction_gen(off) is equal to on
+% (53774)ott+1002_1:1024_bsd=on:drc=off:fd=preordered:ind=struct:indao=on:indgenss=7:kws=inv_arity:rawr=on:sac=on:sp=const_max:spb=intro:sup=off:uhcvi=on:updr=off:uwa=ground:i=380:si=on:rtra=on_0 on lemma4 for (599ds/380Mi)
+% (53776)lrs+1010_1:1_avsq=on:avsqc=1:avsqr=1,16:drc=off:ev=force:ind=struct:sos=on:to=lpo:urr=on:i=46:si=on:rtra=on_0 on lemma4 for (599ds/46Mi)
+% (53775)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=860:si=on:rtra=on_0 on lemma4 for (599ds/860Mi)
+% (53777)ott+10_1:172_awrs=decay:drc=off:gtg=position:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:sik=recursion:sp=weighted_frequency:taea=off:uhcvi=on:i=1108:si=on:rtra=on_0 on lemma4 for (599ds/1108Mi)
+% (53778)lrs+10_1:128_drc=off:gtg=exists_top:ind=struct:indstrhyp=on:sac=on:slsq=on:slsqc=1:taea=off:i=61:si=on:rtra=on_0 on lemma4 for (599ds/61Mi)
+% (53777)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53779)lrs+10_1:1_drc=off:gtg=exists_sym:ind=struct:indstrhyp=on:sp=const_min:taea=off:tar=off:to=lpo:i=67:si=on:rtra=on_0 on lemma4 for (599ds/67Mi)
+% (53768)Instruction limit reached!
+% (53768)------------------------------
+% (53768)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53768)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53768)Termination reason: Time limit
+% (53768)Termination phase: Saturation
+
+% (53768)Memory used [KB]: 1308
+% (53768)Time elapsed: 0.047 s
+% (53768)Instructions burned: 52 (million)
+% (53773)Instruction limit reached!
+% (53773)------------------------------
+% (53773)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53773)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53773)Termination reason: Time limit
+% (53773)Termination phase: Saturation
+
+% (53773)Memory used [KB]: 1248
+% (53773)Time elapsed: 0.026 s
+% (53773)Instructions burned: 48 (million)
+% (53780)lrs+1002_1:1_av=off:br=off:drc=off:gtg=exists_all:ind=both:indc=goal:indmd=15:plsq=on:plsqr=9,1:sos=on:sp=unary_frequency:tgt=ground:to=lpo:uace=off:uwa=one_side_interpreted:i=3:si=on:rtra=on_0 on lemma4 for (599ds/3Mi)
+% (53780)Instruction limit reached!
+% (53780)------------------------------
+% (53780)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53780)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53780)Termination reason: Time limit
+% (53780)Termination phase: Property scanning
+
+% (53780)Memory used [KB]: 730
+% (53780)Time elapsed: 0.003 s
+% (53780)Instructions burned: 4 (million)
+% (53769)Instruction limit reached!
+% (53769)------------------------------
+% (53769)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53769)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53769)Termination reason: Time limit
+% (53769)Termination phase: Saturation
+
+% (53769)Memory used [KB]: 1041
+% (53769)Time elapsed: 0.063 s
+% (53769)Instructions burned: 130 (million)
+% (53781)lrs+21_1:1_av=off:ind=struct:newcnf=on:plsq=on:plsqc=1:plsqr=32,1:rawr=on:sos=all:sup=off:i=20:si=on:rtra=on_0 on lemma4 for (599ds/20Mi)
+% (53781)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53782)lrs+2_1:1_drc=encompass:ind=struct:indao=on:newcnf=on:plsq=on:plsqr=32,1:sp=frequency:to=lpo:i=19:si=on:rtra=on_0 on lemma4 for (599ds/19Mi)
+% (53776)Instruction limit reached!
+% (53776)------------------------------
+% (53776)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53776)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53776)Termination reason: Time limit
+% (53776)Termination phase: Saturation
+
+% (53776)Memory used [KB]: 1305
+% (53776)Time elapsed: 0.020 s
+% (53776)Instructions burned: 46 (million)
+% (53756)Instruction limit reached!
+% (53756)------------------------------
+% (53756)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53756)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53756)Termination reason: Time limit
+% (53756)Termination phase: Saturation
+
+% (53782)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53756)Memory used [KB]: 1329
+% (53756)Time elapsed: 0.070 s
+% (53756)Instructions burned: 233 (million)
+% (53783)lrs+2_1:1_av=off:drc=off:gtg=position:ind=struct:indoct=on:plsq=on:plsqc=1:plsqr=32,1:to=lpo:i=33:si=on:rtra=on_0 on lemma4 for (599ds/33Mi)
+% (53785)lrs+1002_1:1_bd=preordered:gtg=exists_all:gtgl=3:ind=struct:indmd=1:indstrhyp=on:nui=on:sos=on:i=18:si=on:rtra=on_0 on lemma4 for (599ds/18Mi)
+% (53781)Instruction limit reached!
+% (53781)------------------------------
+% (53781)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53781)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53781)Termination reason: Time limit
+% (53781)Termination phase: Saturation
+
+% (53781)Memory used [KB]: 992
+% (53781)Time elapsed: 0.010 s
+% (53781)Instructions burned: 22 (million)
+% (53778)Instruction limit reached!
+% (53778)------------------------------
+% (53778)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53778)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53778)Termination reason: Time limit
+% (53778)Termination phase: Saturation
+
+% (53778)Memory used [KB]: 1129
+% (53778)Time elapsed: 0.022 s
+% (53778)Instructions burned: 63 (million)
+% (53784)ott+21_1:10_bsr=on:canc=force:drc=encompass:ev=cautious:ile=on:ind=struct:indao=on:indoct=on:newcnf=on:spb=non_intro:tac=rule:taea=off:to=lpo:i=443:si=on:rtra=on_0 on lemma4 for (599ds/443Mi)
+% (53782)Instruction limit reached!
+% (53782)------------------------------
+% (53782)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53782)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53782)Termination reason: Time limit
+% (53782)Termination phase: Saturation
+
+% (53782)Memory used [KB]: 998
+% (53782)Time elapsed: 0.010 s
+% (53782)Instructions burned: 20 (million)
+% (53784)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53779)Instruction limit reached!
+% (53779)------------------------------
+% (53779)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53779)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53779)Termination reason: Time limit
+% (53779)Termination phase: Saturation
+
+% (53779)Memory used [KB]: 1287
+% (53779)Time elapsed: 0.026 s
+% (53779)Instructions burned: 67 (million)
+% (53785)Instruction limit reached!
+% (53785)------------------------------
+% (53785)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53785)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53785)Termination reason: Time limit
+% (53785)Termination phase: Saturation
+
+% (53785)Memory used [KB]: 1010
+% (53785)Time elapsed: 0.009 s
+% (53785)Instructions burned: 19 (million)
+% (53783)Instruction limit reached!
+% (53783)------------------------------
+% (53783)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53783)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53783)Termination reason: Time limit
+% (53783)Termination phase: Saturation
+
+% (53783)Memory used [KB]: 1007
+% (53783)Time elapsed: 0.012 s
+% (53783)Instructions burned: 34 (million)
+% (53787)lrs+10_1:1_gtg=exists_sym:ind=struct:indstrhyp=on:kws=precedence:sos=on:sp=unary_first:spb=goal:urr=on:i=89:si=on:rtra=on_0 on lemma4 for (599ds/89Mi)
+% (53788)ott+10_1:1_ev=cautious:gtg=exists_top:ind=struct:indc=goal:indstrhyp=on:nwc=10.0:sos=on:i=72:si=on:rtra=on_0 on lemma4 for (599ds/72Mi)
+% (53786)lrs+1002_1:1_canc=cautious:sos=on:sp=unary_frequency:i=19:si=on:rtra=on_0 on lemma4 for (599ds/19Mi)
+% (53786)Instruction limit reached!
+% (53786)------------------------------
+% (53786)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53786)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53786)Termination reason: Time limit
+% (53786)Termination phase: Saturation
+
+% (53786)Memory used [KB]: 983
+% (53786)Time elapsed: 0.011 s
+% (53786)Instructions burned: 19 (million)
+% (53758)Instruction limit reached!
+% (53758)------------------------------
+% (53758)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53758)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53758)Termination reason: Time limit
+% (53758)Termination phase: Saturation
+
+% (53758)Memory used [KB]: 1090
+% (53758)Time elapsed: 0.090 s
+% (53758)Instructions burned: 294 (million)
+% (53752)Instruction limit reached!
+% (53752)------------------------------
+% (53752)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53752)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53752)Termination reason: Time limit
+% (53752)Termination phase: Saturation
+
+% (53752)Memory used [KB]: 1094
+% (53752)Time elapsed: 0.089 s
+% (53752)Instructions burned: 285 (million)
+% (53790)dis+10_1:128_ind=both:indmd=1:indstrhyp=on:nui=on:sac=on:i=45:si=on:rtra=on_0 on lemma4 for (599ds/45Mi)
+% (53791)ott+1002_1:4_drc=off:fde=unused:fsd=on:fsdmm=3:gtg=exists_all:gtgl=3:ind=struct:indgen=on:indoct=on:newcnf=on:norm_ineq=on:sp=occurrence:taea=off:to=lpo:i=84:si=on:rtra=on_0 on lemma4 for (599ds/84Mi)
+% (53791)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53789)lrs+10_1:1_bd=off:gtg=exists_top:ind=struct:indmd=2:indstrhyp=on:nwc=5.0:s2a=on:s2agt=16:i=41:si=on:rtra=on_0 on lemma4 for (599ds/41Mi)
+% (53793)ott+1011_1:1_ind=struct:indstrhyp=on:newcnf=on:nui=on:s2a=on:i=74:si=on:rtra=on_0 on lemma4 for (599ds/74Mi)
+% (53792)dis+10_1:1_av=off:fsd=on:fsr=off:gtg=exists_all:ind=struct:indc=goal:indgen=on:ss=axioms:i=66:si=on:rtra=on_0 on lemma4 for (599ds/66Mi)
+% (53793)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53794)ott+1011_31:15_abs=on:drc=off:ev=cautious:gtg=position:gtgl=3:ind=struct:indc=goal:indmd=1:taea=off:to=lpo:i=179:si=on:rtra=on_0 on lemma4 for (599ds/179Mi)
+% (53788)Instruction limit reached!
+% (53788)------------------------------
+% (53788)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53788)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53788)Termination reason: Time limit
+% (53788)Termination phase: Saturation
+
+% (53788)Memory used [KB]: 1278
+% (53788)Time elapsed: 0.027 s
+% (53788)Instructions burned: 72 (million)
+% (53790)Instruction limit reached!
+% (53790)------------------------------
+% (53790)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53790)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53790)Termination reason: Time limit
+% (53790)Termination phase: Saturation
+
+% (53790)Memory used [KB]: 1035
+% (53790)Time elapsed: 0.018 s
+% (53790)Instructions burned: 45 (million)
+% (53789)Instruction limit reached!
+% (53789)------------------------------
+% (53789)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53789)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53789)Termination reason: Time limit
+% (53789)Termination phase: Saturation
+
+% (53789)Memory used [KB]: 1049
+% (53789)Time elapsed: 0.039 s
+% (53789)Instructions burned: 41 (million)
+% (53795)ott+1002_3:2_aac=none:abs=on:alpa=true:drc=off:gve=force:ind=struct:indao=on:newcnf=on:nicw=on:nm=30:rawr=on:taea=off:i=1038:si=on:rtra=on_0 on lemma4 for (598ds/1038Mi)
+% (53796)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=1022:si=on:rtra=on_0 on lemma4 for (598ds/1022Mi)
+% (53787)Instruction limit reached!
+% (53787)------------------------------
+% (53787)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53787)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53787)Termination reason: Time limit
+% (53787)Termination phase: Saturation
+
+% (53787)Memory used [KB]: 1857
+% (53787)Time elapsed: 0.034 s
+% (53787)Instructions burned: 89 (million)
+% (53795)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53797)dis+10_1:1_av=off:bsd=on:fd=off:fnrw=on:gtg=all:gtgl=2:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:plsq=on:plsqr=32,1:ss=axioms:i=89:si=on:rtra=on_0 on lemma4 for (598ds/89Mi)
+% (53797)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53792)Instruction limit reached!
+% (53792)------------------------------
+% (53792)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53792)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53792)Termination reason: Time limit
+% (53792)Termination phase: Saturation
+
+% (53792)Memory used [KB]: 1111
+% (53792)Time elapsed: 0.045 s
+% (53792)Instructions burned: 66 (million)
+% (53798)ott+1011_1:1_aac=none:fd=preordered:ind=struct:indao=on:newcnf=on:nm=0:nui=on:sik=three:sp=const_frequency:spb=intro:to=lpo:i=35:si=on:rtra=on_0 on lemma4 for (598ds/35Mi)
+% (53798)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53793)Instruction limit reached!
+% (53793)------------------------------
+% (53793)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53793)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53793)Termination reason: Time limit
+% (53793)Termination phase: Saturation
+
+% (53793)Memory used [KB]: 1183
+% (53793)Time elapsed: 0.049 s
+% (53793)Instructions burned: 74 (million)
+% (53791)Instruction limit reached!
+% (53791)------------------------------
+% (53791)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53791)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53791)Termination reason: Time limit
+% (53791)Termination phase: Saturation
+
+% (53791)Memory used [KB]: 1090
+% (53791)Time elapsed: 0.034 s
+% (53791)Instructions burned: 84 (million)
+% (53799)ott+21_1:1_canc=cautious:cond=fast:drc=off:fd=preordered:ind=struct:indao=on:indgen=on:indgenss=1:indoct=on:newcnf=on:sik=recursion:sp=occurrence:taea=off:i=688:si=on:rtra=on_0 on lemma4 for (598ds/688Mi)
+% (53797)Refutation not found, incomplete strategy% (53797)------------------------------
+% (53797)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53797)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53797)Termination reason: Refutation not found, incomplete strategy
+
+% (53797)Memory used [KB]: 963
+% (53797)Time elapsed: 0.011 s
+% (53797)Instructions burned: 25 (million)
+% (53797)------------------------------
+% (53797)------------------------------
+% (53799)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53800)lrs+1002_1:1_av=off:br=off:drc=off:gtg=exists_all:ind=both:indc=goal:indmd=15:plsq=on:plsqr=9,1:sos=on:sp=unary_frequency:tgt=ground:to=lpo:uace=off:uwa=one_side_interpreted:i=3:si=on:rtra=on_0 on lemma4 for (598ds/3Mi)
+% (53800)Instruction limit reached!
+% (53800)------------------------------
+% (53800)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53800)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53800)Termination reason: Time limit
+% (53800)Termination phase: Property scanning
+
+% (53800)Memory used [KB]: 730
+% (53800)Time elapsed: 0.003 s
+% (53800)Instructions burned: 4 (million)
+% (53801)ott+10_5:1_drc=off:ind=struct:indstrhyp=on:kws=precedence:taea=off:uwa=all:i=51:si=on:rtra=on_0 on lemma4 for (598ds/51Mi)
+% (53802)dis+10_1:64_ind=both:indao=on:indstrhyp=on:intindint=infinite:newcnf=on:nm=0:ss=axioms:i=55:si=on:rtra=on_0 on lemma4 for (598ds/55Mi)
+% (53802)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53803)lrs+1010_1:1_asg=cautious:gtg=all:ind=struct:indc=goal:norm_ineq=on:nui=on:s2a=on:i=111:si=on:rtra=on_0 on lemma4 for (598ds/111Mi)
+% (53798)Instruction limit reached!
+% (53798)------------------------------
+% (53798)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53798)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53798)Termination reason: Time limit
+% (53798)Termination phase: Saturation
+
+% (53798)Memory used [KB]: 1152
+% (53798)Time elapsed: 0.017 s
+% (53798)Instructions burned: 35 (million)
+% (53804)lrs+1011_1:7_drc=off:fsr=off:ind=struct:norm_ineq=on:s2a=on:taea=off:to=lpo:uace=off:uwa=interpreted_only:i=60:si=on:rtra=on_0 on lemma4 for (598ds/60Mi)
+% (53802)Instruction limit reached!
+% (53802)------------------------------
+% (53802)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53802)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53802)Termination reason: Time limit
+% (53802)Termination phase: Saturation
+
+% (53802)Memory used [KB]: 1061
+% (53802)Time elapsed: 0.021 s
+% (53802)Instructions burned: 57 (million)
+% (53801)Instruction limit reached!
+% (53801)------------------------------
+% (53801)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53801)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53801)Termination reason: Time limit
+% (53801)Termination phase: Saturation
+
+% (53801)Memory used [KB]: 1144
+% (53801)Time elapsed: 0.021 s
+% (53801)Instructions burned: 53 (million)
+% (53774)Instruction limit reached!
+% (53774)------------------------------
+% (53774)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53774)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53774)Termination reason: Time limit
+% (53774)Termination phase: Saturation
+
+% (53774)Memory used [KB]: 1309
+% (53774)Time elapsed: 0.106 s
+% (53774)Instructions burned: 380 (million)
+% (53805)dis+10_1:1024_av=off:ind=struct:indgen=on:indgenss=2:indmd=1:indstrhyp=on:sp=const_min:taea=off:to=lpo:i=38:si=on:rtra=on_0 on lemma4 for (598ds/38Mi)
+% (53794)Instruction limit reached!
+% (53794)------------------------------
+% (53794)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53794)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53794)Termination reason: Time limit
+% (53794)Termination phase: Saturation
+
+% (53794)Memory used [KB]: 1500
+% (53794)Time elapsed: 0.083 s
+% (53794)Instructions burned: 181 (million)
+% (53806)lrs+1010_1:128_aac=none:alpa=false:cond=fast:drc=off:gtg=position:gve=cautious:ind=both:norm_ineq=on:nwc=10.0:sac=on:sp=frequency:tgt=full:to=lpo:i=111:si=on:rtra=on_0 on lemma4 for (598ds/111Mi)
+% (53807)lrs+1002_1:1_bd=preordered:gtg=exists_all:gtgl=3:ind=struct:indmd=1:indstrhyp=on:nui=on:sos=on:i=52:si=on:rtra=on_0 on lemma4 for (598ds/52Mi)
+% (53808)ott+10_1:12_bsd=on:drc=off:fde=none:ind=struct:indgen=on:indgenss=2:norm_ineq=on:sac=on:taea=off:thi=strong:uwa=ground:i=717:si=on:rtra=on_0 on lemma4 for (598ds/717Mi)
+% (53804)Instruction limit reached!
+% (53804)------------------------------
+% (53804)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53804)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53804)Termination reason: Time limit
+% (53804)Termination phase: Saturation
+
+% (53804)Memory used [KB]: 1252
+% (53804)Time elapsed: 0.026 s
+% (53804)Instructions burned: 62 (million)
+% (53803)Instruction limit reached!
+% (53803)------------------------------
+% (53803)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53803)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53803)Termination reason: Time limit
+% (53803)Termination phase: Saturation
+
+% (53803)Memory used [KB]: 1117
+% (53803)Time elapsed: 0.036 s
+% (53803)Instructions burned: 112 (million)
+% (53805)Instruction limit reached!
+% (53805)------------------------------
+% (53805)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53805)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53805)Termination reason: Time limit
+% (53805)Termination phase: Saturation
+
+% (53805)Memory used [KB]: 1000
+% (53805)Time elapsed: 0.016 s
+% (53805)Instructions burned: 39 (million)
+WARNING Broken Constraint: if max_induction_gen_subset_size(7) has been set then induction_gen(off) is equal to on
+% (53809)ott+1002_1:1024_bsd=on:drc=off:fd=preordered:ind=struct:indao=on:indgenss=7:kws=inv_arity:rawr=on:sac=on:sp=const_max:spb=intro:sup=off:uhcvi=on:updr=off:uwa=ground:i=1598:si=on:rtra=on_0 on lemma4 for (598ds/1598Mi)
+% (53810)lrs+10_1:1_drc=off:ind=both:indoct=on:indstrhyp=on:sos=on:sp=const_frequency:ss=axioms:to=lpo:i=311:si=on:rtra=on_0 on lemma4 for (598ds/311Mi)
+% (53811)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=1235:si=on:rtra=on_0 on lemma4 for (598ds/1235Mi)
+% (53807)Instruction limit reached!
+% (53807)------------------------------
+% (53807)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53807)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53807)Termination reason: Time limit
+% (53807)Termination phase: Saturation
+
+% (53807)Memory used [KB]: 1136
+% (53807)Time elapsed: 0.020 s
+% (53807)Instructions burned: 53 (million)
+% (53812)ott+10_1:172_awrs=decay:drc=off:gtg=position:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:sik=recursion:sp=weighted_frequency:taea=off:uhcvi=on:i=2892:si=on:rtra=on_0 on lemma4 for (598ds/2892Mi)
+% (53812)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53806)Instruction limit reached!
+% (53806)------------------------------
+% (53806)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53806)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53806)Termination reason: Time limit
+% (53806)Termination phase: Saturation
+
+% (53806)Memory used [KB]: 1066
+% (53806)Time elapsed: 0.038 s
+% (53806)Instructions burned: 113 (million)
+% (53813)lrs+10_1:1_drc=off:gtg=all:ind=both:indgen=on:indoct=on:sp=reverse_frequency:ss=axioms:to=lpo:i=102:si=on:rtra=on_0 on lemma4 for (598ds/102Mi)
+% (53770)Instruction limit reached!
+% (53770)------------------------------
+% (53770)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53770)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53770)Termination reason: Time limit
+% (53770)Termination phase: Saturation
+
+% (53770)Memory used [KB]: 1241
+% (53770)Time elapsed: 0.204 s
+% (53770)Instructions burned: 573 (million)
+% (53784)Instruction limit reached!
+% (53784)------------------------------
+% (53784)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53784)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53784)Termination reason: Time limit
+% (53784)Termination phase: Saturation
+
+% (53784)Memory used [KB]: 1767
+% (53784)Time elapsed: 0.133 s
+% (53784)Instructions burned: 447 (million)
+% (53814)dis+21_1:1_ind=struct:indstrhyp=on:norm_ineq=on:rawr=on:s2a=on:spb=goal:to=lpo:uace=off:urr=on:i=34:si=on:rtra=on_0 on lemma4 for (597ds/34Mi)
+% (53815)dis+1002_1:1024_av=off:bd=off:drc=off:fsr=off:gtg=position:ind=struct:indc=goal:indgen=on:indgenss=2:taea=off:to=lpo:i=1117:si=on:rtra=on_0 on lemma4 for (597ds/1117Mi)
+% (53813)Instruction limit reached!
+% (53813)------------------------------
+% (53813)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53813)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53813)Termination reason: Time limit
+% (53813)Termination phase: Saturation
+
+% (53813)Memory used [KB]: 1013
+% (53813)Time elapsed: 0.031 s
+% (53813)Instructions burned: 106 (million)
+% (53765)Instruction limit reached!
+% (53765)------------------------------
+% (53765)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53765)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53765)Termination reason: Time limit
+% (53765)Termination phase: Saturation
+
+% (53765)Memory used [KB]: 1760
+% (53765)Time elapsed: 0.220 s
+% (53765)Instructions burned: 745 (million)
+% (53814)Instruction limit reached!
+% (53814)------------------------------
+% (53814)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53814)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53814)Termination reason: Time limit
+% (53814)Termination phase: Saturation
+
+% (53814)Memory used [KB]: 1177
+% (53814)Time elapsed: 0.017 s
+% (53814)Instructions burned: 35 (million)
+% (53816)ott+2_1:1_av=off:ev=cautious:fd=preordered:ind=struct:indstrhyp=on:sos=on:i=198:si=on:rtra=on_0 on lemma4 for (597ds/198Mi)
+% (53817)lrs+10_1:20_aac=none:asg=cautious:awrs=decay:bsd=on:drc=off:ev=force:flr=on:ind=both:indgen=on:indoct=on:nm=10:pum=on:sac=on:spb=units:taea=off:tgt=full:thi=neg_eq:to=lpo:i=368:si=on:rtra=on_0 on lemma4 for (597ds/368Mi)
+% (53818)dis+1002_3:1_awrs=converge:awrsf=500:fsd=on:fsr=off:gve=cautious:nm=32:sos=on:sp=frequency:tgt=ground:to=lpo:uace=off:i=114:si=on:rtra=on_0 on lemma4 for (597ds/114Mi)
+% (53818)Instruction limit reached!
+% (53818)------------------------------
+% (53818)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53818)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53818)Termination reason: Time limit
+% (53818)Termination phase: Saturation
+
+% (53818)Memory used [KB]: 1238
+% (53818)Time elapsed: 0.041 s
+% (53818)Instructions burned: 115 (million)
+% (53775)Instruction limit reached!
+% (53775)------------------------------
+% (53775)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53775)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53775)Termination reason: Time limit
+% (53775)Termination phase: Saturation
+
+% (53775)Memory used [KB]: 1147
+% (53775)Time elapsed: 0.223 s
+% (53775)Instructions burned: 863 (million)
+% (53819)dis+10_1:1_aac=none:alpa=true:drc=off:ind=both:indoct=on:newcnf=on:sac=on:taea=off:to=lpo:i=1035:si=on:rtra=on_0 on lemma4 for (597ds/1035Mi)
+% (53819)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53820)dis+1010_1:1_drc=off:er=filter:fsr=off:ind=both:indao=on:newcnf=on:nm=32:rp=on:sac=on:sik=recursion:sp=unary_frequency:tac=rule:taea=off:to=lpo:uace=off:i=150:si=on:rtra=on_0 on lemma4 for (597ds/150Mi)
+% (53820)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53816)Instruction limit reached!
+% (53816)------------------------------
+% (53816)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53816)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53816)Termination reason: Time limit
+% (53816)Termination phase: Saturation
+
+% (53816)Memory used [KB]: 1467
+% (53816)Time elapsed: 0.064 s
+% (53816)Instructions burned: 200 (million)
+% (53810)Instruction limit reached!
+% (53810)------------------------------
+% (53810)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53810)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53810)Termination reason: Time limit
+% (53810)Termination phase: Saturation
+
+% (53810)Memory used [KB]: 4180
+% (53810)Time elapsed: 0.123 s
+% (53810)Instructions burned: 313 (million)
+% (53777)Instruction limit reached!
+% (53777)------------------------------
+% (53777)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53777)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53777)Termination reason: Time limit
+% (53777)Termination phase: Saturation
+
+% (53777)Memory used [KB]: 1838
+% (53777)Time elapsed: 0.246 s
+% (53777)Instructions burned: 1111 (million)
+% (53821)ott+11_5:1_av=off:br=off:canc=cautious:drc=off:ev=cautious:fsr=off:ind=struct:indstrhyp=on:newcnf=on:i=530:si=on:rtra=on_0 on lemma4 for (597ds/530Mi)
+% (53821)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53822)ott+10_1:12_bsd=on:drc=off:fde=none:ind=struct:indgen=on:indgenss=2:norm_ineq=on:sac=on:taea=off:thi=strong:uwa=ground:i=1648:si=on:rtra=on_0 on lemma4 for (597ds/1648Mi)
+% (53824)ott+1002_1:4_drc=off:fde=unused:fsd=on:fsdmm=3:gtg=exists_all:gtgl=3:ind=struct:indgen=on:indoct=on:newcnf=on:norm_ineq=on:sp=occurrence:taea=off:to=lpo:i=84:si=on:rtra=on_0 on lemma4 for (597ds/84Mi)
+% (53824)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53799)Instruction limit reached!
+% (53799)------------------------------
+% (53799)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53799)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53799)Termination reason: Time limit
+% (53799)Termination phase: Saturation
+
+% (53799)Memory used [KB]: 1639
+% (53799)Time elapsed: 0.200 s
+% (53799)Instructions burned: 690 (million)
+% (53825)ott+1011_1:1_ind=struct:indstrhyp=on:newcnf=on:nui=on:s2a=on:i=117:si=on:rtra=on_0 on lemma4 for (596ds/117Mi)
+% (53820)Instruction limit reached!
+% (53820)------------------------------
+% (53820)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53820)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53820)Termination reason: Time limit
+% (53820)Termination phase: Saturation
+
+% (53820)Memory used [KB]: 1595
+% (53820)Time elapsed: 0.073 s
+% (53820)Instructions burned: 153 (million)
+% (53796)Instruction limit reached!
+% (53796)------------------------------
+% (53796)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53796)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53796)Termination reason: Time limit
+% (53796)Termination phase: Saturation
+
+% (53796)Memory used [KB]: 1182
+% (53796)Time elapsed: 0.218 s
+% (53796)Instructions burned: 1023 (million)
+% (53825)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53824)Instruction limit reached!
+% (53824)------------------------------
+% (53824)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53824)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53824)Termination reason: Time limit
+% (53824)Termination phase: Saturation
+
+% (53824)Memory used [KB]: 1068
+% (53824)Time elapsed: 0.052 s
+% (53824)Instructions burned: 85 (million)
+% (53826)lrs+1010_1:1_bsr=unit_only:ev=cautious:ind=both:nui=on:sac=on:i=446:si=on:rtra=on_0 on lemma4 for (596ds/446Mi)
+% (53828)ott+1011_1:1_aac=none:fd=preordered:ind=struct:indao=on:newcnf=on:nm=0:nui=on:sik=three:sp=const_frequency:spb=intro:to=lpo:i=248:si=on:rtra=on_0 on lemma4 for (596ds/248Mi)
+% (53828)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53827)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=2262:si=on:rtra=on_0 on lemma4 for (596ds/2262Mi)
+% (53817)Instruction limit reached!
+% (53817)------------------------------
+% (53817)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53817)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53817)Termination reason: Time limit
+% (53817)Termination phase: Saturation
+
+% (53817)Memory used [KB]: 1299
+% (53817)Time elapsed: 0.128 s
+% (53817)Instructions burned: 368 (million)
+% (53829)ott+21_1:1_canc=cautious:cond=fast:drc=off:fd=preordered:ind=struct:indao=on:indgen=on:indgenss=1:indoct=on:newcnf=on:sik=recursion:sp=occurrence:taea=off:i=2535:si=on:rtra=on_0 on lemma4 for (596ds/2535Mi)
+% (53829)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53808)Instruction limit reached!
+% (53808)------------------------------
+% (53808)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53808)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53808)Termination reason: Time limit
+% (53808)Termination phase: Saturation
+
+% (53808)Memory used [KB]: 1368
+% (53808)Time elapsed: 0.211 s
+% (53808)Instructions burned: 718 (million)
+% (53825)Instruction limit reached!
+% (53825)------------------------------
+% (53825)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53825)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53825)Termination reason: Time limit
+% (53825)Termination phase: Saturation
+
+% (53825)Memory used [KB]: 1571
+% (53825)Time elapsed: 0.073 s
+% (53825)Instructions burned: 119 (million)
+% (53795)Instruction limit reached!
+% (53795)------------------------------
+% (53795)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53795)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53795)Termination reason: Time limit
+% (53795)Termination phase: Saturation
+
+% (53795)Memory used [KB]: 1904
+% (53795)Time elapsed: 0.266 s
+% (53795)Instructions burned: 1039 (million)
+% (53830)ott+10_1:172_awrs=decay:drc=off:gtg=position:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:sik=recursion:sp=weighted_frequency:taea=off:uhcvi=on:i=8568:si=on:rtra=on_0 on lemma4 for (596ds/8568Mi)
+% (53830)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53831)lrs+10_1:128_drc=off:gtg=exists_top:ind=struct:indstrhyp=on:sac=on:slsq=on:slsqc=1:taea=off:i=61:si=on:rtra=on_0 on lemma4 for (596ds/61Mi)
+% (53832)lrs+10_8:1_gtg=all:ind=struct:indmd=2:indoct=on:kws=frequency:lma=on:nui=on:sos=on:sp=reverse_frequency:taea=off:i=172:si=on:rtra=on_0 on lemma4 for (596ds/172Mi)
+% (53831)Instruction limit reached!
+% (53831)------------------------------
+% (53831)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53831)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53831)Termination reason: Time limit
+% (53831)Termination phase: Saturation
+
+% (53831)Memory used [KB]: 1141
+% (53831)Time elapsed: 0.025 s
+% (53831)Instructions burned: 63 (million)
+% (53833)ott+21_1:10_bsr=on:canc=force:drc=encompass:ev=cautious:ile=on:ind=struct:indao=on:indoct=on:newcnf=on:spb=non_intro:tac=rule:taea=off:to=lpo:i=849:si=on:rtra=on_0 on lemma4 for (595ds/849Mi)
+% (53833)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53828)Instruction limit reached!
+% (53828)------------------------------
+% (53828)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53828)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53828)Termination reason: Time limit
+% (53828)Termination phase: Saturation
+
+% (53828)Memory used [KB]: 1651
+% (53828)Time elapsed: 0.082 s
+% (53828)Instructions burned: 250 (million)
+% (53834)dis+21_1:1_ind=struct:indstrhyp=on:norm_ineq=on:rawr=on:s2a=on:spb=goal:to=lpo:uace=off:urr=on:i=38:si=on:rtra=on_0 on lemma4 for (595ds/38Mi)
+% (53832)Instruction limit reached!
+% (53832)------------------------------
+% (53832)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53832)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53832)Termination reason: Time limit
+% (53832)Termination phase: Saturation
+
+% (53832)Memory used [KB]: 1462
+% (53832)Time elapsed: 0.055 s
+% (53832)Instructions burned: 173 (million)
+% (53834)Instruction limit reached!
+% (53834)------------------------------
+% (53834)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53834)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53834)Termination reason: Time limit
+% (53834)Termination phase: Saturation
+
+% (53834)Memory used [KB]: 1152
+% (53834)Time elapsed: 0.013 s
+% (53834)Instructions burned: 39 (million)
+% (53835)lrs+1011_1:7_drc=off:fsr=off:ind=struct:norm_ineq=on:s2a=on:taea=off:to=lpo:uace=off:uwa=interpreted_only:i=60:si=on:rtra=on_0 on lemma4 for (595ds/60Mi)
+% (53836)lrs+1002_1:1_bd=preordered:gtg=exists_all:gtgl=3:ind=struct:indmd=1:indstrhyp=on:nui=on:sos=on:i=411:si=on:rtra=on_0 on lemma4 for (595ds/411Mi)
+% (53821)Instruction limit reached!
+% (53821)------------------------------
+% (53821)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53821)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53821)Termination reason: Time limit
+% (53821)Termination phase: Saturation
+
+% (53821)Memory used [KB]: 1342
+% (53821)Time elapsed: 0.172 s
+% (53821)Instructions burned: 532 (million)
+% (53837)lrs+1011_1:16_drc=off:gtg=position:kws=precedence:sd=1:sp=unary_first:ss=axioms:st=2.0:i=112:si=on:rtra=on_0 on lemma4 for (595ds/112Mi)
+% (53837)Refutation not found, incomplete strategy% (53837)------------------------------
+% (53837)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53837)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53837)Termination reason: Refutation not found, incomplete strategy
+
+% (53837)Memory used [KB]: 901
+% (53837)Time elapsed: 0.005 s
+% (53837)Instructions burned: 11 (million)
+% (53837)------------------------------
+% (53837)------------------------------
+% (53835)Instruction limit reached!
+% (53835)------------------------------
+% (53835)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53835)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53835)Termination reason: Time limit
+% (53835)Termination phase: Saturation
+
+% (53835)Memory used [KB]: 1342
+% (53835)Time elapsed: 0.025 s
+% (53835)Instructions burned: 61 (million)
+% (53838)ott+10_1:1_aac=none:alpa=true:drc=encompass:fsr=off:ind=both:indoct=on:taea=off:i=1673:si=on:rtra=on_0 on lemma4 for (595ds/1673Mi)
+% (53839)lrs+10_1:20_aac=none:asg=cautious:awrs=decay:bsd=on:drc=off:ev=force:flr=on:ind=both:indgen=on:indoct=on:nm=10:pum=on:sac=on:spb=units:taea=off:tgt=full:thi=neg_eq:to=lpo:i=6328:si=on:rtra=on_0 on lemma4 for (595ds/6328Mi)
+% (53826)Instruction limit reached!
+% (53826)------------------------------
+% (53826)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53826)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53826)Termination reason: Time limit
+% (53826)Termination phase: Saturation
+
+% (53826)Memory used [KB]: 2733
+% (53826)Time elapsed: 0.162 s
+% (53826)Instructions burned: 446 (million)
+% (53811)Instruction limit reached!
+% (53811)------------------------------
+% (53811)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53811)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53811)Termination reason: Time limit
+% (53811)Termination phase: Saturation
+
+% (53811)Memory used [KB]: 1190
+% (53811)Time elapsed: 0.324 s
+% (53811)Instructions burned: 1238 (million)
+% (53840)dis+1002_3:1_awrs=converge:awrsf=500:fsd=on:fsr=off:gve=cautious:nm=32:sos=on:sp=frequency:tgt=ground:to=lpo:uace=off:i=114:si=on:rtra=on_0 on lemma4 for (595ds/114Mi)
+% (53841)dis+1010_5:1_gtg=position:kws=inv_arity:sas=z3:sp=reverse_arity:tgt=full:urr=on:i=273:si=on:rtra=on_0 on lemma4 for (595ds/273Mi)
+% (53815)Instruction limit reached!
+% (53815)------------------------------
+% (53815)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53815)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53815)Termination reason: Time limit
+% (53815)Termination phase: Saturation
+
+% (53815)Memory used [KB]: 2047
+% (53815)Time elapsed: 0.297 s
+% (53815)Instructions burned: 1118 (million)
+% (53842)lrs+1010_1:3_drc=encompass:ind=both:indmd=1:nui=on:s2a=on:ss=axioms:i=67:si=on:rtra=on_0 on lemma4 for (594ds/67Mi)
+% (53840)Instruction limit reached!
+% (53840)------------------------------
+% (53840)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53840)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53840)Termination reason: Time limit
+% (53840)Termination phase: Saturation
+
+% (53840)Memory used [KB]: 1233
+% (53840)Time elapsed: 0.056 s
+% (53840)Instructions burned: 115 (million)
+% (53843)dis+1010_1:1_drc=off:er=filter:fsr=off:ind=both:indao=on:newcnf=on:nm=32:rp=on:sac=on:sik=recursion:sp=unary_frequency:tac=rule:taea=off:to=lpo:uace=off:i=535:si=on:rtra=on_0 on lemma4 for (594ds/535Mi)
+% (53842)Instruction limit reached!
+% (53842)------------------------------
+% (53842)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53842)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53842)Termination reason: Time limit
+% (53842)Termination phase: Saturation
+
+% (53842)Memory used [KB]: 1137
+% (53842)Time elapsed: 0.049 s
+% (53842)Instructions burned: 69 (million)
+% (53843)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53844)dis+10_1:128_ind=both:indmd=1:indstrhyp=on:nui=on:sac=on:i=1116:si=on:rtra=on_0 on lemma4 for (594ds/1116Mi)
+% (53836)Instruction limit reached!
+% (53836)------------------------------
+% (53836)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53836)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53836)Termination reason: Time limit
+% (53836)Termination phase: Saturation
+
+% (53836)Memory used [KB]: 1748
+% (53836)Time elapsed: 0.129 s
+% (53836)Instructions burned: 413 (million)
+% (53819)Instruction limit reached!
+% (53819)------------------------------
+% (53819)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53819)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53819)Termination reason: Time limit
+% (53819)Termination phase: Saturation
+
+% (53819)Memory used [KB]: 3103
+% (53819)Time elapsed: 0.321 s
+% (53819)Instructions burned: 1035 (million)
+% (53845)ott+10_1:12_bsd=on:drc=off:fde=none:ind=struct:indgen=on:indgenss=2:norm_ineq=on:sac=on:taea=off:thi=strong:uwa=ground:i=7065:si=on:rtra=on_0 on lemma4 for (594ds/7065Mi)
+% (53809)Instruction limit reached!
+% (53809)------------------------------
+% (53809)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53809)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53809)Termination reason: Time limit
+% (53809)Termination phase: Saturation
+
+% (53809)Memory used [KB]: 1757
+% (53809)Time elapsed: 0.414 s
+% (53809)Instructions burned: 1600 (million)
+% (53846)ott+1002_1:4_drc=off:fde=unused:fsd=on:fsdmm=3:gtg=exists_all:gtgl=3:ind=struct:indgen=on:indoct=on:newcnf=on:norm_ineq=on:sp=occurrence:taea=off:to=lpo:i=84:si=on:rtra=on_0 on lemma4 for (594ds/84Mi)
+% (53846)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53847)ott+1011_1:1_aac=none:drc=encompass:er=filter:erml=2:gtg=exists_all:gve=cautious:ind=both:indmd=1:newcnf=on:nwc=2.0:sas=z3:sp=unary_first:to=lpo:i=753:si=on:rtra=on_0 on lemma4 for (594ds/753Mi)
+% (53847)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53846)Instruction limit reached!
+% (53846)------------------------------
+% (53846)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53846)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53846)Termination reason: Time limit
+% (53846)Termination phase: Saturation
+
+% (53846)Memory used [KB]: 1092
+% (53846)Time elapsed: 0.058 s
+% (53846)Instructions burned: 84 (million)
+% (53841)Instruction limit reached!
+% (53841)------------------------------
+% (53841)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53841)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53841)Termination reason: Time limit
+% (53841)Termination phase: Saturation
+
+% (53841)Memory used [KB]: 1692
+% (53841)Time elapsed: 0.113 s
+% (53841)Instructions burned: 273 (million)
+% (53848)lrs+2_1:1_atotf=0.2:drc=off:gtg=exists_top:ind=both:nwc=10.0:sac=on:sp=unary_frequency:tgt=ground:to=lpo:i=56:si=on:rtra=on_0 on lemma4 for (593ds/56Mi)
+WARNING Broken Constraint: if max_induction_gen_subset_size(7) has been set then induction_gen(off) is equal to on
+% (53849)ott+1002_1:1024_bsd=on:drc=off:fd=preordered:ind=struct:indao=on:indgenss=7:kws=inv_arity:rawr=on:sac=on:sp=const_max:spb=intro:sup=off:uhcvi=on:updr=off:uwa=ground:i=3557:si=on:rtra=on_0 on lemma4 for (593ds/3557Mi)
+% (53833)Instruction limit reached!
+% (53833)------------------------------
+% (53833)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53833)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53833)Termination reason: Time limit
+% (53833)Termination phase: Saturation
+
+% (53833)Memory used [KB]: 2169
+% (53833)Time elapsed: 0.221 s
+% (53833)Instructions burned: 852 (million)
+% (53848)Instruction limit reached!
+% (53848)------------------------------
+% (53848)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53848)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53848)Termination reason: Time limit
+% (53848)Termination phase: Saturation
+
+% (53848)Memory used [KB]: 1007
+% (53848)Time elapsed: 0.019 s
+% (53848)Instructions burned: 59 (million)
+% (53850)lrs+10_1:1_drc=off:ind=both:indoct=on:indstrhyp=on:sos=on:sp=const_frequency:ss=axioms:to=lpo:i=1160:si=on:rtra=on_0 on lemma4 for (593ds/1160Mi)
+% (53851)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=5614:si=on:rtra=on_0 on lemma4 for (593ds/5614Mi)
+% (53843)Instruction limit reached!
+% (53843)------------------------------
+% (53843)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53843)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53843)Termination reason: Time limit
+% (53843)Termination phase: Saturation
+
+% (53843)Memory used [KB]: 2923
+% (53843)Time elapsed: 0.155 s
+% (53843)Instructions burned: 537 (million)
+% (53852)ott+10_1:128_awrs=converge:awrsf=500:bsr=on:drc=off:er=known:ev=force:fde=none:gsp=on:ind=struct:indgen=on:indgenss=2:indstrhyp=on:irw=on:sac=on:sos=theory:taea=off:tgt=full:to=lpo:uwa=one_side_interpreted:i=549:si=on:rtra=on_0 on lemma4 for (593ds/549Mi)
+% (53852)WARNING: Not using GeneralSplitting currently not compatible with polymorphic/higher-order inputs.
+% (53822)Instruction limit reached!
+% (53822)------------------------------
+% (53822)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53822)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53822)Termination reason: Time limit
+% (53822)Termination phase: Saturation
+
+% (53822)Memory used [KB]: 1395
+% (53822)Time elapsed: 0.460 s
+% (53822)Instructions burned: 1648 (million)
+% (53853)lrs+1010_1:1_avsq=on:avsqc=1:avsqr=1,16:drc=off:ev=force:ind=struct:sos=on:to=lpo:urr=on:i=197:si=on:rtra=on_0 on lemma4 for (592ds/197Mi)
+% (53847)Instruction limit reached!
+% (53847)------------------------------
+% (53847)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53847)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53847)Termination reason: Time limit
+% (53847)Termination phase: Saturation
+
+% (53847)Memory used [KB]: 2515
+% (53847)Time elapsed: 0.205 s
+% (53847)Instructions burned: 754 (million)
+% (53854)ott+21_1:1_canc=cautious:cond=fast:drc=off:fd=preordered:ind=struct:indao=on:indgen=on:indgenss=1:indoct=on:newcnf=on:sik=recursion:sp=occurrence:taea=off:i=10416:si=on:rtra=on_0 on lemma4 for (592ds/10416Mi)
+% (53854)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53853)Instruction limit reached!
+% (53853)------------------------------
+% (53853)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53853)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53853)Termination reason: Time limit
+% (53853)Termination phase: Saturation
+
+% (53853)Memory used [KB]: 3217
+% (53853)Time elapsed: 0.066 s
+% (53853)Instructions burned: 198 (million)
+% (53852)Instruction limit reached!
+% (53852)------------------------------
+% (53852)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53852)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53852)Termination reason: Time limit
+% (53852)Termination phase: Saturation
+
+% (53852)Memory used [KB]: 2417
+% (53852)Time elapsed: 0.136 s
+% (53852)Instructions burned: 549 (million)
+% (53855)lrs+1010_5:1_asg=cautious:av=off:fsd=on:gtg=exists_sym:ind=both:indgen=on:indgenss=4:kws=precedence:lwlo=on:nm=30:sos=theory:sp=const_frequency:taea=off:tar=off:i=158:si=on:rtra=on_0 on lemma4 for (591ds/158Mi)
+% (53856)ott+1011_1:64_avsq=on:avsqr=11223,262144:drc=off:ev=force:lsd=10:nm=16:plsq=on:plsqc=1:plsqr=1,32:rawr=on:sp=unary_frequency:spb=goal:taea=off:tgt=ground:to=lpo:i=240:si=on:rtra=on_0 on lemma4 for (591ds/240Mi)
+% (53844)Instruction limit reached!
+% (53844)------------------------------
+% (53844)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53844)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53844)Termination reason: Time limit
+% (53844)Termination phase: Saturation
+
+% (53844)Memory used [KB]: 2644
+% (53844)Time elapsed: 0.318 s
+% (53844)Instructions burned: 1118 (million)
+% (53855)Refutation not found, non-redundant clauses discarded% (53855)------------------------------
+% (53855)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53855)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53855)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (53855)Memory used [KB]: 1292
+% (53855)Time elapsed: 0.031 s
+% (53855)Instructions burned: 123 (million)
+% (53855)------------------------------
+% (53855)------------------------------
+% (53857)ott+10_1:1_drc=encompass:foolp=on:ind=struct:indoct=on:sac=on:taea=off:to=lpo:i=1906:si=on:rtra=on_0 on lemma4 for (591ds/1906Mi)
+% (53858)ott+1011_2:1_av=off:ev=cautious:ind=both:indmd=10:indstrhyp=on:newcnf=on:nm=0:rawr=on:sp=unary_frequency:urr=on:i=486:si=on:rtra=on_0 on lemma4 for (591ds/486Mi)
+% (53858)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53812)Instruction limit reached!
+% (53812)------------------------------
+% (53812)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53812)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53812)Termination reason: Time limit
+% (53812)Termination phase: Saturation
+
+% (53812)Memory used [KB]: 2118
+% (53812)Time elapsed: 0.673 s
+% (53812)Instructions burned: 2893 (million)
+% (53859)lrs+10_1:20_aac=none:asg=cautious:awrs=decay:bsd=on:drc=off:ev=force:flr=on:ind=both:indgen=on:indoct=on:nm=10:pum=on:sac=on:spb=units:taea=off:tgt=full:thi=neg_eq:to=lpo:i=982:si=on:rtra=on_0 on lemma4 for (591ds/982Mi)
+% (53856)Instruction limit reached!
+% (53856)------------------------------
+% (53856)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53856)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53856)Termination reason: Time limit
+% (53856)Termination phase: Saturation
+
+% (53856)Memory used [KB]: 1978
+% (53856)Time elapsed: 0.067 s
+% (53856)Instructions burned: 241 (million)
+% (53860)lrs+1010_1:3_drc=encompass:ind=both:indmd=1:nui=on:s2a=on:ss=axioms:i=67:si=on:rtra=on_0 on lemma4 for (591ds/67Mi)
+% (53860)Instruction limit reached!
+% (53860)------------------------------
+% (53860)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53860)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53860)Termination reason: Time limit
+% (53860)Termination phase: Saturation
+
+% (53860)Memory used [KB]: 1052
+% (53860)Time elapsed: 0.043 s
+% (53860)Instructions burned: 68 (million)
+% (53827)Instruction limit reached!
+% (53827)------------------------------
+% (53827)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53827)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53827)Termination reason: Time limit
+% (53827)Termination phase: Saturation
+
+% (53827)Memory used [KB]: 1226
+% (53827)Time elapsed: 0.572 s
+% (53827)Instructions burned: 2262 (million)
+% (53862)dis+10_33:64_aac=none:add=large:drc=off:gtg=exists_sym:ind=struct:indmd=4:indoct=on:indstrhyp=on:nm=0:pum=on:sac=on:sp=const_min:thi=all:i=1560:si=on:rtra=on_0 on lemma4 for (591ds/1560Mi)
+% (53861)ott+10_1:12_bsd=on:drc=off:fde=none:ind=struct:indgen=on:indgenss=2:norm_ineq=on:sac=on:taea=off:thi=strong:uwa=ground:i=3679:si=on:rtra=on_0 on lemma4 for (591ds/3679Mi)
+% (53838)Instruction limit reached!
+% (53838)------------------------------
+% (53838)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53838)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53838)Termination reason: Time limit
+% (53838)Termination phase: Saturation
+
+% (53838)Memory used [KB]: 3682
+% (53838)Time elapsed: 0.487 s
+% (53838)Instructions burned: 1673 (million)
+% (53863)ott+1002_3:2_aac=none:abs=on:alpa=true:drc=off:gve=force:ind=struct:indao=on:newcnf=on:nicw=on:nm=30:rawr=on:taea=off:i=11963:si=on:rtra=on_0 on lemma4 for (590ds/11963Mi)
+% (53863)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53829)Instruction limit reached!
+% (53829)------------------------------
+% (53829)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53829)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53829)Termination reason: Time limit
+% (53829)Termination phase: Saturation
+
+% (53829)Memory used [KB]: 3311
+% (53829)Time elapsed: 0.654 s
+% (53829)Instructions burned: 2535 (million)
+% (53858)Instruction limit reached!
+% (53858)------------------------------
+% (53858)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53858)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53858)Termination reason: Time limit
+% (53858)Termination phase: Saturation
+
+% (53858)Memory used [KB]: 3151
+% (53858)Time elapsed: 0.172 s
+% (53858)Instructions burned: 486 (million)
+% (53864)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=5614:si=on:rtra=on_0 on lemma4 for (589ds/5614Mi)
+% (53865)ott+1011_1:1_aac=none:fd=preordered:ind=struct:indao=on:newcnf=on:nm=0:nui=on:sik=three:sp=const_frequency:spb=intro:to=lpo:i=248:si=on:rtra=on_0 on lemma4 for (589ds/248Mi)
+% (53865)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53850)Instruction limit reached!
+% (53850)------------------------------
+% (53850)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53850)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53850)Termination reason: Time limit
+% (53850)Termination phase: Saturation
+
+% (53850)Memory used [KB]: 7551
+% (53850)Time elapsed: 0.418 s
+% (53850)Instructions burned: 1161 (million)
+% (53866)dis+10_21:29_bd=off:br=off:drc=off:ev=cautious:gs=on:gtg=exists_sym:ind=struct:indgen=on:indgenss=2:lcm=reverse:s2agt=10:sac=on:slsq=on:slsqc=2:sos=all:sp=const_frequency:taea=off:tgt=full:i=35938:si=on:rtra=on_0 on lemma4 for (589ds/35938Mi)
+% (53865)Instruction limit reached!
+% (53865)------------------------------
+% (53865)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53865)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53865)Termination reason: Time limit
+% (53865)Termination phase: Saturation
+
+% (53865)Memory used [KB]: 2255
+% (53865)Time elapsed: 0.109 s
+% (53865)Instructions burned: 250 (million)
+% (53867)lrs+1010_1:1_avsq=on:avsqc=1:avsqr=1,16:drc=off:ev=force:ind=struct:sos=on:to=lpo:urr=on:i=197:si=on:rtra=on_0 on lemma4 for (588ds/197Mi)
+% (53859)Instruction limit reached!
+% (53859)------------------------------
+% (53859)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53859)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53859)Termination reason: Time limit
+% (53859)Termination phase: Saturation
+
+% (53859)Memory used [KB]: 1330
+% (53859)Time elapsed: 0.283 s
+% (53859)Instructions burned: 985 (million)
+% (53868)ott+21_1:1_canc=cautious:cond=fast:drc=off:fd=preordered:ind=struct:indao=on:indgen=on:indgenss=1:indoct=on:newcnf=on:sik=recursion:sp=occurrence:taea=off:i=17422:si=on:rtra=on_0 on lemma4 for (588ds/17422Mi)
+% (53868)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53867)Instruction limit reached!
+% (53867)------------------------------
+% (53867)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53867)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53867)Termination reason: Time limit
+% (53867)Termination phase: Saturation
+
+% (53867)Memory used [KB]: 2416
+% (53867)Time elapsed: 0.066 s
+% (53867)Instructions burned: 199 (million)
+% (53869)ott+10_1:172_awrs=decay:drc=off:gtg=position:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:sik=recursion:sp=weighted_frequency:taea=off:uhcvi=on:i=39081:si=on:rtra=on_0 on lemma4 for (588ds/39081Mi)
+% (53869)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53857)Instruction limit reached!
+% (53857)------------------------------
+% (53857)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53857)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53857)Termination reason: Time limit
+% (53857)Termination phase: Saturation
+
+% (53857)Memory used [KB]: 4731
+% (53857)Time elapsed: 0.538 s
+% (53857)Instructions burned: 1907 (million)
+% (53870)lrs+1010_5:1_asg=cautious:av=off:fsd=on:gtg=exists_sym:ind=both:indgen=on:indgenss=4:kws=precedence:lwlo=on:nm=30:sos=theory:sp=const_frequency:taea=off:tar=off:i=120:si=on:rtra=on_0 on lemma4 for (586ds/120Mi)
+% (53862)Instruction limit reached!
+% (53862)------------------------------
+% (53862)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53862)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53862)Termination reason: Time limit
+% (53862)Termination phase: Saturation
+
+% (53862)Memory used [KB]: 5133
+% (53862)Time elapsed: 0.536 s
+% (53862)Instructions burned: 1563 (million)
+% (53870)Refutation not found, non-redundant clauses discarded% (53870)------------------------------
+% (53870)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53870)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53870)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (53870)Memory used [KB]: 1288
+% (53870)Time elapsed: 0.031 s
+% (53870)Instructions burned: 119 (million)
+% (53870)------------------------------
+% (53870)------------------------------
+% (53871)ott+1011_1:64_avsq=on:avsqr=11223,262144:drc=off:ev=force:lsd=10:nm=16:plsq=on:plsqc=1:plsqr=1,32:rawr=on:sp=unary_frequency:spb=goal:taea=off:tgt=ground:to=lpo:i=191:si=on:rtra=on_0 on lemma4 for (585ds/191Mi)
+% (53872)dis+21_1:1_ind=struct:indstrhyp=on:norm_ineq=on:rawr=on:s2a=on:spb=goal:to=lpo:uace=off:urr=on:i=156:si=on:rtra=on_0 on lemma4 for (585ds/156Mi)
+% (53872)Instruction limit reached!
+% (53872)------------------------------
+% (53872)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53872)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53872)Termination reason: Time limit
+% (53872)Termination phase: Saturation
+
+% (53872)Memory used [KB]: 1968
+% (53872)Time elapsed: 0.059 s
+% (53872)Instructions burned: 157 (million)
+% (53873)lrs+1002_1:1_bd=preordered:gtg=exists_all:gtgl=3:ind=struct:indmd=1:indstrhyp=on:nui=on:sos=on:i=369:si=on:rtra=on_0 on lemma4 for (585ds/369Mi)
+% (53871)Instruction limit reached!
+% (53871)------------------------------
+% (53871)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53871)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53871)Termination reason: Time limit
+% (53871)Termination phase: Saturation
+
+% (53871)Memory used [KB]: 1035
+% (53871)Time elapsed: 0.054 s
+% (53871)Instructions burned: 191 (million)
+% (53874)ott+10_1:1_aac=none:alpa=true:drc=encompass:fsr=off:ind=both:indoct=on:taea=off:i=3405:si=on:rtra=on_0 on lemma4 for (585ds/3405Mi)
+% (53849)Instruction limit reached!
+% (53849)------------------------------
+% (53849)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53849)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53849)Termination reason: Time limit
+% (53849)Termination phase: Saturation
+
+% (53849)Memory used [KB]: 2378
+% (53849)Time elapsed: 0.914 s
+% (53849)Instructions burned: 3557 (million)
+% (53875)lrs+21_1:1_abs=on:fnrw=on:fsr=off:gtg=exists_sym:gtgl=4:newcnf=on:nm=2:rp=on:sas=z3:sp=occurrence:thi=neg_eq:i=2238:si=on:rtra=on_0 on lemma4 for (584ds/2238Mi)
+% (53875)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53873)Instruction limit reached!
+% (53873)------------------------------
+% (53873)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53873)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53873)Termination reason: Time limit
+% (53873)Termination phase: Saturation
+
+% (53873)Memory used [KB]: 1692
+% (53873)Time elapsed: 0.102 s
+% (53873)Instructions burned: 369 (million)
+% (53876)ott+10_1:1_drc=encompass:foolp=on:ind=struct:indoct=on:sac=on:taea=off:to=lpo:i=1183:si=on:rtra=on_0 on lemma4 for (584ds/1183Mi)
+% (53861)Instruction limit reached!
+% (53861)------------------------------
+% (53861)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53861)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53861)Termination reason: Time limit
+% (53861)Termination phase: Saturation
+
+% (53861)Memory used [KB]: 1709
+% (53861)Time elapsed: 0.961 s
+% (53861)Instructions burned: 3679 (million)
+% (53877)ott+1011_2:1_av=off:ev=cautious:ind=both:indmd=10:indstrhyp=on:newcnf=on:nm=0:rawr=on:sp=unary_frequency:urr=on:i=486:si=on:rtra=on_0 on lemma4 for (581ds/486Mi)
+% (53877)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53876)Instruction limit reached!
+% (53876)------------------------------
+% (53876)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53876)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53876)Termination reason: Time limit
+% (53876)Termination phase: Saturation
+
+% (53876)Memory used [KB]: 3528
+% (53876)Time elapsed: 0.354 s
+% (53876)Instructions burned: 1183 (million)
+% (53878)lrs+10_1:20_aac=none:asg=cautious:awrs=decay:bsd=on:drc=off:ev=force:flr=on:ind=both:indgen=on:indoct=on:nm=10:pum=on:sac=on:spb=units:taea=off:tgt=full:thi=neg_eq:to=lpo:i=982:si=on:rtra=on_0 on lemma4 for (580ds/982Mi)
+% (53851)Instruction limit reached!
+% (53851)------------------------------
+% (53851)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53851)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53851)Termination reason: Time limit
+% (53851)Termination phase: Saturation
+
+% (53851)Memory used [KB]: 1351
+% (53851)Time elapsed: 1.355 s
+% (53851)Instructions burned: 5614 (million)
+% (53879)dis+10_1:1_aac=none:alpa=true:drc=off:ind=both:indoct=on:newcnf=on:sac=on:taea=off:to=lpo:i=6648:si=on:rtra=on_0 on lemma4 for (580ds/6648Mi)
+% (53879)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53839)Refutation not found, non-redundant clauses discarded% (53839)------------------------------
+% (53839)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53839)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53839)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (53839)Memory used [KB]: 2707
+% (53839)Time elapsed: 1.534 s
+% (53839)Instructions burned: 6070 (million)
+% (53839)------------------------------
+% (53839)------------------------------
+% (53880)lrs+1010_1:3_drc=encompass:ind=both:indmd=1:nui=on:s2a=on:ss=axioms:i=67:si=on:rtra=on_0 on lemma4 for (579ds/67Mi)
+% (53877)Instruction limit reached!
+% (53877)------------------------------
+% (53877)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53877)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53877)Termination reason: Time limit
+% (53877)Termination phase: Saturation
+
+% (53877)Memory used [KB]: 3171
+% (53877)Time elapsed: 0.160 s
+% (53877)Instructions burned: 488 (million)
+% (53881)dis+10_1:128_ind=both:indmd=1:indstrhyp=on:nui=on:sac=on:i=1708:si=on:rtra=on_0 on lemma4 for (579ds/1708Mi)
+% (53880)Instruction limit reached!
+% (53880)------------------------------
+% (53880)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53880)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53880)Termination reason: Time limit
+% (53880)Termination phase: Saturation
+
+% (53880)Memory used [KB]: 1132
+% (53880)Time elapsed: 0.024 s
+% (53880)Instructions burned: 67 (million)
+% (53882)ott+10_1:12_bsd=on:drc=off:fde=none:ind=struct:indgen=on:indgenss=2:norm_ineq=on:sac=on:taea=off:thi=strong:uwa=ground:i=23300:si=on:rtra=on_0 on lemma4 for (579ds/23300Mi)
+% (53830)Instruction limit reached!
+% (53830)------------------------------
+% (53830)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53830)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53830)Termination reason: Time limit
+% (53830)Termination phase: Saturation
+
+% (53830)Memory used [KB]: 3012
+% (53830)Time elapsed: 1.714 s
+% (53830)Instructions burned: 8568 (million)
+% (53883)ott+1011_1:1_aac=none:drc=encompass:er=filter:erml=2:gtg=exists_all:gve=cautious:ind=both:indmd=1:newcnf=on:nwc=2.0:sas=z3:sp=unary_first:to=lpo:i=1027:si=on:rtra=on_0 on lemma4 for (579ds/1027Mi)
+% (53883)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53875)Instruction limit reached!
+% (53875)------------------------------
+% (53875)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53875)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53875)Termination reason: Time limit
+% (53875)Termination phase: Saturation
+
+% (53875)Memory used [KB]: 3085
+% (53875)Time elapsed: 0.667 s
+% (53875)Instructions burned: 2239 (million)
+% (53878)Instruction limit reached!
+% (53878)------------------------------
+% (53878)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53878)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53878)Termination reason: Time limit
+% (53878)Termination phase: Saturation
+
+% (53878)Memory used [KB]: 1439
+% (53878)Time elapsed: 0.289 s
+% (53878)Instructions burned: 982 (million)
+WARNING Broken Constraint: if max_induction_gen_subset_size(7) has been set then induction_gen(off) is equal to on
+% (53884)ott+1002_1:1024_bsd=on:drc=off:fd=preordered:ind=struct:indao=on:indgenss=7:kws=inv_arity:rawr=on:sac=on:sp=const_max:spb=intro:sup=off:uhcvi=on:updr=off:uwa=ground:i=18822:si=on:rtra=on_0 on lemma4 for (577ds/18822Mi)
+% (53885)lrs+10_1:1_drc=off:ind=both:indoct=on:indstrhyp=on:sos=on:sp=const_frequency:ss=axioms:to=lpo:i=574:si=on:rtra=on_0 on lemma4 for (577ds/574Mi)
+% (53845)Instruction limit reached!
+% (53845)------------------------------
+% (53845)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53845)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53845)Termination reason: Time limit
+% (53845)Termination phase: Saturation
+
+% (53845)Memory used [KB]: 1872
+% (53845)Time elapsed: 1.790 s
+% (53845)Instructions burned: 7066 (million)
+% (53883)Instruction limit reached!
+% (53883)------------------------------
+% (53883)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53883)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53883)Termination reason: Time limit
+% (53883)Termination phase: Saturation
+
+% (53883)Memory used [KB]: 3058
+% (53883)Time elapsed: 0.259 s
+% (53883)Instructions burned: 1027 (million)
+% (53886)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=8598:si=on:rtra=on_0 on lemma4 for (576ds/8598Mi)
+% (53887)dis+10_21:29_bd=off:br=off:drc=off:ev=cautious:gs=on:gtg=exists_sym:ind=struct:indgen=on:indgenss=2:lcm=reverse:s2agt=10:sac=on:slsq=on:slsqc=2:sos=all:sp=const_frequency:taea=off:tgt=full:i=115235:si=on:rtra=on_0 on lemma4 for (576ds/115235Mi)
+% (53864)Instruction limit reached!
+% (53864)------------------------------
+% (53864)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53864)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53864)Termination reason: Time limit
+% (53864)Termination phase: Saturation
+
+% (53864)Memory used [KB]: 1409
+% (53864)Time elapsed: 1.378 s
+% (53864)Instructions burned: 5614 (million)
+% (53888)ott+10_1:172_awrs=decay:drc=off:gtg=position:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:sik=recursion:sp=weighted_frequency:taea=off:uhcvi=on:i=45312:si=on:rtra=on_0 on lemma4 for (576ds/45312Mi)
+% (53888)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53885)Refutation not found, non-redundant clauses discarded% (53885)------------------------------
+% (53885)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53885)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53885)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (53885)Memory used [KB]: 4322
+% (53885)Time elapsed: 0.198 s
+% (53885)Instructions burned: 576 (million)
+% (53885)------------------------------
+% (53885)------------------------------
+% (53889)lrs+1010_5:1_asg=cautious:av=off:fsd=on:gtg=exists_sym:ind=both:indgen=on:indgenss=4:kws=precedence:lwlo=on:nm=30:sos=theory:sp=const_frequency:taea=off:tar=off:i=120:si=on:rtra=on_0 on lemma4 for (575ds/120Mi)
+% (53874)Instruction limit reached!
+% (53874)------------------------------
+% (53874)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53874)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53874)Termination reason: Time limit
+% (53874)Termination phase: Saturation
+
+% (53874)Memory used [KB]: 4921
+% (53874)Time elapsed: 0.979 s
+% (53874)Instructions burned: 3406 (million)
+% (53890)lrs+10_8:1_gtg=all:ind=struct:indmd=2:indoct=on:kws=frequency:lma=on:nui=on:sos=on:sp=reverse_frequency:taea=off:i=1165:si=on:rtra=on_0 on lemma4 for (575ds/1165Mi)
+% (53881)Instruction limit reached!
+% (53881)------------------------------
+% (53881)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53881)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53881)Termination reason: Time limit
+% (53881)Termination phase: Saturation
+
+% (53881)Memory used [KB]: 2714
+% (53881)Time elapsed: 0.440 s
+% (53881)Instructions burned: 1709 (million)
+% (53889)Refutation not found, non-redundant clauses discarded% (53889)------------------------------
+% (53889)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53889)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53889)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (53889)Memory used [KB]: 1292
+% (53889)Time elapsed: 0.044 s
+% (53889)Instructions burned: 120 (million)
+% (53889)------------------------------
+% (53889)------------------------------
+% (53891)ott+1011_1:64_avsq=on:avsqr=11223,262144:drc=off:ev=force:lsd=10:nm=16:plsq=on:plsqc=1:plsqr=1,32:rawr=on:sp=unary_frequency:spb=goal:taea=off:tgt=ground:to=lpo:i=421:si=on:rtra=on_0 on lemma4 for (575ds/421Mi)
+% (53892)ott+21_1:10_bsr=on:canc=force:drc=encompass:ev=cautious:ile=on:ind=struct:indao=on:indoct=on:newcnf=on:spb=non_intro:tac=rule:taea=off:to=lpo:i=5032:si=on:rtra=on_0 on lemma4 for (575ds/5032Mi)
+% (53892)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53891)Instruction limit reached!
+% (53891)------------------------------
+% (53891)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53891)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53891)Termination reason: Time limit
+% (53891)Termination phase: Saturation
+
+% (53891)Memory used [KB]: 1126
+% (53891)Time elapsed: 0.108 s
+% (53891)Instructions burned: 421 (million)
+% (53894)dis+1002_1:1024_av=off:bd=off:drc=off:fsr=off:gtg=position:ind=struct:indc=goal:indgen=on:indgenss=2:taea=off:to=lpo:i=2124:si=on:rtra=on_0 on lemma4 for (574ds/2124Mi)
+% (53890)Instruction limit reached!
+% (53890)------------------------------
+% (53890)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53890)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53890)Termination reason: Time limit
+% (53890)Termination phase: Saturation
+
+% (53890)Memory used [KB]: 3859
+% (53890)Time elapsed: 0.401 s
+% (53890)Instructions burned: 1166 (million)
+% (53895)lrs+1010_1:128_aac=none:alpa=false:cond=fast:drc=off:gtg=position:gve=cautious:ind=both:norm_ineq=on:nwc=10.0:sac=on:sp=frequency:tgt=full:to=lpo:i=561:si=on:rtra=on_0 on lemma4 for (571ds/561Mi)
+% (53854)Instruction limit reached!
+% (53854)------------------------------
+% (53854)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53854)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53854)Termination reason: Time limit
+% (53854)Termination phase: Saturation
+
+% (53854)Memory used [KB]: 4334
+% (53854)Time elapsed: 2.194 s
+% (53854)Instructions burned: 10418 (million)
+% (53896)ott+1011_2:1_av=off:ev=cautious:ind=both:indmd=10:indstrhyp=on:newcnf=on:nm=0:rawr=on:sp=unary_frequency:urr=on:i=4301:si=on:rtra=on_0 on lemma4 for (570ds/4301Mi)
+% (53896)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53895)Instruction limit reached!
+% (53895)------------------------------
+% (53895)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53895)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53895)Termination reason: Time limit
+% (53895)Termination phase: Saturation
+
+% (53895)Memory used [KB]: 1557
+% (53895)Time elapsed: 0.182 s
+% (53895)Instructions burned: 563 (million)
+% (53897)lrs+10_1:20_aac=none:asg=cautious:awrs=decay:bsd=on:drc=off:ev=force:flr=on:ind=both:indgen=on:indoct=on:nm=10:pum=on:sac=on:spb=units:taea=off:tgt=full:thi=neg_eq:to=lpo:i=16506:si=on:rtra=on_0 on lemma4 for (569ds/16506Mi)
+% (53894)Instruction limit reached!
+% (53894)------------------------------
+% (53894)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53894)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53894)Termination reason: Time limit
+% (53894)Termination phase: Saturation
+
+% (53894)Memory used [KB]: 2734
+% (53894)Time elapsed: 0.574 s
+% (53894)Instructions burned: 2125 (million)
+% (53898)ott+10_1:12_bsd=on:drc=off:fde=none:ind=struct:indgen=on:indgenss=2:norm_ineq=on:sac=on:taea=off:thi=strong:uwa=ground:i=113485:si=on:rtra=on_0 on lemma4 for (568ds/113485Mi)
+% (53879)Instruction limit reached!
+% (53879)------------------------------
+% (53879)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53879)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53879)Termination reason: Time limit
+% (53879)Termination phase: Saturation
+
+% (53879)Memory used [KB]: 9825
+% (53879)Time elapsed: 1.759 s
+% (53879)Instructions burned: 6650 (million)
+% (53892)Instruction limit reached!
+% (53892)------------------------------
+% (53892)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53892)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53892)Termination reason: Time limit
+% (53892)Termination phase: Saturation
+
+% (53892)Memory used [KB]: 3888
+% (53892)Time elapsed: 1.285 s
+% (53892)Instructions burned: 5036 (million)
+% (53899)dis+10_33:64_aac=none:add=large:drc=off:gtg=exists_sym:ind=struct:indmd=4:indoct=on:indstrhyp=on:nm=0:pum=on:sac=on:sp=const_min:thi=all:i=18587:si=on:rtra=on_0 on lemma4 for (562ds/18587Mi)
+% (53900)lrs+1010_1:1_bsr=unit_only:ev=cautious:ind=both:nui=on:sac=on:i=3319:si=on:rtra=on_0 on lemma4 for (562ds/3319Mi)
+% (53863)Instruction limit reached!
+% (53863)------------------------------
+% (53863)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53863)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53863)Termination reason: Time limit
+% (53863)Termination phase: Saturation
+
+% (53863)Memory used [KB]: 4289
+% (53863)Time elapsed: 2.932 s
+% (53863)Instructions burned: 11965 (million)
+% (53901)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=26087:si=on:rtra=on_0 on lemma4 for (561ds/26087Mi)
+% (53886)Instruction limit reached!
+% (53886)------------------------------
+% (53886)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53886)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53886)Termination reason: Time limit
+% (53886)Termination phase: Saturation
+
+% (53886)Memory used [KB]: 1444
+% (53886)Time elapsed: 1.908 s
+% (53886)Instructions burned: 8601 (million)
+% (53902)dis+10_21:29_bd=off:br=off:drc=off:ev=cautious:gs=on:gtg=exists_sym:ind=struct:indgen=on:indgenss=2:lcm=reverse:s2agt=10:sac=on:slsq=on:slsqc=2:sos=all:sp=const_frequency:taea=off:tgt=full:i=84824:si=on:rtra=on_0 on lemma4 for (557ds/84824Mi)
+% (53896)Instruction limit reached!
+% (53896)------------------------------
+% (53896)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53896)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53896)Termination reason: Time limit
+% (53896)Termination phase: Saturation
+
+% (53896)Memory used [KB]: 9955
+% (53896)Time elapsed: 1.330 s
+% (53896)Instructions burned: 4303 (million)
+% (53903)ott+2_1:1_drc=off:fs=off:fsr=off:ind=both:indgen=on:indgenss=2:indoct=on:sac=on:sp=occurrence:i=13173:si=on:rtra=on_0 on lemma4 for (556ds/13173Mi)
+% (53900)Instruction limit reached!
+% (53900)------------------------------
+% (53900)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53900)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53900)Termination reason: Time limit
+% (53900)Termination phase: Saturation
+
+% (53900)Memory used [KB]: 7289
+% (53900)Time elapsed: 1.046 s
+% (53900)Instructions burned: 3321 (million)
+% (53904)ott+21_1:1_canc=cautious:cond=fast:drc=off:fd=preordered:ind=struct:indao=on:indgen=on:indgenss=1:indoct=on:newcnf=on:sik=recursion:sp=occurrence:taea=off:i=56164:si=on:rtra=on_0 on lemma4 for (551ds/56164Mi)
+% (53904)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53868)Instruction limit reached!
+% (53868)------------------------------
+% (53868)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53868)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53868)Termination reason: Time limit
+% (53868)Termination phase: Saturation
+
+% (53868)Memory used [KB]: 5266
+% (53868)Time elapsed: 4.012 s
+% (53868)Instructions burned: 17425 (million)
+% (53905)ott+10_1:172_awrs=decay:drc=off:gtg=position:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:sik=recursion:sp=weighted_frequency:taea=off:uhcvi=on:i=142751:si=on:rtra=on_0 on lemma4 for (548ds/142751Mi)
+% (53905)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53884)Instruction limit reached!
+% (53884)------------------------------
+% (53884)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53884)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53884)Termination reason: Time limit
+% (53884)Termination phase: Saturation
+
+% (53884)Memory used [KB]: 3951
+% (53884)Time elapsed: 4.753 s
+% (53884)Instructions burned: 18825 (million)
+% (53962)lrs+1010_5:1_asg=cautious:av=off:fsd=on:gtg=exists_sym:ind=both:indgen=on:indgenss=4:kws=precedence:lwlo=on:nm=30:sos=theory:sp=const_frequency:taea=off:tar=off:i=158:si=on:rtra=on_0 on lemma4 for (530ds/158Mi)
+% (53962)Refutation not found, non-redundant clauses discarded% (53962)------------------------------
+% (53962)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53962)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53962)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (53962)Memory used [KB]: 1294
+% (53962)Time elapsed: 0.050 s
+% (53962)Instructions burned: 125 (million)
+% (53962)------------------------------
+% (53962)------------------------------
+% (53992)ott+10_1:1_aac=none:alpa=true:drc=encompass:fsr=off:ind=both:indoct=on:taea=off:i=17958:si=on:rtra=on_0 on lemma4 for (529ds/17958Mi)
+% (53897)Instruction limit reached!
+% (53897)------------------------------
+% (53897)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53897)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53897)Termination reason: Time limit
+% (53897)Termination phase: Saturation
+
+% (53897)Memory used [KB]: 4035
+% (53897)Time elapsed: 4.097 s
+% (53897)Instructions burned: 16508 (million)
+% (54010)dis+10_1:1_anc=none:gtg=exists_sym:gtgl=5:ind=struct:indgen=on:indoct=on:s2a=on:sac=on:ss=axioms:i=137973:si=on:rtra=on_0 on lemma4 for (528ds/137973Mi)
+% (53882)Instruction limit reached!
+% (53882)------------------------------
+% (53882)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53882)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53882)Termination reason: Time limit
+% (53882)Termination phase: Saturation
+
+% (53882)Memory used [KB]: 2569
+% (53882)Time elapsed: 5.619 s
+% (53882)Instructions burned: 23300 (million)
+% (54011)ott+10_1:1_drc=encompass:foolp=on:ind=struct:indoct=on:sac=on:taea=off:to=lpo:i=25643:si=on:rtra=on_0 on lemma4 for (523ds/25643Mi)
+% (53899)Instruction limit reached!
+% (53899)------------------------------
+% (53899)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53899)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53899)Termination reason: Time limit
+% (53899)Termination phase: Saturation
+
+% (53899)Memory used [KB]: 25369
+% (53899)Time elapsed: 4.823 s
+% (53899)Instructions burned: 18588 (million)
+% (54012)lrs+10_1:20_aac=none:asg=cautious:awrs=decay:bsd=on:drc=off:ev=force:flr=on:ind=both:indgen=on:indoct=on:nm=10:pum=on:sac=on:spb=units:taea=off:tgt=full:thi=neg_eq:to=lpo:i=38951:si=on:rtra=on_0 on lemma4 for (514ds/38951Mi)
+% (53903)Instruction limit reached!
+% (53903)------------------------------
+% (53903)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53903)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53903)Termination reason: Time limit
+% (53903)Termination phase: Saturation
+
+% (53903)Memory used [KB]: 98404
+% (53903)Time elapsed: 4.333 s
+% (53903)Instructions burned: 13173 (million)
+% (54013)dis+1010_1:1_drc=off:er=filter:fsr=off:ind=both:indao=on:newcnf=on:nm=32:rp=on:sac=on:sik=recursion:sp=unary_frequency:tac=rule:taea=off:to=lpo:uace=off:i=22096:si=on:rtra=on_0 on lemma4 for (513ds/22096Mi)
+% (54013)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53901)Instruction limit reached!
+% (53901)------------------------------
+% (53901)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53901)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53901)Termination reason: Time limit
+% (53901)Termination phase: Saturation
+
+% (53901)Memory used [KB]: 1921
+% (53901)Time elapsed: 5.551 s
+% (53901)Instructions burned: 26090 (million)
+% (54115)ott+10_1:12_bsd=on:drc=off:fde=none:ind=struct:indgen=on:indgenss=2:norm_ineq=on:sac=on:taea=off:thi=strong:uwa=ground:i=140433:si=on:rtra=on_0 on lemma4 for (505ds/140433Mi)
+% (53869)Instruction limit reached!
+% (53869)------------------------------
+% (53869)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53869)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53869)Termination reason: Time limit
+% (53869)Termination phase: Saturation
+
+% (53869)Memory used [KB]: 5205
+% (53869)Time elapsed: 8.686 s
+% (53869)Instructions burned: 39081 (million)
+% (54116)dis+10_33:64_aac=none:add=large:drc=off:gtg=exists_sym:ind=struct:indmd=4:indoct=on:indstrhyp=on:nm=0:pum=on:sac=on:sp=const_min:thi=all:i=50959:si=on:rtra=on_0 on lemma4 for (501ds/50959Mi)
+% (53992)Instruction limit reached!
+% (53992)------------------------------
+% (53992)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53992)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53992)Termination reason: Time limit
+% (53992)Termination phase: Saturation
+
+% (53992)Memory used [KB]: 4755
+% (53992)Time elapsed: 3.828 s
+% (53992)Instructions burned: 17958 (million)
+% (54117)ott+1002_3:2_aac=none:abs=on:alpa=true:drc=off:gve=force:ind=struct:indao=on:newcnf=on:nicw=on:nm=30:rawr=on:taea=off:i=79001:si=on:rtra=on_0 on lemma4 for (491ds/79001Mi)
+% (54117)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53888)Instruction limit reached!
+% (53888)------------------------------
+% (53888)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53888)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53888)Termination reason: Time limit
+% (53888)Termination phase: Saturation
+
+% (53888)Memory used [KB]: 6623
+% (53888)Time elapsed: 9.420 s
+% (53888)Instructions burned: 45313 (million)
+WARNING Broken Constraint: if max_induction_gen_subset_size(7) has been set then induction_gen(off) is equal to on
+% (54119)ott+1002_1:1024_bsd=on:drc=off:fd=preordered:ind=struct:indao=on:indgenss=7:kws=inv_arity:rawr=on:sac=on:sp=const_max:spb=intro:sup=off:uhcvi=on:updr=off:uwa=ground:i=45001:si=on:rtra=on_0 on lemma4 for (480ds/45001Mi)
+% (53866)Instruction limit reached!
+% (53866)------------------------------
+% (53866)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53866)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53866)Termination reason: Time limit
+% (53866)Termination phase: Saturation
+
+% (53866)Memory used [KB]: 212003
+% (53866)Time elapsed: 12.466 s
+% (53866)Instructions burned: 35940 (million)
+% (54125)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=49784:si=on:rtra=on_0 on lemma4 for (464ds/49784Mi)
+% (54013)Instruction limit reached!
+% (54013)------------------------------
+% (54013)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54013)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54013)Termination reason: Time limit
+% (54013)Termination phase: Saturation
+
+% (54013)Memory used [KB]: 26521
+% (54013)Time elapsed: 5.449 s
+% (54013)Instructions burned: 22101 (million)
+% (54126)dis+10_21:29_bd=off:br=off:drc=off:ev=cautious:gs=on:gtg=exists_sym:ind=struct:indgen=on:indgenss=2:lcm=reverse:s2agt=10:sac=on:slsq=on:slsqc=2:sos=all:sp=const_frequency:taea=off:tgt=full:i=140001:si=on:rtra=on_0 on lemma4 for (458ds/140001Mi)
+% (54011)Instruction limit reached!
+% (54011)------------------------------
+% (54011)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54011)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54011)Termination reason: Time limit
+% (54011)Termination phase: Saturation
+
+% (54011)Memory used [KB]: 20513
+% (54011)Time elapsed: 6.951 s
+% (54011)Instructions burned: 25645 (million)
+% (54128)ott+21_1:1_canc=cautious:cond=fast:drc=off:fd=preordered:ind=struct:indao=on:indgen=on:indgenss=1:indoct=on:newcnf=on:sik=recursion:sp=occurrence:taea=off:i=71989:si=on:rtra=on_0 on lemma4 for (453ds/71989Mi)
+% (54128)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53904)Instruction limit reached!
+% (53904)------------------------------
+% (53904)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53904)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53904)Termination reason: Time limit
+% (53904)Termination phase: Saturation
+
+% (53904)Memory used [KB]: 11706
+% (53904)Time elapsed: 13.886 s
+% (53904)Instructions burned: 56166 (million)
+% (54132)ott+10_1:172_awrs=decay:drc=off:gtg=position:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:sik=recursion:sp=weighted_frequency:taea=off:uhcvi=on:i=124992:si=on:rtra=on_0 on lemma4 for (413ds/124992Mi)
+% (54132)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54012)Instruction limit reached!
+% (54012)------------------------------
+% (54012)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54012)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54012)Termination reason: Time limit
+% (54012)Termination phase: Saturation
+
+% (54012)Memory used [KB]: 10054
+% (54012)Time elapsed: 10.630 s
+% (54012)Instructions burned: 38953 (million)
+% (54133)lrs+2_1:1_drc=encompass:ind=struct:indao=on:newcnf=on:plsq=on:plsqr=32,1:sp=frequency:to=lpo:i=3032:si=on:rtra=on_0 on lemma4 for (407ds/3032Mi)
+% (54133)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54133)Instruction limit reached!
+% (54133)------------------------------
+% (54133)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54133)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54133)Termination reason: Time limit
+% (54133)Termination phase: Saturation
+
+% (54133)Memory used [KB]: 4970
+% (54133)Time elapsed: 0.878 s
+% (54133)Instructions burned: 3035 (million)
+% (54134)ott+21_1:10_bsr=on:canc=force:drc=encompass:ev=cautious:ile=on:ind=struct:indao=on:indoct=on:newcnf=on:spb=non_intro:tac=rule:taea=off:to=lpo:i=11986:si=on:rtra=on_0 on lemma4 for (398ds/11986Mi)
+% (54134)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54119)Instruction limit reached!
+% (54119)------------------------------
+% (54119)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54119)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54119)Termination reason: Time limit
+% (54119)Termination phase: Saturation
+
+% (54119)Memory used [KB]: 5473
+% (54119)Time elapsed: 11.461 s
+% (54119)Instructions burned: 45001 (million)
+% (54136)dis+10_1:1_anc=none:gtg=exists_sym:gtgl=5:ind=struct:indgen=on:indoct=on:s2a=on:sac=on:ss=axioms:i=133107:si=on:rtra=on_0 on lemma4 for (365ds/133107Mi)
+% (54134)Instruction limit reached!
+% (54134)------------------------------
+% (54134)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54134)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54134)Termination reason: Time limit
+% (54134)Termination phase: Saturation
+
+% (54134)Memory used [KB]: 7823
+% (54134)Time elapsed: 3.335 s
+% (54134)Instructions burned: 11986 (million)
+% (54137)ott+10_1:1_drc=encompass:foolp=on:ind=struct:indoct=on:sac=on:taea=off:to=lpo:i=21939:si=on:rtra=on_0 on lemma4 for (365ds/21939Mi)
+% (54125)Instruction limit reached!
+% (54125)------------------------------
+% (54125)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54125)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54125)Termination reason: Time limit
+% (54125)Termination phase: Saturation
+
+% (54125)Memory used [KB]: 2061
+% (54125)Time elapsed: 11.023 s
+% (54125)Instructions burned: 49784 (million)
+% (54138)lrs+10_1:20_aac=none:asg=cautious:awrs=decay:bsd=on:drc=off:ev=force:flr=on:ind=both:indgen=on:indoct=on:nm=10:pum=on:sac=on:spb=units:taea=off:tgt=full:thi=neg_eq:to=lpo:i=126079:si=on:rtra=on_0 on lemma4 for (354ds/126079Mi)
+% (54116)Instruction limit reached!
+% (54116)------------------------------
+% (54116)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54116)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54116)Termination reason: Time limit
+% (54116)Termination phase: Saturation
+
+% (54116)Memory used [KB]: 50721
+% (54116)Time elapsed: 14.760 s
+% (54116)Instructions burned: 50961 (million)
+% (54139)dis+1010_1:1_drc=off:er=filter:fsr=off:ind=both:indao=on:newcnf=on:nm=32:rp=on:sac=on:sik=recursion:sp=unary_frequency:tac=rule:taea=off:to=lpo:uace=off:i=63511:si=on:rtra=on_0 on lemma4 for (353ds/63511Mi)
+% (54139)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54117)Instruction limit reached!
+% (54117)------------------------------
+% (54117)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54117)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54117)Termination reason: Time limit
+% (54117)Termination phase: Saturation
+
+% (54117)Memory used [KB]: 6371
+% (54117)Time elapsed: 18.348 s
+% (54117)Instructions burned: 79002 (million)
+% (54140)ott+10_1:12_bsd=on:drc=off:fde=none:ind=struct:indgen=on:indgenss=2:norm_ineq=on:sac=on:taea=off:thi=strong:uwa=ground:i=91551:si=on:rtra=on_0 on lemma4 for (307ds/91551Mi)
+% (54137)Instruction limit reached!
+% (54137)------------------------------
+% (54137)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54137)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54137)Termination reason: Time limit
+% (54137)Termination phase: Saturation
+
+% (54137)Memory used [KB]: 19005
+% (54137)Time elapsed: 6.151 s
+% (54137)Instructions burned: 21941 (million)
+% (54141)dis+10_33:64_aac=none:add=large:drc=off:gtg=exists_sym:ind=struct:indmd=4:indoct=on:indstrhyp=on:nm=0:pum=on:sac=on:sp=const_min:thi=all:i=43010:si=on:rtra=on_0 on lemma4 for (303ds/43010Mi)
+% (53898)Instruction limit reached!
+% (53898)------------------------------
+% (53898)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53898)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53898)Termination reason: Time limit
+% (53898)Termination phase: Saturation
+
+% (53898)Memory used [KB]: 4165
+% (53898)Time elapsed: 28.486 s
+% (53898)Instructions burned: 113488 (million)
+% (54146)ott+1002_3:2_aac=none:abs=on:alpa=true:drc=off:gve=force:ind=struct:indao=on:newcnf=on:nicw=on:nm=30:rawr=on:taea=off:i=20149:si=on:rtra=on_0 on lemma4 for (283ds/20149Mi)
+% (54146)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53902)Instruction limit reached!
+% (53902)------------------------------
+% (53902)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53902)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53902)Termination reason: Time limit
+% (53902)Termination phase: Saturation
+
+% (53902)Memory used [KB]: 391298
+% (53902)Time elapsed: 28.530 s
+% (53902)Instructions burned: 84826 (million)
+WARNING Broken Constraint: if max_induction_gen_subset_size(7) has been set then induction_gen(off) is equal to on
+% (54147)ott+1002_1:1024_bsd=on:drc=off:fd=preordered:ind=struct:indao=on:indgenss=7:kws=inv_arity:rawr=on:sac=on:sp=const_max:spb=intro:sup=off:uhcvi=on:updr=off:uwa=ground:i=34870:si=on:rtra=on_0 on lemma4 for (271ds/34870Mi)
+% (54128)Instruction limit reached!
+% (54128)------------------------------
+% (54128)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54128)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54128)Termination reason: Time limit
+% (54128)Termination phase: Saturation
+
+% (54128)Memory used [KB]: 15922
+% (54128)Time elapsed: 18.748 s
+% (54128)Instructions burned: 71992 (million)
+% (54148)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=124459:si=on:rtra=on_0 on lemma4 for (266ds/124459Mi)
+% (53905)Instruction limit reached!
+% (53905)------------------------------
+% (53905)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53905)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53905)Termination reason: Time limit
+% (53905)Termination phase: Saturation
+
+% (53905)Memory used [KB]: 9371
+% (53905)Time elapsed: 30.595 s
+% (53905)Instructions burned: 142752 (million)
+% (54150)dis+10_21:29_bd=off:br=off:drc=off:ev=cautious:gs=on:gtg=exists_sym:ind=struct:indgen=on:indgenss=2:lcm=reverse:s2agt=10:sac=on:slsq=on:slsqc=2:sos=all:sp=const_frequency:taea=off:tgt=full:i=123527:si=on:rtra=on_0 on lemma4 for (242ds/123527Mi)
+% (54146)Instruction limit reached!
+% (54146)------------------------------
+% (54146)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54146)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54146)Termination reason: Time limit
+% (54146)Termination phase: Saturation
+
+% (54146)Memory used [KB]: 5009
+% (54146)Time elapsed: 4.603 s
+% (54146)Instructions burned: 20149 (million)
+% (54151)ott+21_1:1_canc=cautious:cond=fast:drc=off:fd=preordered:ind=struct:indao=on:indgen=on:indgenss=1:indoct=on:newcnf=on:sik=recursion:sp=occurrence:taea=off:i=39284:si=on:rtra=on_0 on lemma4 for (237ds/39284Mi)
+% (54151)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (53887)Instruction limit reached!
+% (53887)------------------------------
+% (53887)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (53887)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (53887)Termination reason: Time limit
+% (53887)Termination phase: Saturation
+
+% (53887)Memory used [KB]: 468256
+% (53887)Time elapsed: 37.292 s
+% (53887)Instructions burned: 115235 (million)
+% (54193)ott+10_1:172_awrs=decay:drc=off:gtg=position:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:sik=recursion:sp=weighted_frequency:taea=off:uhcvi=on:i=124992:si=on:rtra=on_0 on lemma4 for (202ds/124992Mi)
+% (54193)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54139)Instruction limit reached!
+% (54139)------------------------------
+% (54139)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54139)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54139)Termination reason: Time limit
+% (54139)Termination phase: Saturation
+
+% (54139)Memory used [KB]: 73131
+% (54139)Time elapsed: 16.462 s
+% (54139)Instructions burned: 63511 (million)
+% (54194)dis+10_1:1_anc=none:gtg=exists_sym:gtgl=5:ind=struct:indgen=on:indoct=on:s2a=on:sac=on:ss=axioms:i=120877:si=on:rtra=on_0 on lemma4 for (188ds/120877Mi)
+% (54141)Instruction limit reached!
+% (54141)------------------------------
+% (54141)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54141)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54141)Termination reason: Time limit
+% (54141)Termination phase: Saturation
+
+% (54141)Memory used [KB]: 43926
+% (54141)Time elapsed: 11.939 s
+% (54141)Instructions burned: 43012 (million)
+% (54195)ott+10_1:1_drc=encompass:foolp=on:ind=struct:indoct=on:sac=on:taea=off:to=lpo:i=21939:si=on:rtra=on_0 on lemma4 for (184ds/21939Mi)
+% (54010)Instruction limit reached!
+% (54010)------------------------------
+% (54010)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54010)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54010)Termination reason: Time limit
+% (54010)Termination phase: Saturation
+
+% (54010)Memory used [KB]: 70546
+% (54010)Time elapsed: 34.584 s
+% (54010)Instructions burned: 137973 (million)
+% (54196)lrs+10_1:20_aac=none:asg=cautious:awrs=decay:bsd=on:drc=off:ev=force:flr=on:ind=both:indgen=on:indoct=on:nm=10:pum=on:sac=on:spb=units:taea=off:tgt=full:thi=neg_eq:to=lpo:i=16287:si=on:rtra=on_0 on lemma4 for (182ds/16287Mi)
+% (54147)Instruction limit reached!
+% (54147)------------------------------
+% (54147)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54147)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54147)Termination reason: Time limit
+% (54147)Termination phase: Saturation
+
+% (54147)Memory used [KB]: 5298
+% (54147)Time elapsed: 8.882 s
+% (54147)Instructions burned: 34870 (million)
+% (54197)dis+1010_1:1_drc=off:er=filter:fsr=off:ind=both:indao=on:newcnf=on:nm=32:rp=on:sac=on:sik=recursion:sp=unary_frequency:tac=rule:taea=off:to=lpo:uace=off:i=63511:si=on:rtra=on_0 on lemma4 for (182ds/63511Mi)
+% (54197)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54115)Instruction limit reached!
+% (54115)------------------------------
+% (54115)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54115)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54115)Termination reason: Time limit
+% (54115)Termination phase: Saturation
+
+% (54115)Memory used [KB]: 4306
+% (54115)Time elapsed: 33.508 s
+% (54115)Instructions burned: 140433 (million)
+% (54198)ott+10_1:12_bsd=on:drc=off:fde=none:ind=struct:indgen=on:indgenss=2:norm_ineq=on:sac=on:taea=off:thi=strong:uwa=ground:i=113322:si=on:rtra=on_0 on lemma4 for (170ds/113322Mi)
+% (54151)Instruction limit reached!
+% (54151)------------------------------
+% (54151)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54151)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54151)Termination reason: Time limit
+% (54151)Termination phase: Saturation
+
+% (54151)Memory used [KB]: 8641
+% (54151)Time elapsed: 8.903 s
+% (54151)Instructions burned: 39284 (million)
+% (54301)dis+10_33:64_aac=none:add=large:drc=off:gtg=exists_sym:ind=struct:indmd=4:indoct=on:indstrhyp=on:nm=0:pum=on:sac=on:sp=const_min:thi=all:i=69001:si=on:rtra=on_0 on lemma4 for (147ds/69001Mi)
+% (54132)Instruction limit reached!
+% (54132)------------------------------
+% (54132)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54132)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54132)Termination reason: Time limit
+% (54132)Termination phase: Saturation
+
+% (54132)Memory used [KB]: 6301
+% (54132)Time elapsed: 26.644 s
+% (54132)Instructions burned: 124995 (million)
+% (54302)ott+1002_3:2_aac=none:abs=on:alpa=true:drc=off:gve=force:ind=struct:indao=on:newcnf=on:nicw=on:nm=30:rawr=on:taea=off:i=75001:si=on:rtra=on_0 on lemma4 for (146ds/75001Mi)
+% (54302)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54196)Instruction limit reached!
+% (54196)------------------------------
+% (54196)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54196)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54196)Termination reason: Time limit
+% (54196)Termination phase: Saturation
+
+% (54196)Memory used [KB]: 2949
+% (54196)Time elapsed: 4.129 s
+% (54196)Instructions burned: 16287 (million)
+WARNING Broken Constraint: if max_induction_gen_subset_size(7) has been set then induction_gen(off) is equal to on
+% (54303)ott+1002_1:1024_bsd=on:drc=off:fd=preordered:ind=struct:indao=on:indgenss=7:kws=inv_arity:rawr=on:sac=on:sp=const_max:spb=intro:sup=off:uhcvi=on:updr=off:uwa=ground:i=34870:si=on:rtra=on_0 on lemma4 for (141ds/34870Mi)
+% (54195)Instruction limit reached!
+% (54195)------------------------------
+% (54195)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54195)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54195)Termination reason: Time limit
+% (54195)Termination phase: Saturation
+
+% (54195)Memory used [KB]: 18869
+% (54195)Time elapsed: 5.647 s
+% (54195)Instructions burned: 21939 (million)
+% (54304)dis+1011_8:1_abs=on:bd=off:canc=cautious:ev=force:ind=int:indc=goal_plus:kws=inv_frequency:s2a=on:s2agt=10:sas=z3:sp=reverse_arity:ss=included:tgt=ground:i=33001:si=on:rtra=on_0 on lemma4 for (127ds/33001Mi)
+% (54140)Instruction limit reached!
+% (54140)------------------------------
+% (54140)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54140)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54140)Termination reason: Time limit
+% (54140)Termination phase: Saturation
+
+% (54140)Memory used [KB]: 4204
+% (54140)Time elapsed: 22.326 s
+% (54140)Instructions burned: 91554 (million)
+% (54306)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=122070:si=on:rtra=on_0 on lemma4 for (84ds/122070Mi)
+% (54303)Instruction limit reached!
+% (54303)------------------------------
+% (54303)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54303)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54303)Termination reason: Time limit
+% (54303)Termination phase: Saturation
+
+% (54303)Memory used [KB]: 4625
+% (54303)Time elapsed: 9.157 s
+% (54303)Instructions burned: 34872 (million)
+% (54326)dis+10_21:29_bd=off:br=off:drc=off:ev=cautious:gs=on:gtg=exists_sym:ind=struct:indgen=on:indgenss=2:lcm=reverse:s2agt=10:sac=on:slsq=on:slsqc=2:sos=all:sp=const_frequency:taea=off:tgt=full:i=123336:si=on:rtra=on_0 on lemma4 for (49ds/123336Mi)
+% (54138)Instruction limit reached!
+% (54138)------------------------------
+% (54138)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54138)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54138)Termination reason: Time limit
+% (54138)Termination phase: Saturation
+
+% (54138)Memory used [KB]: 10145
+% (54138)Time elapsed: 30.587 s
+% (54138)Instructions burned: 126082 (million)
+% (54347)ott+21_1:1_canc=cautious:cond=fast:drc=off:fd=preordered:ind=struct:indao=on:indgen=on:indgenss=1:indoct=on:newcnf=on:sik=recursion:sp=occurrence:taea=off:i=39735:si=on:rtra=on_0 on lemma4 for (48ds/39735Mi)
+% (54347)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54136)Instruction limit reached!
+% (54136)------------------------------
+% (54136)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54136)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54136)Termination reason: Time limit
+% (54136)Termination phase: Saturation
+
+% (54136)Memory used [KB]: 69182
+% (54136)Time elapsed: 32.015 s
+% (54136)Instructions burned: 133109 (million)
+% (54348)ott+10_1:172_awrs=decay:drc=off:gtg=position:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:sik=recursion:sp=weighted_frequency:taea=off:uhcvi=on:i=124992:si=on:rtra=on_0 on lemma4 for (45ds/124992Mi)
+% (54348)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54304)Instruction limit reached!
+% (54304)------------------------------
+% (54304)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54304)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54304)Termination reason: Time limit
+% (54304)Termination phase: Saturation
+
+% (54304)Memory used [KB]: 29041
+% (54304)Time elapsed: 8.990 s
+% (54304)Instructions burned: 33002 (million)
+% (54349)ott+10_1:4_av=off:drc=off:ind=struct:indgen=on:newcnf=on:nui=on:uwa=ground:i=20:si=on:rtra=on_0 on lemma4 for (37ds/20Mi)
+% (54349)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54349)Instruction limit reached!
+% (54349)------------------------------
+% (54349)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54349)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54349)Termination reason: Time limit
+% (54349)Termination phase: Saturation
+
+% (54349)Memory used [KB]: 995
+% (54349)Time elapsed: 0.033 s
+% (54349)Instructions burned: 20 (million)
+% (54350)dis+10_1:1_aac=none:alpa=true:drc=off:ind=both:indoct=on:newcnf=on:sac=on:taea=off:to=lpo:i=10:si=on:rtra=on_0 on lemma4 for (37ds/10Mi)
+% (54350)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54350)Instruction limit reached!
+% (54350)------------------------------
+% (54350)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54350)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54350)Termination reason: Time limit
+% (54350)Termination phase: Saturation
+
+% (54350)Memory used [KB]: 990
+% (54350)Time elapsed: 0.006 s
+% (54350)Instructions burned: 10 (million)
+% (54351)lrs+1010_1:3_drc=encompass:ind=both:indmd=1:nui=on:s2a=on:ss=axioms:i=48:si=on:rtra=on_0 on lemma4 for (37ds/48Mi)
+% (54351)Instruction limit reached!
+% (54351)------------------------------
+% (54351)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54351)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54351)Termination reason: Time limit
+% (54351)Termination phase: Saturation
+
+% (54351)Memory used [KB]: 1082
+% (54351)Time elapsed: 0.022 s
+% (54351)Instructions burned: 51 (million)
+% (54352)lrs+10_1:1_bd=off:gtg=exists_top:ind=struct:indmd=2:indstrhyp=on:nwc=5.0:s2a=on:s2agt=16:i=72:si=on:rtra=on_0 on lemma4 for (36ds/72Mi)
+% (54352)Instruction limit reached!
+% (54352)------------------------------
+% (54352)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54352)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54352)Termination reason: Time limit
+% (54352)Termination phase: Saturation
+
+% (54352)Memory used [KB]: 1177
+% (54352)Time elapsed: 0.030 s
+% (54352)Instructions burned: 73 (million)
+% (54353)ott+10_1:32_bsd=on:canc=force:drc=off:fsr=off:ind=struct:indao=on:newcnf=on:rawr=on:sac=on:taea=off:i=568:si=on:rtra=on_0 on lemma4 for (36ds/568Mi)
+% (54353)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54353)Instruction limit reached!
+% (54353)------------------------------
+% (54353)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54353)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54353)Termination reason: Time limit
+% (54353)Termination phase: Saturation
+
+% (54353)Memory used [KB]: 1154
+% (54353)Time elapsed: 0.162 s
+% (54353)Instructions burned: 570 (million)
+% (54354)lrs+1011_5:1_av=off:canc=force:drc=encompass:s2a=on:sp=const_frequency:to=lpo:urr=on:i=14:si=on:rtra=on_0 on lemma4 for (34ds/14Mi)
+% (54354)Instruction limit reached!
+% (54354)------------------------------
+% (54354)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54354)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54354)Termination reason: Time limit
+% (54354)Termination phase: Saturation
+
+% (54354)Memory used [KB]: 971
+% (54354)Time elapsed: 0.009 s
+% (54354)Instructions burned: 16 (million)
+% (54355)lrs+2_1:1_atotf=0.2:drc=off:gtg=exists_top:ind=both:nwc=10.0:sac=on:sp=unary_frequency:tgt=ground:to=lpo:i=14:si=on:rtra=on_0 on lemma4 for (34ds/14Mi)
+% (54355)Instruction limit reached!
+% (54355)------------------------------
+% (54355)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54355)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54355)Termination reason: Time limit
+% (54355)Termination phase: Saturation
+
+% (54355)Memory used [KB]: 955
+% (54355)Time elapsed: 0.011 s
+% (54355)Instructions burned: 15 (million)
+% (54356)dis+10_1:1_gtg=exists_top:gve=cautious:ind=struct:indn=off:rawr=on:s2a=on:s2agt=8:sac=on:uwa=all:i=22:si=on:rtra=on_0 on lemma4 for (34ds/22Mi)
+% (54356)Instruction limit reached!
+% (54356)------------------------------
+% (54356)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54356)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54356)Termination reason: Time limit
+% (54356)Termination phase: Saturation
+
+% (54356)Memory used [KB]: 1044
+% (54356)Time elapsed: 0.014 s
+% (54356)Instructions burned: 22 (million)
+% (54357)lrs+2_1:4_drc=off:gtg=position:gve=cautious:ile=on:ind=struct:indao=on:indc=goal:indmd=6:newcnf=on:nwc=5.0:s2a=on:tac=axiom:to=lpo:i=464:si=on:rtra=on_0 on lemma4 for (34ds/464Mi)
+% (54357)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54357)Instruction limit reached!
+% (54357)------------------------------
+% (54357)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54357)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54357)Termination reason: Time limit
+% (54357)Termination phase: Saturation
+
+% (54357)Memory used [KB]: 1479
+% (54357)Time elapsed: 0.143 s
+% (54357)Instructions burned: 465 (million)
+% (54358)lrs+10_1:1_drc=off:ind=both:indoct=on:indstrhyp=on:sos=on:sp=const_frequency:ss=axioms:to=lpo:i=192:si=on:rtra=on_0 on lemma4 for (32ds/192Mi)
+% (54358)Instruction limit reached!
+% (54358)------------------------------
+% (54358)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54358)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54358)Termination reason: Time limit
+% (54358)Termination phase: Saturation
+
+% (54358)Memory used [KB]: 3326
+% (54358)Time elapsed: 0.079 s
+% (54358)Instructions burned: 193 (million)
+% (54359)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=586:si=on:rtra=on_0 on lemma4 for (32ds/586Mi)
+% (54359)Instruction limit reached!
+% (54359)------------------------------
+% (54359)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54359)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54359)Termination reason: Time limit
+% (54359)Termination phase: Saturation
+
+% (54359)Memory used [KB]: 1149
+% (54359)Time elapsed: 0.158 s
+% (54359)Instructions burned: 590 (million)
+% (54360)lrs+1010_1:1_avsq=on:avsqc=1:avsqr=1,16:drc=off:ev=force:ind=struct:sos=on:to=lpo:urr=on:i=28:si=on:rtra=on_0 on lemma4 for (30ds/28Mi)
+% (54360)Instruction limit reached!
+% (54360)------------------------------
+% (54360)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54360)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54360)Termination reason: Time limit
+% (54360)Termination phase: Saturation
+
+% (54360)Memory used [KB]: 1105
+% (54360)Time elapsed: 0.014 s
+% (54360)Instructions burned: 30 (million)
+% (54361)ott+10_1:172_awrs=decay:drc=off:gtg=position:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:sik=recursion:sp=weighted_frequency:taea=off:uhcvi=on:i=330:si=on:rtra=on_0 on lemma4 for (30ds/330Mi)
+% (54361)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54361)Instruction limit reached!
+% (54361)------------------------------
+% (54361)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54361)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54361)Termination reason: Time limit
+% (54361)Termination phase: Saturation
+
+% (54361)Memory used [KB]: 1286
+% (54361)Time elapsed: 0.092 s
+% (54361)Instructions burned: 332 (million)
+% (54362)dis+10_1:14_gtg=position:sp=frequency:ss=axioms:tgt=full:i=18:si=on:rtra=on_0 on lemma4 for (29ds/18Mi)
+% (54362)Instruction limit reached!
+% (54362)------------------------------
+% (54362)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54362)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54362)Termination reason: Time limit
+% (54362)Termination phase: Saturation
+
+% (54362)Memory used [KB]: 955
+% (54362)Time elapsed: 0.010 s
+% (54362)Instructions burned: 18 (million)
+% (54363)lrs+10_1:128_drc=off:gtg=exists_top:ind=struct:indstrhyp=on:sac=on:slsq=on:slsqc=1:taea=off:i=50:si=on:rtra=on_0 on lemma4 for (29ds/50Mi)
+% (54363)Instruction limit reached!
+% (54363)------------------------------
+% (54363)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54363)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54363)Termination reason: Time limit
+% (54363)Termination phase: Saturation
+
+% (54363)Memory used [KB]: 1090
+% (54363)Time elapsed: 0.022 s
+% (54363)Instructions burned: 52 (million)
+% (54364)lrs+1002_1:1_av=off:br=off:drc=off:gtg=exists_all:ind=both:indc=goal:indmd=15:plsq=on:plsqr=9,1:sos=on:sp=unary_frequency:tgt=ground:to=lpo:uace=off:uwa=one_side_interpreted:i=6:si=on:rtra=on_0 on lemma4 for (29ds/6Mi)
+% (54364)Instruction limit reached!
+% (54364)------------------------------
+% (54364)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54364)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54364)Termination reason: Time limit
+% (54364)Termination phase: Clausification
+
+% (54364)Memory used [KB]: 821
+% (54364)Time elapsed: 0.004 s
+% (54364)Instructions burned: 6 (million)
+% (54365)lrs+2_1:1_drc=encompass:ind=struct:indao=on:newcnf=on:plsq=on:plsqr=32,1:sp=frequency:to=lpo:i=4:si=on:rtra=on_0 on lemma4 for (28ds/4Mi)
+% (54365)Instruction limit reached!
+% (54365)------------------------------
+% (54365)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54365)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54365)Termination reason: Time limit
+% (54365)Termination phase: Property scanning
+
+% (54365)Memory used [KB]: 740
+% (54365)Time elapsed: 0.004 s
+% (54365)Instructions burned: 4 (million)
+% (54366)dis+1002_1:1024_av=off:bd=off:drc=off:fsr=off:gtg=position:ind=struct:indc=goal:indgen=on:indgenss=2:taea=off:to=lpo:i=1484:si=on:rtra=on_0 on lemma4 for (28ds/1484Mi)
+% (54197)Instruction limit reached!
+% (54197)------------------------------
+% (54197)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54197)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54197)Termination reason: Time limit
+% (54197)Termination phase: Saturation
+
+% (54197)Memory used [KB]: 56018
+% (54197)Time elapsed: 15.832 s
+% (54197)Instructions burned: 63511 (million)
+% (54367)lrs+1010_1:128_aac=none:alpa=false:cond=fast:drc=off:gtg=position:gve=cautious:ind=both:norm_ineq=on:nwc=10.0:sac=on:sp=frequency:tgt=full:to=lpo:i=106:si=on:rtra=on_0 on lemma4 for (24ds/106Mi)
+% (54366)Instruction limit reached!
+% (54366)------------------------------
+% (54366)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54366)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54366)Termination reason: Time limit
+% (54366)Termination phase: Saturation
+
+% (54366)Memory used [KB]: 2350
+% (54366)Time elapsed: 0.492 s
+% (54366)Instructions burned: 1485 (million)
+% (54368)lrs+1010_1:3_drc=encompass:ind=both:indmd=1:nui=on:s2a=on:ss=axioms:i=132:si=on:rtra=on_0 on lemma4 for (23ds/132Mi)
+% (54367)Instruction limit reached!
+% (54367)------------------------------
+% (54367)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54367)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54367)Termination reason: Time limit
+% (54367)Termination phase: Saturation
+
+% (54367)Memory used [KB]: 1069
+% (54367)Time elapsed: 0.039 s
+% (54367)Instructions burned: 107 (million)
+% (54369)lrs+10_1:1_drc=encompass:fsr=off:ind=struct:indao=on:indmd=3:indoct=on:newcnf=on:taea=off:i=102:si=on:rtra=on_0 on lemma4 for (23ds/102Mi)
+% (54369)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54368)Instruction limit reached!
+% (54368)------------------------------
+% (54368)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54368)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54368)Termination reason: Time limit
+% (54368)Termination phase: Saturation
+
+% (54368)Memory used [KB]: 1087
+% (54368)Time elapsed: 0.042 s
+% (54368)Instructions burned: 132 (million)
+% (54370)ott+11_5:1_av=off:br=off:canc=cautious:drc=off:ev=cautious:fsr=off:ind=struct:indstrhyp=on:newcnf=on:i=256:si=on:rtra=on_0 on lemma4 for (23ds/256Mi)
+% (54370)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54369)Instruction limit reached!
+% (54369)------------------------------
+% (54369)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54369)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54369)Termination reason: Time limit
+% (54369)Termination phase: Saturation
+
+% (54369)Memory used [KB]: 1410
+% (54369)Time elapsed: 0.038 s
+% (54369)Instructions burned: 102 (million)
+% (54371)ott+10_1:12_bsd=on:drc=off:fde=none:ind=struct:indgen=on:indgenss=2:norm_ineq=on:sac=on:taea=off:thi=strong:uwa=ground:i=1142:si=on:rtra=on_0 on lemma4 for (23ds/1142Mi)
+% (54370)Instruction limit reached!
+% (54370)------------------------------
+% (54370)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54370)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54370)Termination reason: Time limit
+% (54370)Termination phase: Saturation
+
+% (54370)Memory used [KB]: 1202
+% (54370)Time elapsed: 0.077 s
+% (54370)Instructions burned: 259 (million)
+% (54372)dis+1010_1:1_alpa=random:drc=encompass:gtg=all:kws=arity:nwc=3.0:spb=goal_then_units:ss=axioms:urr=on:i=88:si=on:rtra=on_0 on lemma4 for (22ds/88Mi)
+% (54372)Instruction limit reached!
+% (54372)------------------------------
+% (54372)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54372)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54372)Termination reason: Time limit
+% (54372)Termination phase: Saturation
+
+% (54372)Memory used [KB]: 1400
+% (54372)Time elapsed: 0.033 s
+% (54372)Instructions burned: 89 (million)
+% (54373)lrs+10_1:1_fsr=off:gtg=position:ind=both:indmd=1:indstrhyp=on:nwc=5.0:s2a=on:i=62:si=on:rtra=on_0 on lemma4 for (22ds/62Mi)
+% (54373)Instruction limit reached!
+% (54373)------------------------------
+% (54373)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54373)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54373)Termination reason: Time limit
+% (54373)Termination phase: Saturation
+
+% (54373)Memory used [KB]: 1037
+% (54373)Time elapsed: 0.025 s
+% (54373)Instructions burned: 63 (million)
+% (54374)lrs+1010_1:1_bsr=unit_only:ev=cautious:ind=both:nui=on:sac=on:i=94:si=on:rtra=on_0 on lemma4 for (21ds/94Mi)
+% (54374)Refutation not found, non-redundant clauses discarded% (54374)------------------------------
+% (54374)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54374)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54374)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (54374)Memory used [KB]: 1375
+% (54374)Time elapsed: 0.043 s
+% (54374)Instructions burned: 93 (million)
+% (54374)------------------------------
+% (54374)------------------------------
+WARNING Broken Constraint: if max_induction_gen_subset_size(7) has been set then induction_gen(off) is equal to on
+% (54375)ott+1002_1:1024_bsd=on:drc=off:fd=preordered:ind=struct:indao=on:indgenss=7:kws=inv_arity:rawr=on:sac=on:sp=const_max:spb=intro:sup=off:uhcvi=on:updr=off:uwa=ground:i=760:si=on:rtra=on_0 on lemma4 for (21ds/760Mi)
+% (54371)Instruction limit reached!
+% (54371)------------------------------
+% (54371)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54371)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54371)Termination reason: Time limit
+% (54371)Termination phase: Saturation
+
+% (54371)Memory used [KB]: 1386
+% (54371)Time elapsed: 0.362 s
+% (54371)Instructions burned: 1143 (million)
+% (54376)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=1720:si=on:rtra=on_0 on lemma4 for (19ds/1720Mi)
+% (54375)Instruction limit reached!
+% (54375)------------------------------
+% (54375)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54375)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54375)Termination reason: Time limit
+% (54375)Termination phase: Saturation
+
+% (54375)Memory used [KB]: 1401
+% (54375)Time elapsed: 0.198 s
+% (54375)Instructions burned: 761 (million)
+% (54377)lrs+1010_1:1_avsq=on:avsqc=1:avsqr=1,16:drc=off:ev=force:ind=struct:sos=on:to=lpo:urr=on:i=92:si=on:rtra=on_0 on lemma4 for (19ds/92Mi)
+% (54377)Instruction limit reached!
+% (54377)------------------------------
+% (54377)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54377)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54377)Termination reason: Time limit
+% (54377)Termination phase: Saturation
+
+% (54377)Memory used [KB]: 1910
+% (54377)Time elapsed: 0.038 s
+% (54377)Instructions burned: 94 (million)
+% (54378)ott+10_1:172_awrs=decay:drc=off:gtg=position:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:sik=recursion:sp=weighted_frequency:taea=off:uhcvi=on:i=2216:si=on:rtra=on_0 on lemma4 for (18ds/2216Mi)
+% (54378)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54376)Instruction limit reached!
+% (54376)------------------------------
+% (54376)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54376)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54376)Termination reason: Time limit
+% (54376)Termination phase: Saturation
+
+% (54376)Memory used [KB]: 1230
+% (54376)Time elapsed: 0.436 s
+% (54376)Instructions burned: 1720 (million)
+% (54380)lrs+10_1:128_drc=off:gtg=exists_top:ind=struct:indstrhyp=on:sac=on:slsq=on:slsqc=1:taea=off:i=122:si=on:rtra=on_0 on lemma4 for (15ds/122Mi)
+% (54380)Instruction limit reached!
+% (54380)------------------------------
+% (54380)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54380)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54380)Termination reason: Time limit
+% (54380)Termination phase: Saturation
+
+% (54380)Memory used [KB]: 1353
+% (54380)Time elapsed: 0.047 s
+% (54380)Instructions burned: 123 (million)
+% (54381)lrs+10_1:1_drc=off:gtg=exists_sym:ind=struct:indstrhyp=on:sp=const_min:taea=off:tar=off:to=lpo:i=134:si=on:rtra=on_0 on lemma4 for (14ds/134Mi)
+% (54381)Instruction limit reached!
+% (54381)------------------------------
+% (54381)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54381)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54381)Termination reason: Time limit
+% (54381)Termination phase: Saturation
+
+% (54381)Memory used [KB]: 1426
+% (54381)Time elapsed: 0.051 s
+% (54381)Instructions burned: 134 (million)
+% (54382)lrs+1002_1:1_av=off:br=off:drc=off:gtg=exists_all:ind=both:indc=goal:indmd=15:plsq=on:plsqr=9,1:sos=on:sp=unary_frequency:tgt=ground:to=lpo:uace=off:uwa=one_side_interpreted:i=6:si=on:rtra=on_0 on lemma4 for (14ds/6Mi)
+% (54382)Instruction limit reached!
+% (54382)------------------------------
+% (54382)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54382)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54382)Termination reason: Time limit
+% (54382)Termination phase: Twee Goal Transformation
+
+% (54382)Memory used [KB]: 827
+% (54382)Time elapsed: 0.004 s
+% (54382)Instructions burned: 7 (million)
+% (54383)lrs+21_1:1_av=off:ind=struct:newcnf=on:plsq=on:plsqc=1:plsqr=32,1:rawr=on:sos=all:sup=off:i=40:si=on:rtra=on_0 on lemma4 for (14ds/40Mi)
+% (54383)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54383)Instruction limit reached!
+% (54383)------------------------------
+% (54383)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54383)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54383)Termination reason: Time limit
+% (54383)Termination phase: Saturation
+
+% (54383)Memory used [KB]: 1059
+% (54383)Time elapsed: 0.018 s
+% (54383)Instructions burned: 42 (million)
+% (54384)lrs+2_1:1_drc=encompass:ind=struct:indao=on:newcnf=on:plsq=on:plsqr=32,1:sp=frequency:to=lpo:i=38:si=on:rtra=on_0 on lemma4 for (13ds/38Mi)
+% (54384)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54384)Instruction limit reached!
+% (54384)------------------------------
+% (54384)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54384)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54384)Termination reason: Time limit
+% (54384)Termination phase: Saturation
+
+% (54384)Memory used [KB]: 1014
+% (54384)Time elapsed: 0.019 s
+% (54384)Instructions burned: 38 (million)
+% (54385)lrs+2_1:1_av=off:drc=off:gtg=position:ind=struct:indoct=on:plsq=on:plsqc=1:plsqr=32,1:to=lpo:i=66:si=on:rtra=on_0 on lemma4 for (13ds/66Mi)
+% (54378)Instruction limit reached!
+% (54378)------------------------------
+% (54378)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54378)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54378)Termination reason: Time limit
+% (54378)Termination phase: Saturation
+
+% (54378)Memory used [KB]: 1954
+% (54378)Time elapsed: 0.549 s
+% (54378)Instructions burned: 2218 (million)
+% (54386)ott+21_1:10_bsr=on:canc=force:drc=encompass:ev=cautious:ile=on:ind=struct:indao=on:indoct=on:newcnf=on:spb=non_intro:tac=rule:taea=off:to=lpo:i=886:si=on:rtra=on_0 on lemma4 for (13ds/886Mi)
+% (54386)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54385)Instruction limit reached!
+% (54385)------------------------------
+% (54385)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54385)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54385)Termination reason: Time limit
+% (54385)Termination phase: Saturation
+
+% (54385)Memory used [KB]: 1061
+% (54385)Time elapsed: 0.025 s
+% (54385)Instructions burned: 67 (million)
+% (54387)lrs+1002_1:1_bd=preordered:gtg=exists_all:gtgl=3:ind=struct:indmd=1:indstrhyp=on:nui=on:sos=on:i=36:si=on:rtra=on_0 on lemma4 for (13ds/36Mi)
+% (54387)Instruction limit reached!
+% (54387)------------------------------
+% (54387)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54387)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54387)Termination reason: Time limit
+% (54387)Termination phase: Saturation
+
+% (54387)Memory used [KB]: 1116
+% (54387)Time elapsed: 0.018 s
+% (54387)Instructions burned: 37 (million)
+% (54388)lrs+1002_1:1_canc=cautious:sos=on:sp=unary_frequency:i=38:si=on:rtra=on_0 on lemma4 for (12ds/38Mi)
+% (54388)Instruction limit reached!
+% (54388)------------------------------
+% (54388)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54388)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54388)Termination reason: Time limit
+% (54388)Termination phase: Saturation
+
+% (54388)Memory used [KB]: 1032
+% (54388)Time elapsed: 0.018 s
+% (54388)Instructions burned: 38 (million)
+% (54389)lrs+10_1:1_gtg=exists_sym:ind=struct:indstrhyp=on:kws=precedence:sos=on:sp=unary_first:spb=goal:urr=on:i=178:si=on:rtra=on_0 on lemma4 for (12ds/178Mi)
+% (54389)Instruction limit reached!
+% (54389)------------------------------
+% (54389)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54389)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54389)Termination reason: Time limit
+% (54389)Termination phase: Saturation
+
+% (54389)Memory used [KB]: 2694
+% (54389)Time elapsed: 0.075 s
+% (54389)Instructions burned: 178 (million)
+% (54390)ott+10_1:1_ev=cautious:gtg=exists_top:ind=struct:indc=goal:indstrhyp=on:nwc=10.0:sos=on:i=144:si=on:rtra=on_0 on lemma4 for (11ds/144Mi)
+% (54390)Instruction limit reached!
+% (54390)------------------------------
+% (54390)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54390)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54390)Termination reason: Time limit
+% (54390)Termination phase: Saturation
+
+% (54390)Memory used [KB]: 1370
+% (54390)Time elapsed: 0.056 s
+% (54390)Instructions burned: 145 (million)
+% (54391)lrs+10_1:1_bd=off:gtg=exists_top:ind=struct:indmd=2:indstrhyp=on:nwc=5.0:s2a=on:s2agt=16:i=82:si=on:rtra=on_0 on lemma4 for (11ds/82Mi)
+% (54391)Refutation not found, non-redundant clauses discarded% (54391)------------------------------
+% (54391)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54391)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54391)Termination reason: Refutation not found, non-redundant clauses discarded
+
+% (54391)Memory used [KB]: 1146
+% (54391)Time elapsed: 0.032 s
+% (54391)Instructions burned: 83 (million)
+% (54391)------------------------------
+% (54391)------------------------------
+% (54392)dis+10_1:128_ind=both:indmd=1:indstrhyp=on:nui=on:sac=on:i=90:si=on:rtra=on_0 on lemma4 for (10ds/90Mi)
+% (54386)Instruction limit reached!
+% (54386)------------------------------
+% (54386)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54386)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54386)Termination reason: Time limit
+% (54386)Termination phase: Saturation
+
+% (54386)Memory used [KB]: 1835
+% (54386)Time elapsed: 0.280 s
+% (54386)Instructions burned: 890 (million)
+% (54393)ott+1002_1:4_drc=off:fde=unused:fsd=on:fsdmm=3:gtg=exists_all:gtgl=3:ind=struct:indgen=on:indoct=on:newcnf=on:norm_ineq=on:sp=occurrence:taea=off:to=lpo:i=168:si=on:rtra=on_0 on lemma4 for (10ds/168Mi)
+% (54393)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54392)Instruction limit reached!
+% (54392)------------------------------
+% (54392)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54392)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54392)Termination reason: Time limit
+% (54392)Termination phase: Saturation
+
+% (54392)Memory used [KB]: 1137
+% (54392)Time elapsed: 0.038 s
+% (54392)Instructions burned: 92 (million)
+% (54394)dis+10_1:1_av=off:fsd=on:fsr=off:gtg=exists_all:ind=struct:indc=goal:indgen=on:ss=axioms:i=132:si=on:rtra=on_0 on lemma4 for (10ds/132Mi)
+% (54394)Instruction limit reached!
+% (54394)------------------------------
+% (54394)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54394)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54394)Termination reason: Time limit
+% (54394)Termination phase: Saturation
+
+% (54394)Memory used [KB]: 1134
+% (54394)Time elapsed: 0.039 s
+% (54394)Instructions burned: 132 (million)
+% (54393)Instruction limit reached!
+% (54393)------------------------------
+% (54393)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54393)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54393)Termination reason: Time limit
+% (54393)Termination phase: Saturation
+
+% (54393)Memory used [KB]: 1109
+% (54393)Time elapsed: 0.062 s
+% (54393)Instructions burned: 170 (million)
+% (54395)ott+1011_1:1_ind=struct:indstrhyp=on:newcnf=on:nui=on:s2a=on:i=148:si=on:rtra=on_0 on lemma4 for (9ds/148Mi)
+% (54395)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54396)ott+1011_31:15_abs=on:drc=off:ev=cautious:gtg=position:gtgl=3:ind=struct:indc=goal:indmd=1:taea=off:to=lpo:i=358:si=on:rtra=on_0 on lemma4 for (9ds/358Mi)
+% (54395)Instruction limit reached!
+% (54395)------------------------------
+% (54395)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54395)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54395)Termination reason: Time limit
+% (54395)Termination phase: Saturation
+
+% (54395)Memory used [KB]: 1418
+% (54395)Time elapsed: 0.052 s
+% (54395)Instructions burned: 150 (million)
+% (54397)ott+1002_3:2_aac=none:abs=on:alpa=true:drc=off:gve=force:ind=struct:indao=on:newcnf=on:nicw=on:nm=30:rawr=on:taea=off:i=2076:si=on:rtra=on_0 on lemma4 for (9ds/2076Mi)
+% (54397)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54396)Instruction limit reached!
+% (54396)------------------------------
+% (54396)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54396)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54396)Termination reason: Time limit
+% (54396)Termination phase: Saturation
+
+% (54396)Memory used [KB]: 1826
+% (54396)Time elapsed: 0.092 s
+% (54396)Instructions burned: 359 (million)
+% (54398)ott+1002_1:1024_bce=on:drc=off:fsd=on:ind=struct:indgen=on:indgenss=2:sac=on:taea=off:to=lpo:uwa=interpreted_only:i=2044:si=on:rtra=on_0 on lemma4 for (8ds/2044Mi)
+% (54398)Instruction limit reached!
+% (54398)------------------------------
+% (54398)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54398)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54398)Termination reason: Time limit
+% (54398)Termination phase: Saturation
+
+% (54398)Memory used [KB]: 1231
+% (54398)Time elapsed: 0.438 s
+% (54398)Instructions burned: 2049 (million)
+% (54399)dis+10_1:1_av=off:bsd=on:fd=off:fnrw=on:gtg=all:gtgl=2:ind=both:indao=on:indc=goal:indgen=on:newcnf=on:plsq=on:plsqr=32,1:ss=axioms:i=178:si=on:rtra=on_0 on lemma4 for (4ds/178Mi)
+% (54399)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54399)Refutation not found, incomplete strategy% (54399)------------------------------
+% (54399)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54399)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54399)Termination reason: Refutation not found, incomplete strategy
+
+% (54399)Memory used [KB]: 964
+% (54399)Time elapsed: 0.010 s
+% (54399)Instructions burned: 25 (million)
+% (54399)------------------------------
+% (54399)------------------------------
+% (54400)ott+1011_1:1_aac=none:fd=preordered:ind=struct:indao=on:newcnf=on:nm=0:nui=on:sik=three:sp=const_frequency:spb=intro:to=lpo:i=70:si=on:rtra=on_0 on lemma4 for (4ds/70Mi)
+% (54400)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54400)Instruction limit reached!
+% (54400)------------------------------
+% (54400)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54400)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54400)Termination reason: Time limit
+% (54400)Termination phase: Saturation
+
+% (54400)Memory used [KB]: 1427
+% (54400)Time elapsed: 0.038 s
+% (54400)Instructions burned: 71 (million)
+% (54397)Instruction limit reached!
+% (54397)------------------------------
+% (54397)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54397)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54397)Termination reason: Time limit
+% (54397)Termination phase: Saturation
+
+% (54397)Memory used [KB]: 2270
+% (54397)Time elapsed: 0.528 s
+% (54397)Instructions burned: 2077 (million)
+% (54401)ott+21_1:1_canc=cautious:cond=fast:drc=off:fd=preordered:ind=struct:indao=on:indgen=on:indgenss=1:indoct=on:newcnf=on:sik=recursion:sp=occurrence:taea=off:i=1376:si=on:rtra=on_0 on lemma4 for (3ds/1376Mi)
+% (54401)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54402)lrs+1002_1:1_av=off:br=off:drc=off:gtg=exists_all:ind=both:indc=goal:indmd=15:plsq=on:plsqr=9,1:sos=on:sp=unary_frequency:tgt=ground:to=lpo:uace=off:uwa=one_side_interpreted:i=6:si=on:rtra=on_0 on lemma4 for (3ds/6Mi)
+% (54402)Instruction limit reached!
+% (54402)------------------------------
+% (54402)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54402)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54402)Termination reason: Time limit
+% (54402)Termination phase: Preprocessing 3
+
+% (54402)Memory used [KB]: 816
+% (54402)Time elapsed: 0.006 s
+% (54402)Instructions burned: 6 (million)
+% (54403)ott+10_5:1_drc=off:ind=struct:indstrhyp=on:kws=precedence:taea=off:uwa=all:i=102:si=on:rtra=on_0 on lemma4 for (3ds/102Mi)
+% (54403)Instruction limit reached!
+% (54403)------------------------------
+% (54403)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54403)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54403)Termination reason: Time limit
+% (54403)Termination phase: Saturation
+
+% (54403)Memory used [KB]: 1408
+% (54403)Time elapsed: 0.042 s
+% (54403)Instructions burned: 102 (million)
+% (54404)dis+10_1:64_ind=both:indao=on:indstrhyp=on:intindint=infinite:newcnf=on:nm=0:ss=axioms:i=110:si=on:rtra=on_0 on lemma4 for (3ds/110Mi)
+% (54404)WARNING: Not using newCnf currently not compatible with polymorphic/higher-order inputs.
+% (54404)Instruction limit reached!
+% (54404)------------------------------
+% (54404)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54404)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54404)Termination reason: Time limit
+% (54404)Termination phase: Saturation
+
+% (54404)Memory used [KB]: 1131
+% (54404)Time elapsed: 0.061 s
+% (54404)Instructions burned: 110 (million)
+% (54405)lrs+1010_1:1_asg=cautious:gtg=all:ind=struct:indc=goal:norm_ineq=on:nui=on:s2a=on:i=222:si=on:rtra=on_0 on lemma4 for (2ds/222Mi)
+% (54405)Instruction limit reached!
+% (54405)------------------------------
+% (54405)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54405)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54405)Termination reason: Time limit
+% (54405)Termination phase: Saturation
+
+% (54405)Memory used [KB]: 1201
+% (54405)Time elapsed: 0.090 s
+% (54405)Instructions burned: 222 (million)
+% (54406)lrs+1011_1:7_drc=off:fsr=off:ind=struct:norm_ineq=on:s2a=on:taea=off:to=lpo:uace=off:uwa=interpreted_only:i=120:si=on:rtra=on_0 on lemma4 for (2ds/120Mi)
+% (54406)Instruction limit reached!
+% (54406)------------------------------
+% (54406)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54406)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54406)Termination reason: Time limit
+% (54406)Termination phase: Saturation
+
+% (54406)Memory used [KB]: 1634
+% (54406)Time elapsed: 0.071 s
+% (54406)Instructions burned: 123 (million)
+% (54407)dis+10_1:1024_av=off:ind=struct:indgen=on:indgenss=2:indmd=1:indstrhyp=on:sp=const_min:taea=off:to=lpo:i=76:si=on:rtra=on_0 on lemma4 for (1ds/76Mi)
+% (54407)Instruction limit reached!
+% (54407)------------------------------
+% (54407)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54407)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54407)Termination reason: Time limit
+% (54407)Termination phase: Saturation
+
+% (54407)Memory used [KB]: 1039
+% (54407)Time elapsed: 0.049 s
+% (54407)Instructions burned: 76 (million)
+% (54408)lrs+1010_1:128_aac=none:alpa=false:cond=fast:drc=off:gtg=position:gve=cautious:ind=both:norm_ineq=on:nwc=10.0:sac=on:sp=frequency:tgt=full:to=lpo:i=222:si=on:rtra=on_0 on lemma4 for (1ds/222Mi)
+% (54408)Instruction limit reached!
+% (54408)------------------------------
+% (54408)Version: Vampire 4.9 (commit 5ad494e78 on 2024-06-14 14:05:27 +0100)
+% (54408)Linked with Z3 4.12.3.0 79bbbf76d0c123481c8ca05cd3a98939270074d3 z3-4.8.4-7980-g79bbbf76d
+% (54408)Termination reason: Time limit
+% (54408)Termination phase: Saturation
+
+% (54408)Memory used [KB]: 1120
+% (54408)Time elapsed: 0.092 s
+% (54408)Instructions burned: 223 (million)
+% (53747)Proof not found in time 59.95 s
+% (53747)SZS status Timeout for lemma4
